@@ -1,0 +1,139 @@
+{
+  "T000250": [
+    {"committee": "Senate Leadership", "role": "Majority Leader"}
+  ],
+  "S000148": [
+    {"committee": "Senate Leadership", "role": "Minority Leader"}
+  ],
+  "D000563": [
+    {"committee": "Senate Leadership", "role": "Minority Whip"},
+    {"committee": "Appropriations", "role": "Member"},
+    {"committee": "Budget", "role": "Member"}
+  ],
+  "B001261": [
+    {"committee": "Senate Leadership", "role": "Majority Whip"}
+  ],
+  "C001035": [
+    {"committee": "Appropriations", "role": "Chair"},
+    {"committee": "Intelligence", "role": "Member"}
+  ],
+  "M001111": [
+    {"committee": "Appropriations", "role": "Ranking Member"},
+    {"committee": "Budget", "role": "Member"}
+  ],
+  "W000437": [
+    {"committee": "Armed Services", "role": "Chair"}
+  ],
+  "R000122": [
+    {"committee": "Armed Services", "role": "Ranking Member"},
+    {"committee": "Appropriations", "role": "Member"}
+  ],
+  "R000584": [
+    {"committee": "Foreign Relations", "role": "Chair"},
+    {"committee": "Intelligence", "role": "Member"}
+  ],
+  "S001181": [
+    {"committee": "Foreign Relations", "role": "Ranking Member"},
+    {"committee": "Appropriations", "role": "Member"},
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "G000386": [
+    {"committee": "Budget", "role": "Chair"}
+  ],
+  "W000802": [
+    {"committee": "Budget", "role": "Ranking Member"}
+  ],
+  "C001095": [
+    {"committee": "Intelligence", "role": "Chair"},
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "W000805": [
+    {"committee": "Intelligence", "role": "Ranking Member"}
+  ],
+  "G000359": [
+    {"committee": "Appropriations", "role": "Member"},
+    {"committee": "Budget", "role": "Member"}
+  ],
+  "E000295": [
+    {"committee": "Armed Services", "role": "Member"},
+    {"committee": "Appropriations", "role": "Member"}
+  ],
+  "S001198": [
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "T000476": [
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "R000605": [
+    {"committee": "Armed Services", "role": "Member"},
+    {"committee": "Foreign Relations", "role": "Member"}
+  ],
+  "C001056": [
+    {"committee": "Intelligence", "role": "Member"},
+    {"committee": "Finance", "role": "Chair"}
+  ],
+  "C001075": [
+    {"committee": "Appropriations", "role": "Member"},
+    {"committee": "Foreign Relations", "role": "Member"}
+  ],
+  "M001153": [
+    {"committee": "Appropriations", "role": "Member"}
+  ],
+  "H001079": [
+    {"committee": "Appropriations", "role": "Member"}
+  ],
+  "M000934": [
+    {"committee": "Appropriations", "role": "Member"}
+  ],
+  "C001047": [
+    {"committee": "Appropriations", "role": "Member"}
+  ],
+  "H001086": [
+    {"committee": "Foreign Relations", "role": "Member"},
+    {"committee": "Appropriations", "role": "Member"}
+  ],
+  "M000355": [
+    {"committee": "Appropriations", "role": "Member"}
+  ],
+  "C001098": [
+    {"committee": "Foreign Relations", "role": "Member"}
+  ],
+  "K000384": [
+    {"committee": "Armed Services", "role": "Member"},
+    {"committee": "Foreign Relations", "role": "Member"}
+  ],
+  "G000555": [
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "B001277": [
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "K000377": [
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "D000622": [
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "L000577": [
+    {"committee": "Budget", "role": "Member"}
+  ],
+  "V000128": [
+    {"committee": "Appropriations", "role": "Member"},
+    {"committee": "Foreign Relations", "role": "Member"}
+  ],
+  "P000595": [
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "S001194": [
+    {"committee": "Appropriations", "role": "Member"}
+  ],
+  "O000174": [
+    {"committee": "Intelligence", "role": "Member"}
+  ],
+  "S001217": [
+    {"committee": "Armed Services", "role": "Member"}
+  ],
+  "L000571": [
+    {"committee": "Budget", "role": "Member"}
+  ]
+}

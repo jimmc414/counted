@@ -1,0 +1,101 @@
+Rank,Name,Party,State,Score,Key Factor,DC Phone,Twitter
+1,Susan Collins,R,ME,0.7954,Committee power,(202) 224-2523,@SenatorCollins
+2,Thom Tillis,R,NC,0.3526,Committee power,(202) 224-6342,@SenThomTillis
+3,Dan Sullivan,R,AK,0.3443,Signal/narrative value if shifted,(202) 224-3004,@SenDanSullivan
+4,Shelley Moore Capito,R,WV,0.3402,Signal/narrative value if shifted,(202) 224-6472,@SenCapito
+5,Joni Ernst,R,IA,0.3344,Signal/narrative value if shifted,(202) 224-3254,@SenJoniErnst
+6,Dick Durbin,D,IL,0.3321,Committee power,(202) 224-2152,@SenatorDurbin
+7,Jack Reed,D,RI,0.3175,Committee power,(202) 224-4642,@SenJackReed
+8,Jeanne Shaheen,D,NH,0.2663,Committee power,(202) 224-2841,@SenatorShaheen
+9,Lisa Murkowski,R,AK,0.2554,Signal/narrative value if shifted,(202) 224-6665,@lisamurkowski
+10,Mike Rounds,R,SD,0.2527,Electoral proximity (up 2026),(202) 224-5842,@SenatorRounds
+11,Patty Murray,D,WA,0.2341,Committee power,(202) 224-2621,@PattyMurray
+12,Gary Peters,D,MI,0.2162,Committee power,(202) 224-6221,@SenGaryPeters
+13,Jim Risch,R,ID,0.2089,Electoral proximity (up 2026),(202) 224-2752,@SenatorRisch
+14,Mark Warner,D,VA,0.2063,Electoral proximity (up 2026),(202) 224-2023,@MarkWarner
+15,John Cornyn,R,TX,0.1913,Electoral proximity (up 2026),(202) 224-2934,@JohnCornyn
+16,Bill Cassidy,R,LA,0.1909,Electoral proximity (up 2026),(202) 224-5824,@SenBillCassidy
+17,Jerry Moran,R,KS,0.1839,Demonstrated ambivalence on war,(202) 224-6521,@JerryMoran
+18,Richard Blumenthal,D,CT,0.1672,Committee power,(202) 224-2823,@SenBlumenthal
+19,Brian Schatz,D,HI,0.1672,Committee power,(202) 224-3934,@braborschatz
+20,Tammy Duckworth,D,IL,0.1672,Committee power,(202) 224-2854,@SenDuckworth
+21,Chris Van Hollen,D,MD,0.1672,Committee power,(202) 224-4654,@ChrisVanHollen
+22,Cindy Hyde-Smith,R,MS,0.1597,Electoral proximity (up 2026),(202) 224-5054,@SenHydeSmith
+23,Jon Ossoff,D,GA,0.1513,Committee power,(202) 224-3521,@SenOssoff
+24,Tom Cotton,R,AR,0.1497,Electoral proximity (up 2026),(202) 224-2353,@SenTomCotton
+25,Kirsten Gillibrand,D,NY,0.1472,Committee power,(202) 224-4451,@SenGillibrand
+26,Chuck Schumer,D,NY,0.1421,Blue-state electorate,(202) 224-6542,@SenSchumer
+27,Sheldon Whitehouse,D,RI,0.1398,Blue-state electorate,(202) 224-2921,@SenWhitehouse
+28,Mark Kelly,D,AZ,0.1332,Committee power,(202) 224-2235,@SenMarkKelly
+29,Bill Hagerty,R,TN,0.1304,Electoral proximity (up 2026),(202) 224-4944,@SenatorHagerty
+30,Tim Kaine,D,VA,0.1272,Committee power,(202) 224-4024,@timkaine
+31,Mitch McConnell,R,KY,0.1100,Committee power,(202) 224-2541,@LeaderMcConnell
+32,Tina Smith,D,MN,0.1094,Signal/narrative value if shifted,(202) 224-5641,@SenTinaSmith
+33,Ben Ray Lujan,D,NM,0.1094,Signal/narrative value if shifted,(202) 224-6621,@SenatorLujan
+34,Cory Booker,D,NJ,0.1067,Signal/narrative value if shifted,(202) 224-3224,@SenBooker
+35,Jeff Merkley,D,OR,0.1067,Signal/narrative value if shifted,(202) 224-3753,@SenJeffMerkley
+36,Chris Coons,D,DE,0.1021,Signal/narrative value if shifted,(202) 224-5042,@ChrisCoons
+37,Ed Markey,D,MA,0.1021,Signal/narrative value if shifted,(202) 224-2742,@SenMarkey
+38,Lindsey Graham,R,SC,0.1003,Electoral proximity (up 2026),(202) 224-5972,@LindseyGrahamSC
+39,Cynthia Lummis,R,WY,0.0988,Electoral proximity (up 2026),(202) 224-3424,@SenLummis
+40,John Hickenlooper,D,CO,0.0977,Electoral proximity (up 2026),(202) 224-5941,@SenatorHick
+41,Chuck Grassley,R,IA,0.0971,Committee power,(202) 224-3744,@ChuckGrassley
+42,Rand Paul,R,KY,0.0971,Signal/narrative value if shifted,(202) 224-4343,@RandPaul
+43,Steve Daines,R,MT,0.0901,Electoral proximity (up 2026),(202) 224-2651,@SteveDaines
+44,Roger Wicker,R,MS,0.0856,Committee power,(202) 224-6253,@SenatorWicker
+45,Rick Scott,R,FL,0.0832,Committee power,(202) 224-5274,@SenRickScott
+46,Roger Marshall,R,KS,0.0826,Electoral proximity (up 2026),(202) 224-4774,@RogerMarshallMD
+47,Pete Ricketts,R,NE,0.0826,Electoral proximity (up 2026),(202) 224-4224,@SenatorRicketts
+48,Ted Cruz,R,TX,0.0822,Committee power,(202) 224-5922,@SenTedCruz
+49,Bernie Sanders,I,VT,0.0792,Blue-state electorate,(202) 224-5141,@SenSanders
+50,Alex Padilla,D,CA,0.0752,Blue-state electorate,(202) 224-3553,@SenAlexPadilla
+51,Ron Wyden,D,OR,0.0752,Blue-state electorate,(202) 224-5244,@RonWyden
+52,Peter Welch,D,VT,0.0752,Blue-state electorate,(202) 224-4242,@SenPeterWelch
+53,Ron Johnson,R,WI,0.0725,Signal/narrative value if shifted,(202) 224-5323,@SenRonJohnson
+54,Angus King,I,ME,0.0702,Blue-state electorate,(202) 224-5344,@SenAngusKing
+55,Markwayne Mullin,R,OK,0.0676,Electoral proximity (up 2026),(202) 224-4721,@SenMullin
+56,Adam Schiff,D,CA,0.0662,Blue-state electorate,(202) 224-3841,@SenAdamSchiff
+57,Michael Bennet,D,CO,0.0662,Blue-state electorate,(202) 224-5852,@SenatorBennet
+58,Chris Murphy,D,CT,0.0662,Blue-state electorate,(202) 224-4041,@ChrisMurphyCT
+59,Lisa Blunt Rochester,D,DE,0.0662,Blue-state electorate,(202) 224-5042,@SenBluntRoch
+60,Mazie Hirono,D,HI,0.0662,Blue-state electorate,(202) 224-6361,@maaborhirono
+61,Angela Alsobrooks,D,MD,0.0662,Blue-state electorate,(202) 224-4654,@SenAlsobrooks
+62,Elizabeth Warren,D,MA,0.0662,Blue-state electorate,(202) 224-4543,@SenWarren
+63,Andy Kim,D,NJ,0.0662,Blue-state electorate,(202) 224-3224,@SenAndyKimNJ
+64,Maria Cantwell,D,WA,0.0662,Blue-state electorate,(202) 224-3441,@SenatorCantwell
+65,Raphael Warnock,D,GA,0.0658,Signal/narrative value if shifted,(202) 224-3643,@SenReverendWarnock
+66,John Thune,R,SD,0.0653,Leadership role,(202) 224-2321,@SenJohnThune
+67,Dave McCormick,R,PA,0.0635,Signal/narrative value if shifted,(202) 224-4254,@SenMcCormickPA
+68,Mike Lee,R,UT,0.0610,Committee power,(202) 224-5444,@SenMikeLee
+69,John Fetterman,D,PA,0.0599,Signal/narrative value if shifted,(202) 224-4254,@SenFettermanPA
+70,Amy Klobuchar,D,MN,0.0572,Blue-state electorate,(202) 224-3244,@SenAmyKlobuchar
+71,Martin Heinrich,D,NM,0.0572,Blue-state electorate,(202) 224-5521,@MartinHeinrich
+72,John Barrasso,R,WY,0.0571,Leadership role,(202) 224-6441,@SenJohnBarrasso
+73,Tammy Baldwin,D,WI,0.0568,Signal/narrative value if shifted,(202) 224-5653,@SenatorBaldwin
+74,Ted Budd,R,NC,0.0550,Signal/narrative value if shifted,(202) 224-3154,@SenTedBudd
+75,Ruben Gallego,D,AZ,0.0509,Signal/narrative value if shifted,(202) 224-2934,@SenRubenGallego
+76,Elissa Slotkin,D,MI,0.0509,Signal/narrative value if shifted,(202) 224-6221,@SenSlotkin
+77,Bernie Moreno,R,OH,0.0487,Signal/narrative value if shifted,(202) 224-2315,@SenBernieMoreno
+78,Catherine Cortez Masto,D,NV,0.0482,Signal/narrative value if shifted,(202) 224-3542,@SenCortezMasto
+79,Maggie Hassan,D,NH,0.0482,Signal/narrative value if shifted,(202) 224-3324,@SenatorHassan
+80,Tommy Tuberville,R,AL,0.0480,Electoral proximity (up 2026),(202) 224-4124,@SenTuberville
+81,Ashley Moody,R,FL,0.0460,Signal/narrative value if shifted,(202) 224-3041,
+82,Jon Husted,R,OH,0.0460,Signal/narrative value if shifted,(202) 224-3353,
+83,Katie Britt,R,AL,0.0392,Signal/narrative value if shifted,(202) 224-5744,@SenKatieBritt
+84,John Boozman,R,AR,0.0392,Signal/narrative value if shifted,(202) 224-4843,@JohnBoozman
+85,Mike Crapo,R,ID,0.0392,Signal/narrative value if shifted,(202) 224-6142,@MikeCrapo
+86,Todd Young,R,IN,0.0392,Signal/narrative value if shifted,(202) 224-5623,@SenToddYoung
+87,Eric Schmitt,R,MO,0.0392,Signal/narrative value if shifted,(202) 224-5721,@SenEricSchmitt
+88,Jacky Rosen,D,NV,0.0392,Blue-state electorate,(202) 224-6244,@SenJackyRosen
+89,John Hoeven,R,ND,0.0392,Signal/narrative value if shifted,(202) 224-2551,@SenJohnHoeven
+90,James Lankford,R,OK,0.0392,Signal/narrative value if shifted,(202) 224-5754,@SenatorLankford
+91,Tim Sheehy,R,MT,0.0361,Signal/narrative value if shifted,(202) 224-2644,@SenTimSheehy
+92,Deb Fischer,R,NE,0.0361,Signal/narrative value if shifted,(202) 224-6551,@SenatorFischer
+93,John Kennedy,R,LA,0.0346,Signal/narrative value if shifted,(202) 224-4623,@SenJohnKennedy
+94,Tim Scott,R,SC,0.0346,Signal/narrative value if shifted,(202) 224-6121,@SenatorTimScott
+95,Josh Hawley,R,MO,0.0302,Signal/narrative value if shifted,(202) 224-6154,@HawleyMO
+96,Kevin Cramer,R,ND,0.0302,Signal/narrative value if shifted,(202) 224-2043,@SenKevinCramer
+97,Marsha Blackburn,R,TN,0.0302,Signal/narrative value if shifted,(202) 224-3344,@MarshaBlackburn
+98,John Curtis,R,UT,0.0302,Signal/narrative value if shifted,(202) 224-5444,@SenJohnCurtis
+99,Jim Justice,R,WV,0.0302,Signal/narrative value if shifted,(202) 224-6472,@SenJimJustice
+100,Jim Banks,R,IN,0.0256,Signal/narrative value if shifted,(202) 224-5623,@SenJimBanks

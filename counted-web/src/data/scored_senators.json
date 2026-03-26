@@ -1,0 +1,4531 @@
+{
+  "generated_at": "2026-03-26T20:52:25.115233+00:00",
+  "version": "2.0.0",
+  "senators": [
+    {
+      "rank": 1,
+      "slug": "susan-collins-me",
+      "bioguide_id": "C001035",
+      "name": "Susan Collins",
+      "party": "R",
+      "state": "ME",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.7954,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.55,
+        "m4_independence": 0.7,
+        "m5_margin": 0.5,
+        "m6_primary_modifier": 1.2,
+        "m7_committee_power": 1.0,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.9,
+        "m10_saturation": 1.0,
+        "persuadability": 0.8838,
+        "leverage": 0.9,
+        "expected_impact": 0.7954
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2523",
+        "dc_fax": "(202) 224-2693",
+        "state_offices": [
+          {
+            "city": "Portland",
+            "phone": "(207) 780-3575"
+          },
+          {
+            "city": "Bangor",
+            "phone": "(207) 945-0417"
+          },
+          {
+            "city": "Lewiston",
+            "phone": "(207) 784-6969"
+          }
+        ],
+        "web_form_url": "https://www.collins.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorCollins",
+          "facebook": "susancollins",
+          "instagram": "senatorcollins",
+          "youtube": "SenatorSusanCollins"
+        }
+      },
+      "call_script": "susan-collins-me",
+      "counted": null
+    },
+    {
+      "rank": 2,
+      "slug": "thom-tillis-nc",
+      "bioguide_id": "T000476",
+      "name": "Thom Tillis",
+      "party": "R",
+      "state": "NC",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.3526,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.5,
+        "m4_independence": 0.4,
+        "m5_margin": 1.0,
+        "m6_primary_modifier": 0.9,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.7,
+        "m10_saturation": 1.0,
+        "persuadability": 0.5877,
+        "leverage": 0.6,
+        "expected_impact": 0.3526
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6342",
+        "dc_fax": "(202) 228-2563",
+        "state_offices": [
+          {
+            "city": "Raleigh",
+            "phone": "(919) 856-4630"
+          }
+        ],
+        "web_form_url": "https://www.tillis.senate.gov/contact",
+        "social": {
+          "twitter": "@SenThomTillis",
+          "facebook": "SenatorThomTillis"
+        }
+      },
+      "call_script": "thom-tillis-nc",
+      "counted": null
+    },
+    {
+      "rank": 3,
+      "slug": "dan-sullivan-ak",
+      "bioguide_id": "S001198",
+      "name": "Dan Sullivan",
+      "party": "R",
+      "state": "AK",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.3443,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.5,
+        "m4_independence": 0.4,
+        "m5_margin": 0.5,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.8,
+        "m10_saturation": 1.0,
+        "persuadability": 0.538,
+        "leverage": 0.64,
+        "expected_impact": 0.3443
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3004",
+        "dc_fax": "(202) 224-6501",
+        "state_offices": [
+          {
+            "city": "Anchorage",
+            "phone": "(907) 271-5915"
+          }
+        ],
+        "web_form_url": "https://www.sullivan.senate.gov/contact",
+        "social": {
+          "twitter": "@SenDanSullivan",
+          "facebook": "SenDanSullivan"
+        }
+      },
+      "call_script": "dan-sullivan-ak",
+      "counted": null
+    },
+    {
+      "rank": 4,
+      "slug": "shelley-moore-capito-wv",
+      "bioguide_id": "C001047",
+      "name": "Shelley Moore Capito",
+      "party": "R",
+      "state": "WV",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.3402,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.65,
+        "m4_independence": 0.7,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.85,
+        "m10_saturation": 1.0,
+        "persuadability": 0.5155,
+        "leverage": 0.66,
+        "expected_impact": 0.3402
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6472",
+        "dc_fax": "(202) 224-7665",
+        "state_offices": [
+          {
+            "city": "Charleston",
+            "phone": "(304) 347-5372"
+          }
+        ],
+        "web_form_url": "https://www.capito.senate.gov/contact",
+        "social": {
+          "twitter": "@SenCapito",
+          "facebook": "senshelley"
+        }
+      },
+      "call_script": "shelley-moore-capito-wv",
+      "counted": null
+    },
+    {
+      "rank": 5,
+      "slug": "joni-ernst-ia",
+      "bioguide_id": "E000295",
+      "name": "Joni Ernst",
+      "party": "R",
+      "state": "IA",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.3344,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.6,
+        "m4_independence": 0.4,
+        "m5_margin": 0.5,
+        "m6_primary_modifier": 0.9,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.85,
+        "m10_saturation": 1.0,
+        "persuadability": 0.5067,
+        "leverage": 0.66,
+        "expected_impact": 0.3344
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3254",
+        "dc_fax": "(202) 224-9369",
+        "state_offices": [
+          {
+            "city": "Des Moines",
+            "phone": "(515) 284-4574"
+          }
+        ],
+        "web_form_url": "https://www.ernst.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJoniErnst",
+          "facebook": "SenJoniErnst"
+        }
+      },
+      "call_script": "joni-ernst-ia",
+      "counted": null
+    },
+    {
+      "rank": 6,
+      "slug": "dick-durbin-il",
+      "bioguide_id": "D000563",
+      "name": "Dick Durbin",
+      "party": "D",
+      "state": "IL",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.3321,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 1.0,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.593,
+        "leverage": 0.56,
+        "expected_impact": 0.3321
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2152",
+        "dc_fax": "(202) 228-0400",
+        "state_offices": [
+          {
+            "city": "Chicago",
+            "phone": "(312) 353-4952"
+          }
+        ],
+        "web_form_url": "https://www.durbin.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorDurbin",
+          "facebook": "SenatorDurbin"
+        }
+      },
+      "call_script": "dick-durbin-il",
+      "counted": null
+    },
+    {
+      "rank": 7,
+      "slug": "jack-reed-ri",
+      "bioguide_id": "R000122",
+      "name": "Jack Reed",
+      "party": "D",
+      "state": "RI",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.3175,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.85,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.567,
+        "leverage": 0.56,
+        "expected_impact": 0.3175
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4642",
+        "dc_fax": "(202) 224-4680",
+        "state_offices": [
+          {
+            "city": "Providence",
+            "phone": "(401) 943-3100"
+          }
+        ],
+        "web_form_url": "https://www.reed.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJackReed"
+        }
+      },
+      "call_script": "jack-reed-ri",
+      "counted": null
+    },
+    {
+      "rank": 8,
+      "slug": "jeanne-shaheen-nh",
+      "bioguide_id": "S001181",
+      "name": "Jeanne Shaheen",
+      "party": "D",
+      "state": "NH",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.2663,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.5,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.85,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.4755,
+        "leverage": 0.56,
+        "expected_impact": 0.2663
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2841",
+        "dc_fax": "(202) 228-3194",
+        "state_offices": [
+          {
+            "city": "Manchester",
+            "phone": "(603) 647-7500"
+          }
+        ],
+        "web_form_url": "https://www.shaheen.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorShaheen"
+        }
+      },
+      "call_script": "jeanne-shaheen-nh",
+      "counted": null
+    },
+    {
+      "rank": 9,
+      "slug": "lisa-murkowski-ak",
+      "bioguide_id": "M001153",
+      "name": "Lisa Murkowski",
+      "party": "R",
+      "state": "AK",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.2554,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.5,
+        "m4_independence": 0.7,
+        "m5_margin": 0.5,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.8,
+        "m10_saturation": 1.0,
+        "persuadability": 0.399,
+        "leverage": 0.64,
+        "expected_impact": 0.2554
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6665",
+        "dc_fax": "(202) 224-5301",
+        "state_offices": [
+          {
+            "city": "Anchorage",
+            "phone": "(907) 271-3735"
+          }
+        ],
+        "web_form_url": "https://www.murkowski.senate.gov/contact",
+        "social": {
+          "twitter": "@lisamurkowski",
+          "facebook": "SenLisaMurkowski"
+        }
+      },
+      "call_script": "lisa-murkowski-ak",
+      "counted": null
+    },
+    {
+      "rank": 10,
+      "slug": "mike-rounds-sd",
+      "bioguide_id": "R000605",
+      "name": "Mike Rounds",
+      "party": "R",
+      "state": "SD",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.2527,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.5,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 0.9,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.7,
+        "m10_saturation": 1.0,
+        "persuadability": 0.4212,
+        "leverage": 0.6,
+        "expected_impact": 0.2527
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5842",
+        "dc_fax": "(202) 224-7482",
+        "state_offices": [
+          {
+            "city": "Sioux Falls",
+            "phone": "(605) 336-0486"
+          }
+        ],
+        "web_form_url": "https://www.rounds.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorRounds",
+          "facebook": "SenatorMikeRounds"
+        }
+      },
+      "call_script": "mike-rounds-sd",
+      "counted": null
+    },
+    {
+      "rank": 11,
+      "slug": "patty-murray-wa",
+      "bioguide_id": "M001111",
+      "name": "Patty Murray",
+      "party": "D",
+      "state": "WA",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.2341,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.85,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.418,
+        "leverage": 0.56,
+        "expected_impact": 0.2341
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2621",
+        "dc_fax": "(202) 224-0238",
+        "state_offices": [
+          {
+            "city": "Seattle",
+            "phone": "(206) 553-5545"
+          }
+        ],
+        "web_form_url": "https://www.murray.senate.gov/contact",
+        "social": {
+          "twitter": "@PattyMurray"
+        }
+      },
+      "call_script": "patty-murray-wa",
+      "counted": null
+    },
+    {
+      "rank": 12,
+      "slug": "gary-peters-mi",
+      "bioguide_id": "P000595",
+      "name": "Gary Peters",
+      "party": "D",
+      "state": "MI",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.2162,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 1.0,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.5405,
+        "leverage": 0.4,
+        "expected_impact": 0.2162
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6221",
+        "dc_fax": "(202) 224-7387",
+        "state_offices": [
+          {
+            "city": "Detroit",
+            "phone": "(313) 226-6020"
+          }
+        ],
+        "web_form_url": "https://www.peters.senate.gov/contact",
+        "social": {
+          "twitter": "@SenGaryPeters"
+        }
+      },
+      "call_script": "gary-peters-mi",
+      "counted": null
+    },
+    {
+      "rank": 13,
+      "slug": "jim-risch-id",
+      "bioguide_id": "R000584",
+      "name": "Jim Risch",
+      "party": "R",
+      "state": "ID",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.2089,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.15,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 1.0,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.337,
+        "leverage": 0.62,
+        "expected_impact": 0.2089
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2752",
+        "dc_fax": "(202) 224-2573",
+        "state_offices": [
+          {
+            "city": "Boise",
+            "phone": "(208) 342-7985"
+          }
+        ],
+        "web_form_url": "https://www.risch.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorRisch"
+        }
+      },
+      "call_script": "jim-risch-id",
+      "counted": null
+    },
+    {
+      "rank": 14,
+      "slug": "mark-warner-va",
+      "bioguide_id": "W000805",
+      "name": "Mark Warner",
+      "party": "D",
+      "state": "VA",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.2063,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.4,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.543,
+        "leverage": 0.38,
+        "expected_impact": 0.2063
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2023",
+        "dc_fax": "(202) 224-6295",
+        "state_offices": [
+          {
+            "city": "Richmond",
+            "phone": "(804) 775-2314"
+          }
+        ],
+        "web_form_url": "https://www.warner.senate.gov/contact",
+        "social": {
+          "twitter": "@MarkWarner",
+          "facebook": "MarkWarner"
+        }
+      },
+      "call_script": "mark-warner-va",
+      "counted": null
+    },
+    {
+      "rank": 15,
+      "slug": "john-cornyn-tx",
+      "bioguide_id": "C001056",
+      "name": "John Cornyn",
+      "party": "R",
+      "state": "TX",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1913,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.3,
+        "m4_independence": 0.4,
+        "m5_margin": 0.5,
+        "m6_primary_modifier": 0.7,
+        "m7_committee_power": 0.4,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.65,
+        "m10_saturation": 1.0,
+        "persuadability": 0.3416,
+        "leverage": 0.56,
+        "expected_impact": 0.1913
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2934",
+        "dc_fax": "(202) 228-2856",
+        "state_offices": [
+          {
+            "city": "Austin",
+            "phone": "(512) 469-6034"
+          }
+        ],
+        "web_form_url": "https://www.cornyn.senate.gov/contact",
+        "social": {
+          "twitter": "@JohnCornyn",
+          "facebook": "SenJohnCornyn"
+        }
+      },
+      "call_script": "john-cornyn-tx",
+      "counted": null
+    },
+    {
+      "rank": 16,
+      "slug": "bill-cassidy-la",
+      "bioguide_id": "C001075",
+      "name": "Bill Cassidy",
+      "party": "R",
+      "state": "LA",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1909,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.55,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 0.7,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.7,
+        "m10_saturation": 1.0,
+        "persuadability": 0.3181,
+        "leverage": 0.6,
+        "expected_impact": 0.1909
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5824",
+        "dc_fax": "(202) 224-9735",
+        "state_offices": [
+          {
+            "city": "Baton Rouge",
+            "phone": "(225) 929-7711"
+          }
+        ],
+        "web_form_url": "https://www.cassidy.senate.gov/contact",
+        "social": {
+          "twitter": "@SenBillCassidy",
+          "facebook": "SenBillCassidy"
+        }
+      },
+      "call_script": "bill-cassidy-la",
+      "counted": null
+    },
+    {
+      "rank": 17,
+      "slug": "jerry-moran-ks",
+      "bioguide_id": "M000934",
+      "name": "Jerry Moran",
+      "party": "R",
+      "state": "KS",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.1839,
+      "key_factor": "Demonstrated ambivalence on war",
+      "key_factor_short": "Already wavering",
+      "key_factor_long": "Has publicly hedged or set conditions on support. Pressure now could tip the balance.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.7,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.65,
+        "m10_saturation": 1.0,
+        "persuadability": 0.317,
+        "leverage": 0.58,
+        "expected_impact": 0.1839
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6521",
+        "dc_fax": "(202) 228-6966",
+        "state_offices": [
+          {
+            "city": "Wichita",
+            "phone": "(316) 631-1410"
+          }
+        ],
+        "web_form_url": "https://www.moran.senate.gov/contact",
+        "social": {
+          "twitter": "@JerryMoran",
+          "facebook": "JerryMoran"
+        }
+      },
+      "call_script": "jerry-moran-ks",
+      "counted": null
+    },
+    {
+      "rank": 18,
+      "slug": "richard-blumenthal-ct",
+      "bioguide_id": "B001277",
+      "name": "Richard Blumenthal",
+      "party": "D",
+      "state": "CT",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.1672,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.418,
+        "leverage": 0.4,
+        "expected_impact": 0.1672
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2823",
+        "dc_fax": "(202) 224-9673",
+        "state_offices": [
+          {
+            "city": "Hartford",
+            "phone": "(860) 258-6940"
+          }
+        ],
+        "web_form_url": "https://www.blumenthal.senate.gov/contact",
+        "social": {
+          "twitter": "@SenBlumenthal"
+        }
+      },
+      "call_script": "richard-blumenthal-ct",
+      "counted": null
+    },
+    {
+      "rank": 19,
+      "slug": "brian-schatz-hi",
+      "bioguide_id": "S001194",
+      "name": "Brian Schatz",
+      "party": "D",
+      "state": "HI",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.1672,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.418,
+        "leverage": 0.4,
+        "expected_impact": 0.1672
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3934",
+        "dc_fax": "(202) 228-1153",
+        "state_offices": [
+          {
+            "city": "Honolulu",
+            "phone": "(808) 523-2061"
+          }
+        ],
+        "web_form_url": "https://www.schatz.senate.gov/contact",
+        "social": {
+          "twitter": "@braborschatz"
+        }
+      },
+      "call_script": "brian-schatz-hi",
+      "counted": null
+    },
+    {
+      "rank": 20,
+      "slug": "tammy-duckworth-il",
+      "bioguide_id": "D000622",
+      "name": "Tammy Duckworth",
+      "party": "D",
+      "state": "IL",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.1672,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.418,
+        "leverage": 0.4,
+        "expected_impact": 0.1672
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2854",
+        "dc_fax": "(202) 228-4611",
+        "state_offices": [
+          {
+            "city": "Chicago",
+            "phone": "(312) 886-3506"
+          }
+        ],
+        "web_form_url": "https://www.duckworth.senate.gov/contact",
+        "social": {
+          "twitter": "@SenDuckworth"
+        }
+      },
+      "call_script": "tammy-duckworth-il",
+      "counted": null
+    },
+    {
+      "rank": 21,
+      "slug": "chris-van-hollen-md",
+      "bioguide_id": "V000128",
+      "name": "Chris Van Hollen",
+      "party": "D",
+      "state": "MD",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.1672,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.418,
+        "leverage": 0.4,
+        "expected_impact": 0.1672
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4654",
+        "dc_fax": "(202) 228-0629",
+        "state_offices": [
+          {
+            "city": "Baltimore",
+            "phone": "(410) 962-4510"
+          }
+        ],
+        "web_form_url": "https://www.vanhollen.senate.gov/contact",
+        "social": {
+          "twitter": "@ChrisVanHollen"
+        }
+      },
+      "call_script": "chris-van-hollen-md",
+      "counted": null
+    },
+    {
+      "rank": 22,
+      "slug": "cindy-hyde-smith-ms",
+      "bioguide_id": "H001079",
+      "name": "Cindy Hyde-Smith",
+      "party": "R",
+      "state": "MS",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1597,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.15,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.3,
+        "m10_saturation": 1.0,
+        "persuadability": 0.363,
+        "leverage": 0.44,
+        "expected_impact": 0.1597
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5054",
+        "dc_fax": "(202) 224-5321",
+        "state_offices": [
+          {
+            "city": "Jackson",
+            "phone": "(601) 965-4459"
+          }
+        ],
+        "web_form_url": "https://www.hydesmith.senate.gov/contact",
+        "social": {
+          "twitter": "@SenHydeSmith"
+        }
+      },
+      "call_script": "cindy-hyde-smith-ms",
+      "counted": null
+    },
+    {
+      "rank": 23,
+      "slug": "jon-ossoff-ga",
+      "bioguide_id": "O000174",
+      "name": "Jon Ossoff",
+      "party": "D",
+      "state": "GA",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1513,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 1.0,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.4,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.5405,
+        "leverage": 0.28,
+        "expected_impact": 0.1513
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3521",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Atlanta",
+            "phone": "(470) 786-7800"
+          }
+        ],
+        "web_form_url": "https://www.ossoff.senate.gov/contact",
+        "social": {
+          "twitter": "@SenOssoff",
+          "facebook": "SenOssoff"
+        }
+      },
+      "call_script": "jon-ossoff-ga",
+      "counted": null
+    },
+    {
+      "rank": 24,
+      "slug": "tom-cotton-ar",
+      "bioguide_id": "C001095",
+      "name": "Tom Cotton",
+      "party": "R",
+      "state": "AR",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1497,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.15,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2995,
+        "leverage": 0.5,
+        "expected_impact": 0.1497
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2353",
+        "dc_fax": "(202) 228-0908",
+        "state_offices": [
+          {
+            "city": "Little Rock",
+            "phone": "(501) 223-9081"
+          }
+        ],
+        "web_form_url": "https://www.cotton.senate.gov/contact",
+        "social": {
+          "twitter": "@SenTomCotton",
+          "facebook": "SenatorTomCotton"
+        }
+      },
+      "call_script": "tom-cotton-ar",
+      "counted": null
+    },
+    {
+      "rank": 25,
+      "slug": "kirsten-gillibrand-ny",
+      "bioguide_id": "G000555",
+      "name": "Kirsten Gillibrand",
+      "party": "D",
+      "state": "NY",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.1472,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.4,
+        "expected_impact": 0.1472
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4451",
+        "dc_fax": "(202) 228-0282",
+        "state_offices": [
+          {
+            "city": "New York",
+            "phone": "(212) 688-6262"
+          }
+        ],
+        "web_form_url": "https://www.gillibrand.senate.gov/contact",
+        "social": {
+          "twitter": "@SenGillibrand"
+        }
+      },
+      "call_script": "kirsten-gillibrand-ny",
+      "counted": null
+    },
+    {
+      "rank": 26,
+      "slug": "chuck-schumer-ny",
+      "bioguide_id": "S000148",
+      "name": "Chuck Schumer",
+      "party": "D",
+      "state": "NY",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.1421,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 1.0,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.418,
+        "leverage": 0.34,
+        "expected_impact": 0.1421
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6542",
+        "dc_fax": "(202) 228-3027",
+        "state_offices": [
+          {
+            "city": "New York",
+            "phone": "(212) 486-4430"
+          }
+        ],
+        "web_form_url": "https://www.schumer.senate.gov/contact",
+        "social": {
+          "twitter": "@SenSchumer",
+          "facebook": "chuckschumer"
+        }
+      },
+      "call_script": "chuck-schumer-ny",
+      "counted": null
+    },
+    {
+      "rank": 27,
+      "slug": "sheldon-whitehouse-ri",
+      "bioguide_id": "W000802",
+      "name": "Sheldon Whitehouse",
+      "party": "D",
+      "state": "RI",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.1398,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.4,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.38,
+        "expected_impact": 0.1398
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2921",
+        "dc_fax": "(202) 228-6362",
+        "state_offices": [
+          {
+            "city": "Providence",
+            "phone": "(401) 453-5294"
+          }
+        ],
+        "web_form_url": "https://www.whitehouse.senate.gov/contact",
+        "social": {
+          "twitter": "@SenWhitehouse"
+        }
+      },
+      "call_script": "sheldon-whitehouse-ri",
+      "counted": null
+    },
+    {
+      "rank": 28,
+      "slug": "mark-kelly-az",
+      "bioguide_id": "K000377",
+      "name": "Mark Kelly",
+      "party": "D",
+      "state": "AZ",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.1332,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.75,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.333,
+        "leverage": 0.4,
+        "expected_impact": 0.1332
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2235",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Phoenix",
+            "phone": "(602) 671-7901"
+          }
+        ],
+        "web_form_url": "https://www.kelly.senate.gov/contact",
+        "social": {
+          "twitter": "@SenMarkKelly"
+        }
+      },
+      "call_script": "mark-kelly-az",
+      "counted": null
+    },
+    {
+      "rank": 29,
+      "slug": "bill-hagerty-tn",
+      "bioguide_id": "H001086",
+      "name": "Bill Hagerty",
+      "party": "R",
+      "state": "TN",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1304,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.3,
+        "m4_independence": 0.15,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 0.7,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.4,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2716,
+        "leverage": 0.48,
+        "expected_impact": 0.1304
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4944",
+        "dc_fax": "(202) 228-3398",
+        "state_offices": [
+          {
+            "city": "Nashville",
+            "phone": "(615) 736-5129"
+          }
+        ],
+        "web_form_url": "https://www.hagerty.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorHagerty"
+        }
+      },
+      "call_script": "bill-hagerty-tn",
+      "counted": null
+    },
+    {
+      "rank": 30,
+      "slug": "tim-kaine-va",
+      "bioguide_id": "K000384",
+      "name": "Tim Kaine",
+      "party": "D",
+      "state": "VA",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.1272,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.318,
+        "leverage": 0.4,
+        "expected_impact": 0.1272
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4024",
+        "dc_fax": "(202) 228-6363",
+        "state_offices": [
+          {
+            "city": "Richmond",
+            "phone": "(804) 771-2221"
+          }
+        ],
+        "web_form_url": "https://www.kaine.senate.gov/contact",
+        "social": {
+          "twitter": "@timkaine"
+        }
+      },
+      "call_script": "tim-kaine-va",
+      "counted": null
+    },
+    {
+      "rank": 31,
+      "slug": "mitch-mcconnell-ky",
+      "bioguide_id": "M000355",
+      "name": "Mitch McConnell",
+      "party": "R",
+      "state": "KY",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.11,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 0.7,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2751,
+        "leverage": 0.4,
+        "expected_impact": 0.11
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2541",
+        "dc_fax": "(202) 224-2499",
+        "state_offices": [
+          {
+            "city": "Louisville",
+            "phone": "(502) 582-6304"
+          }
+        ],
+        "web_form_url": "https://www.mcconnell.senate.gov/contact",
+        "social": {
+          "twitter": "@LeaderMcConnell"
+        }
+      },
+      "call_script": "mitch-mcconnell-ky",
+      "counted": null
+    },
+    {
+      "rank": 32,
+      "slug": "tina-smith-mn",
+      "bioguide_id": "S001203",
+      "name": "Tina Smith",
+      "party": "D",
+      "state": "MN",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1094,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.75,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.608,
+        "leverage": 0.18,
+        "expected_impact": 0.1094
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5641",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Minneapolis",
+            "phone": "(612) 863-1523"
+          }
+        ],
+        "web_form_url": "https://www.smith.senate.gov/contact",
+        "social": {
+          "twitter": "@SenTinaSmith"
+        }
+      },
+      "call_script": "tina-smith-mn",
+      "counted": null
+    },
+    {
+      "rank": 33,
+      "slug": "ben-ray-lujan-nm",
+      "bioguide_id": "L000570",
+      "name": "Ben Ray Lujan",
+      "party": "D",
+      "state": "NM",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1094,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.75,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.608,
+        "leverage": 0.18,
+        "expected_impact": 0.1094
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6621",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Albuquerque",
+            "phone": "(505) 346-6601"
+          }
+        ],
+        "web_form_url": "https://www.lujan.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorLujan"
+        }
+      },
+      "call_script": "ben-ray-lujan-nm",
+      "counted": null
+    },
+    {
+      "rank": 34,
+      "slug": "cory-booker-nj",
+      "bioguide_id": "B001288",
+      "name": "Cory Booker",
+      "party": "D",
+      "state": "NJ",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1067,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.593,
+        "leverage": 0.18,
+        "expected_impact": 0.1067
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3224",
+        "dc_fax": "(202) 224-8378",
+        "state_offices": [
+          {
+            "city": "Newark",
+            "phone": "(973) 639-8700"
+          }
+        ],
+        "web_form_url": "https://www.booker.senate.gov/contact",
+        "social": {
+          "twitter": "@SenBooker"
+        }
+      },
+      "call_script": "cory-booker-nj",
+      "counted": null
+    },
+    {
+      "rank": 35,
+      "slug": "jeff-merkley-or",
+      "bioguide_id": "M001176",
+      "name": "Jeff Merkley",
+      "party": "D",
+      "state": "OR",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1067,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.593,
+        "leverage": 0.18,
+        "expected_impact": 0.1067
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3753",
+        "dc_fax": "(202) 228-3997",
+        "state_offices": [
+          {
+            "city": "Portland",
+            "phone": "(503) 326-3386"
+          }
+        ],
+        "web_form_url": "https://www.merkley.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJeffMerkley"
+        }
+      },
+      "call_script": "jeff-merkley-or",
+      "counted": null
+    },
+    {
+      "rank": 36,
+      "slug": "chris-coons-de",
+      "bioguide_id": "C001088",
+      "name": "Chris Coons",
+      "party": "D",
+      "state": "DE",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1021,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.567,
+        "leverage": 0.18,
+        "expected_impact": 0.1021
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5042",
+        "dc_fax": "(202) 228-3075",
+        "state_offices": [
+          {
+            "city": "Wilmington",
+            "phone": "(302) 573-6345"
+          }
+        ],
+        "web_form_url": "https://www.coons.senate.gov/contact",
+        "social": {
+          "twitter": "@ChrisCoons"
+        }
+      },
+      "call_script": "chris-coons-de",
+      "counted": null
+    },
+    {
+      "rank": 37,
+      "slug": "ed-markey-ma",
+      "bioguide_id": "M000133",
+      "name": "Ed Markey",
+      "party": "D",
+      "state": "MA",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1021,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.567,
+        "leverage": 0.18,
+        "expected_impact": 0.1021
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2742",
+        "dc_fax": "(202) 224-8525",
+        "state_offices": [
+          {
+            "city": "Boston",
+            "phone": "(617) 565-8519"
+          }
+        ],
+        "web_form_url": "https://www.markey.senate.gov/contact",
+        "social": {
+          "twitter": "@SenMarkey"
+        }
+      },
+      "call_script": "ed-markey-ma",
+      "counted": null
+    },
+    {
+      "rank": 38,
+      "slug": "lindsey-graham-sc",
+      "bioguide_id": "G000359",
+      "name": "Lindsey Graham",
+      "party": "R",
+      "state": "SC",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.1003,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.15,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 0.7,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.3,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2278,
+        "leverage": 0.44,
+        "expected_impact": 0.1003
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5972",
+        "dc_fax": "(202) 224-3808",
+        "state_offices": [
+          {
+            "city": "Greenville",
+            "phone": "(864) 250-1417"
+          }
+        ],
+        "web_form_url": "https://www.lgraham.senate.gov/contact",
+        "social": {
+          "twitter": "@LindseyGrahamSC",
+          "facebook": "LindseyGraham"
+        }
+      },
+      "call_script": "lindsey-graham-sc",
+      "counted": null
+    },
+    {
+      "rank": 39,
+      "slug": "cynthia-lummis-wy",
+      "bioguide_id": "L000571",
+      "name": "Cynthia Lummis",
+      "party": "R",
+      "state": "WY",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.0988,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.3,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 0.7,
+        "m7_committee_power": 0.4,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.4,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2744,
+        "leverage": 0.36,
+        "expected_impact": 0.0988
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3424",
+        "dc_fax": "(202) 228-0359",
+        "state_offices": [
+          {
+            "city": "Cheyenne",
+            "phone": "(307) 261-6572"
+          }
+        ],
+        "web_form_url": "https://www.lummis.senate.gov/contact",
+        "social": {
+          "twitter": "@SenLummis",
+          "facebook": "SenCynthiaLummis"
+        }
+      },
+      "call_script": "cynthia-lummis-wy",
+      "counted": null
+    },
+    {
+      "rank": 40,
+      "slug": "john-hickenlooper-co",
+      "bioguide_id": "H001090",
+      "name": "John Hickenlooper",
+      "party": "D",
+      "state": "CO",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.0977,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.543,
+        "leverage": 0.18,
+        "expected_impact": 0.0977
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5941",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Denver",
+            "phone": "(303) 244-1628"
+          }
+        ],
+        "web_form_url": "https://www.hickenlooper.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorHick"
+        }
+      },
+      "call_script": "john-hickenlooper-co",
+      "counted": null
+    },
+    {
+      "rank": 41,
+      "slug": "chuck-grassley-ia",
+      "bioguide_id": "G000386",
+      "name": "Chuck Grassley",
+      "party": "R",
+      "state": "IA",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0971,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.4,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2555,
+        "leverage": 0.38,
+        "expected_impact": 0.0971
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3744",
+        "dc_fax": "(202) 224-6020",
+        "state_offices": [
+          {
+            "city": "Des Moines",
+            "phone": "(515) 288-1145"
+          }
+        ],
+        "web_form_url": "https://www.grassley.senate.gov/contact",
+        "social": {
+          "twitter": "@ChuckGrassley"
+        }
+      },
+      "call_script": "chuck-grassley-ia",
+      "counted": null
+    },
+    {
+      "rank": 42,
+      "slug": "rand-paul-ky",
+      "bioguide_id": "P000603",
+      "name": "Rand Paul",
+      "party": "R",
+      "state": "KY",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0971,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.95,
+        "m4_independence": 0.7,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.3,
+        "m10_saturation": 1.0,
+        "persuadability": 0.4415,
+        "leverage": 0.22,
+        "expected_impact": 0.0971
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4343",
+        "dc_fax": "(202) 228-6917",
+        "state_offices": [
+          {
+            "city": "Bowling Green",
+            "phone": "(270) 782-8303"
+          }
+        ],
+        "web_form_url": "https://www.paul.senate.gov/contact",
+        "social": {
+          "twitter": "@RandPaul",
+          "facebook": "SenatorRandPaul"
+        }
+      },
+      "call_script": "rand-paul-ky",
+      "counted": null
+    },
+    {
+      "rank": 43,
+      "slug": "steve-daines-mt",
+      "bioguide_id": "D000618",
+      "name": "Steve Daines",
+      "party": "R",
+      "state": "MT",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.0901,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.25,
+        "m4_independence": 0.15,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.35,
+        "m10_saturation": 1.0,
+        "persuadability": 0.3755,
+        "leverage": 0.24,
+        "expected_impact": 0.0901
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2651",
+        "dc_fax": "(202) 228-1236",
+        "state_offices": [
+          {
+            "city": "Great Falls",
+            "phone": "(406) 453-0148"
+          }
+        ],
+        "web_form_url": "https://www.daines.senate.gov/contact",
+        "social": {
+          "twitter": "@SteveDaines",
+          "facebook": "SteveDainesMT"
+        }
+      },
+      "call_script": "steve-daines-mt",
+      "counted": null
+    },
+    {
+      "rank": 44,
+      "slug": "roger-wicker-ms",
+      "bioguide_id": "W000437",
+      "name": "Roger Wicker",
+      "party": "R",
+      "state": "MS",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0856,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.15,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 1.0,
+        "m8_leadership": 0.7,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.138,
+        "leverage": 0.62,
+        "expected_impact": 0.0856
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6253",
+        "dc_fax": "(202) 228-0378",
+        "state_offices": [
+          {
+            "city": "Jackson",
+            "phone": "(601) 965-4644"
+          }
+        ],
+        "web_form_url": "https://www.wicker.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorWicker"
+        }
+      },
+      "call_script": "roger-wicker-ms",
+      "counted": null
+    },
+    {
+      "rank": 45,
+      "slug": "rick-scott-fl",
+      "bioguide_id": "S001217",
+      "name": "Rick Scott",
+      "party": "R",
+      "state": "FL",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0832,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.15,
+        "m5_margin": 0.5,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.208,
+        "leverage": 0.4,
+        "expected_impact": 0.0832
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5274",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Jacksonville",
+            "phone": "(904) 479-7227"
+          }
+        ],
+        "web_form_url": "https://www.rickscott.senate.gov/contact",
+        "social": {
+          "twitter": "@SenRickScott"
+        }
+      },
+      "call_script": "rick-scott-fl",
+      "counted": null
+    },
+    {
+      "rank": 46,
+      "slug": "roger-marshall-ks",
+      "bioguide_id": "M001198",
+      "name": "Roger Marshall",
+      "party": "R",
+      "state": "KS",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.0826,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.25,
+        "m4_independence": 0.15,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.3,
+        "m10_saturation": 1.0,
+        "persuadability": 0.3755,
+        "leverage": 0.22,
+        "expected_impact": 0.0826
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4774",
+        "dc_fax": "(202) 228-6966",
+        "state_offices": [
+          {
+            "city": "Wichita",
+            "phone": "(316) 262-8992"
+          }
+        ],
+        "web_form_url": "https://www.marshall.senate.gov/contact",
+        "social": {
+          "twitter": "@RogerMarshallMD"
+        }
+      },
+      "call_script": "roger-marshall-ks",
+      "counted": null
+    },
+    {
+      "rank": 47,
+      "slug": "pete-ricketts-ne",
+      "bioguide_id": "R000618",
+      "name": "Pete Ricketts",
+      "party": "R",
+      "state": "NE",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.0826,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.25,
+        "m4_independence": 0.15,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.3,
+        "m10_saturation": 1.0,
+        "persuadability": 0.3755,
+        "leverage": 0.22,
+        "expected_impact": 0.0826
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4224",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Omaha",
+            "phone": "(402) 476-1400"
+          }
+        ],
+        "web_form_url": "https://www.ricketts.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorRicketts"
+        }
+      },
+      "call_script": "pete-ricketts-ne",
+      "counted": null
+    },
+    {
+      "rank": 48,
+      "slug": "ted-cruz-tx",
+      "bioguide_id": "C001098",
+      "name": "Ted Cruz",
+      "party": "R",
+      "state": "TX",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0822,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.7,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2055,
+        "leverage": 0.4,
+        "expected_impact": 0.0822
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5922",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Houston",
+            "phone": "(713) 718-3057"
+          }
+        ],
+        "web_form_url": "https://www.cruz.senate.gov/contact",
+        "social": {
+          "twitter": "@SenTedCruz"
+        }
+      },
+      "call_script": "ted-cruz-tx",
+      "counted": null
+    },
+    {
+      "rank": 49,
+      "slug": "bernie-sanders-vt",
+      "bioguide_id": "S000033",
+      "name": "Bernie Sanders",
+      "party": "I",
+      "state": "VT",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0792,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 1.0,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.44,
+        "leverage": 0.18,
+        "expected_impact": 0.0792
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5141",
+        "dc_fax": "(202) 228-0776",
+        "state_offices": [
+          {
+            "city": "Burlington",
+            "phone": "(802) 862-0697"
+          }
+        ],
+        "web_form_url": "https://www.sanders.senate.gov/contact",
+        "social": {
+          "twitter": "@SenSanders"
+        }
+      },
+      "call_script": "bernie-sanders-vt",
+      "counted": null
+    },
+    {
+      "rank": 50,
+      "slug": "alex-padilla-ca",
+      "bioguide_id": "P000145",
+      "name": "Alex Padilla",
+      "party": "D",
+      "state": "CA",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0752,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.418,
+        "leverage": 0.18,
+        "expected_impact": 0.0752
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3553",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Los Angeles",
+            "phone": "(213) 977-5133"
+          }
+        ],
+        "web_form_url": "https://www.padilla.senate.gov/contact",
+        "social": {
+          "twitter": "@SenAlexPadilla"
+        }
+      },
+      "call_script": "alex-padilla-ca",
+      "counted": null
+    },
+    {
+      "rank": 51,
+      "slug": "ron-wyden-or",
+      "bioguide_id": "W000779",
+      "name": "Ron Wyden",
+      "party": "D",
+      "state": "OR",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0752,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.418,
+        "leverage": 0.18,
+        "expected_impact": 0.0752
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5244",
+        "dc_fax": "(202) 228-2717",
+        "state_offices": [
+          {
+            "city": "Portland",
+            "phone": "(503) 326-7525"
+          }
+        ],
+        "web_form_url": "https://www.wyden.senate.gov/contact",
+        "social": {
+          "twitter": "@RonWyden"
+        }
+      },
+      "call_script": "ron-wyden-or",
+      "counted": null
+    },
+    {
+      "rank": 52,
+      "slug": "peter-welch-vt",
+      "bioguide_id": "W000800",
+      "name": "Peter Welch",
+      "party": "D",
+      "state": "VT",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0752,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.418,
+        "leverage": 0.18,
+        "expected_impact": 0.0752
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4242",
+        "dc_fax": "(202) 228-0776",
+        "state_offices": [
+          {
+            "city": "Burlington",
+            "phone": "(802) 652-2450"
+          }
+        ],
+        "web_form_url": "https://www.welch.senate.gov/contact",
+        "social": {
+          "twitter": "@SenPeterWelch"
+        }
+      },
+      "call_script": "peter-welch-vt",
+      "counted": null
+    },
+    {
+      "rank": 53,
+      "slug": "ron-johnson-wi",
+      "bioguide_id": "J000293",
+      "name": "Ron Johnson",
+      "party": "R",
+      "state": "WI",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0725,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 1.0,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.403,
+        "leverage": 0.18,
+        "expected_impact": 0.0725
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5323",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Milwaukee",
+            "phone": "(414) 276-7282"
+          }
+        ],
+        "web_form_url": "https://www.ronjohnson.senate.gov/contact",
+        "social": {
+          "twitter": "@SenRonJohnson"
+        }
+      },
+      "call_script": "ron-johnson-wi",
+      "counted": null
+    },
+    {
+      "rank": 54,
+      "slug": "angus-king-me",
+      "bioguide_id": "K000383",
+      "name": "Angus King",
+      "party": "I",
+      "state": "ME",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0702,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 1.0,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.39,
+        "leverage": 0.18,
+        "expected_impact": 0.0702
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5344",
+        "dc_fax": "(202) 224-1946",
+        "state_offices": [
+          {
+            "city": "Augusta",
+            "phone": "(207) 622-8292"
+          }
+        ],
+        "web_form_url": "https://www.king.senate.gov/contact",
+        "social": {
+          "twitter": "@SenAngusKing"
+        }
+      },
+      "call_script": "angus-king-me",
+      "counted": null
+    },
+    {
+      "rank": 55,
+      "slug": "markwayne-mullin-ok",
+      "bioguide_id": "M001190",
+      "name": "Markwayne Mullin",
+      "party": "R",
+      "state": "OK",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.0676,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.25,
+        "m4_independence": 0.15,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.3755,
+        "leverage": 0.18,
+        "expected_impact": 0.0676
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4721",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Tulsa",
+            "phone": "(918) 748-5111"
+          }
+        ],
+        "web_form_url": "https://www.mullin.senate.gov/contact",
+        "social": {
+          "twitter": "@SenMullin"
+        }
+      },
+      "call_script": "markwayne-mullin-ok",
+      "counted": null
+    },
+    {
+      "rank": 56,
+      "slug": "adam-schiff-ca",
+      "bioguide_id": "S001150",
+      "name": "Adam Schiff",
+      "party": "D",
+      "state": "CA",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0662,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.18,
+        "expected_impact": 0.0662
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3841",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Los Angeles",
+            "phone": "(213) 621-6030"
+          }
+        ],
+        "web_form_url": "https://www.schiff.senate.gov/contact",
+        "social": {
+          "twitter": "@SenAdamSchiff"
+        }
+      },
+      "call_script": "adam-schiff-ca",
+      "counted": null
+    },
+    {
+      "rank": 57,
+      "slug": "michael-bennet-co",
+      "bioguide_id": "B001267",
+      "name": "Michael Bennet",
+      "party": "D",
+      "state": "CO",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0662,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.18,
+        "expected_impact": 0.0662
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5852",
+        "dc_fax": "(202) 228-5097",
+        "state_offices": [
+          {
+            "city": "Denver",
+            "phone": "(303) 455-7600"
+          }
+        ],
+        "web_form_url": "https://www.bennet.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorBennet"
+        }
+      },
+      "call_script": "michael-bennet-co",
+      "counted": null
+    },
+    {
+      "rank": 58,
+      "slug": "chris-murphy-ct",
+      "bioguide_id": "M001169",
+      "name": "Chris Murphy",
+      "party": "D",
+      "state": "CT",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0662,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.18,
+        "expected_impact": 0.0662
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4041",
+        "dc_fax": "(202) 224-9750",
+        "state_offices": [
+          {
+            "city": "Hartford",
+            "phone": "(860) 549-8463"
+          }
+        ],
+        "web_form_url": "https://www.murphy.senate.gov/contact",
+        "social": {
+          "twitter": "@ChrisMurphyCT"
+        }
+      },
+      "call_script": "chris-murphy-ct",
+      "counted": null
+    },
+    {
+      "rank": 59,
+      "slug": "lisa-blunt-rochester-de",
+      "bioguide_id": "B001303",
+      "name": "Lisa Blunt Rochester",
+      "party": "D",
+      "state": "DE",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0662,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.18,
+        "expected_impact": 0.0662
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5042",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Wilmington",
+            "phone": "(302) 573-6291"
+          }
+        ],
+        "web_form_url": "https://www.bluntrochester.senate.gov/contact",
+        "social": {
+          "twitter": "@SenBluntRoch"
+        }
+      },
+      "call_script": "lisa-blunt-rochester-de",
+      "counted": null
+    },
+    {
+      "rank": 60,
+      "slug": "mazie-hirono-hi",
+      "bioguide_id": "H001042",
+      "name": "Mazie Hirono",
+      "party": "D",
+      "state": "HI",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0662,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.18,
+        "expected_impact": 0.0662
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6361",
+        "dc_fax": "(202) 224-2126",
+        "state_offices": [
+          {
+            "city": "Honolulu",
+            "phone": "(808) 522-8970"
+          }
+        ],
+        "web_form_url": "https://www.hirono.senate.gov/contact",
+        "social": {
+          "twitter": "@maaborhirono"
+        }
+      },
+      "call_script": "mazie-hirono-hi",
+      "counted": null
+    },
+    {
+      "rank": 61,
+      "slug": "angela-alsobrooks-md",
+      "bioguide_id": "A000376",
+      "name": "Angela Alsobrooks",
+      "party": "D",
+      "state": "MD",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0662,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.18,
+        "expected_impact": 0.0662
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4654",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Baltimore",
+            "phone": "(410) 962-4436"
+          }
+        ],
+        "web_form_url": "https://www.alsobrooks.senate.gov/contact",
+        "social": {
+          "twitter": "@SenAlsobrooks"
+        }
+      },
+      "call_script": "angela-alsobrooks-md",
+      "counted": null
+    },
+    {
+      "rank": 62,
+      "slug": "elizabeth-warren-ma",
+      "bioguide_id": "W000817",
+      "name": "Elizabeth Warren",
+      "party": "D",
+      "state": "MA",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0662,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.18,
+        "expected_impact": 0.0662
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4543",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Boston",
+            "phone": "(617) 565-3170"
+          }
+        ],
+        "web_form_url": "https://www.warren.senate.gov/contact",
+        "social": {
+          "twitter": "@SenWarren"
+        }
+      },
+      "call_script": "elizabeth-warren-ma",
+      "counted": null
+    },
+    {
+      "rank": 63,
+      "slug": "andy-kim-nj",
+      "bioguide_id": "K000394",
+      "name": "Andy Kim",
+      "party": "D",
+      "state": "NJ",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0662,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.18,
+        "expected_impact": 0.0662
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3224",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Newark",
+            "phone": "(973) 639-8700"
+          }
+        ],
+        "web_form_url": "https://www.andykim.senate.gov/contact",
+        "social": {
+          "twitter": "@SenAndyKimNJ"
+        }
+      },
+      "call_script": "andy-kim-nj",
+      "counted": null
+    },
+    {
+      "rank": 64,
+      "slug": "maria-cantwell-wa",
+      "bioguide_id": "C000127",
+      "name": "Maria Cantwell",
+      "party": "D",
+      "state": "WA",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0662,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 1.0,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.368,
+        "leverage": 0.18,
+        "expected_impact": 0.0662
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3441",
+        "dc_fax": "(202) 228-0514",
+        "state_offices": [
+          {
+            "city": "Seattle",
+            "phone": "(206) 220-6400"
+          }
+        ],
+        "web_form_url": "https://www.cantwell.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorCantwell"
+        }
+      },
+      "call_script": "maria-cantwell-wa",
+      "counted": null
+    },
+    {
+      "rank": 65,
+      "slug": "raphael-warnock-ga",
+      "bioguide_id": "W000790",
+      "name": "Raphael Warnock",
+      "party": "D",
+      "state": "GA",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0658,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 1.0,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.3655,
+        "leverage": 0.18,
+        "expected_impact": 0.0658
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3643",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Atlanta",
+            "phone": "(470) 786-7800"
+          }
+        ],
+        "web_form_url": "https://www.warnock.senate.gov/contact",
+        "social": {
+          "twitter": "@SenReverendWarnock"
+        }
+      },
+      "call_script": "raphael-warnock-ga",
+      "counted": null
+    },
+    {
+      "rank": 66,
+      "slug": "john-thune-sd",
+      "bioguide_id": "T000250",
+      "name": "John Thune",
+      "party": "R",
+      "state": "SD",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0653,
+      "key_factor": "Leadership role",
+      "key_factor_short": "Party leadership",
+      "key_factor_long": "Holds a leadership position that sets the party agenda. Pressure here ripples across the caucus.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 1.0,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.192,
+        "leverage": 0.34,
+        "expected_impact": 0.0653
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2321",
+        "dc_fax": "(202) 228-5429",
+        "state_offices": [
+          {
+            "city": "Sioux Falls",
+            "phone": "(605) 334-9596"
+          }
+        ],
+        "web_form_url": "https://www.thune.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJohnThune"
+        }
+      },
+      "call_script": "john-thune-sd",
+      "counted": null
+    },
+    {
+      "rank": 67,
+      "slug": "dave-mccormick-pa",
+      "bioguide_id": "M001226",
+      "name": "Dave McCormick",
+      "party": "R",
+      "state": "PA",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0635,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 1.0,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.353,
+        "leverage": 0.18,
+        "expected_impact": 0.0635
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4254",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Philadelphia",
+            "phone": "(215) 241-1090"
+          }
+        ],
+        "web_form_url": "https://www.mccormick.senate.gov/contact",
+        "social": {
+          "twitter": "@SenMcCormickPA"
+        }
+      },
+      "call_script": "dave-mccormick-pa",
+      "counted": null
+    },
+    {
+      "rank": 68,
+      "slug": "mike-lee-ut",
+      "bioguide_id": "L000577",
+      "name": "Mike Lee",
+      "party": "R",
+      "state": "UT",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.061,
+      "key_factor": "Committee power",
+      "key_factor_short": "Holds war funding power",
+      "key_factor_long": "Sits on a committee that controls war funding. Your call reaches someone who can directly block the $200B.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.4,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.218,
+        "leverage": 0.28,
+        "expected_impact": 0.061
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5444",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Salt Lake City",
+            "phone": "(801) 524-5933"
+          }
+        ],
+        "web_form_url": "https://www.lee.senate.gov/contact",
+        "social": {
+          "twitter": "@SenMikeLee"
+        }
+      },
+      "call_script": "mike-lee-ut",
+      "counted": null
+    },
+    {
+      "rank": 69,
+      "slug": "john-fetterman-pa",
+      "bioguide_id": "F000479",
+      "name": "John Fetterman",
+      "party": "D",
+      "state": "PA",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0599,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.75,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.333,
+        "leverage": 0.18,
+        "expected_impact": 0.0599
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4254",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Philadelphia",
+            "phone": "(215) 241-1090"
+          }
+        ],
+        "web_form_url": "https://www.fetterman.senate.gov/contact",
+        "social": {
+          "twitter": "@SenFettermanPA"
+        }
+      },
+      "call_script": "john-fetterman-pa",
+      "counted": null
+    },
+    {
+      "rank": 70,
+      "slug": "amy-klobuchar-mn",
+      "bioguide_id": "K000367",
+      "name": "Amy Klobuchar",
+      "party": "D",
+      "state": "MN",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0572,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.318,
+        "leverage": 0.18,
+        "expected_impact": 0.0572
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3244",
+        "dc_fax": "(202) 228-2186",
+        "state_offices": [
+          {
+            "city": "Minneapolis",
+            "phone": "(612) 727-5220"
+          }
+        ],
+        "web_form_url": "https://www.klobuchar.senate.gov/contact",
+        "social": {
+          "twitter": "@SenAmyKlobuchar"
+        }
+      },
+      "call_script": "amy-klobuchar-mn",
+      "counted": null
+    },
+    {
+      "rank": 71,
+      "slug": "martin-heinrich-nm",
+      "bioguide_id": "H001046",
+      "name": "Martin Heinrich",
+      "party": "D",
+      "state": "NM",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0572,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.8,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.318,
+        "leverage": 0.18,
+        "expected_impact": 0.0572
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5521",
+        "dc_fax": "(202) 228-2040",
+        "state_offices": [
+          {
+            "city": "Albuquerque",
+            "phone": "(505) 346-6601"
+          }
+        ],
+        "web_form_url": "https://www.heinrich.senate.gov/contact",
+        "social": {
+          "twitter": "@MartinHeinrich"
+        }
+      },
+      "call_script": "martin-heinrich-nm",
+      "counted": null
+    },
+    {
+      "rank": 72,
+      "slug": "john-barrasso-wy",
+      "bioguide_id": "B001261",
+      "name": "John Barrasso",
+      "party": "R",
+      "state": "WY",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0571,
+      "key_factor": "Leadership role",
+      "key_factor_short": "Party leadership",
+      "key_factor_long": "Holds a leadership position that sets the party agenda. Pressure here ripples across the caucus.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 1.0,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.168,
+        "leverage": 0.34,
+        "expected_impact": 0.0571
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6441",
+        "dc_fax": "(202) 224-1724",
+        "state_offices": [
+          {
+            "city": "Casper",
+            "phone": "(307) 261-6413"
+          }
+        ],
+        "web_form_url": "https://www.barrasso.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJohnBarrasso"
+        }
+      },
+      "call_script": "john-barrasso-wy",
+      "counted": null
+    },
+    {
+      "rank": 73,
+      "slug": "tammy-baldwin-wi",
+      "bioguide_id": "B001230",
+      "name": "Tammy Baldwin",
+      "party": "D",
+      "state": "WI",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0568,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 1.0,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.3155,
+        "leverage": 0.18,
+        "expected_impact": 0.0568
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5653",
+        "dc_fax": "(202) 224-9787",
+        "state_offices": [
+          {
+            "city": "Milwaukee",
+            "phone": "(414) 297-4451"
+          }
+        ],
+        "web_form_url": "https://www.baldwin.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorBaldwin"
+        }
+      },
+      "call_script": "tammy-baldwin-wi",
+      "counted": null
+    },
+    {
+      "rank": 74,
+      "slug": "ted-budd-nc",
+      "bioguide_id": "B001311",
+      "name": "Ted Budd",
+      "party": "R",
+      "state": "NC",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.055,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.3055,
+        "leverage": 0.18,
+        "expected_impact": 0.055
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3154",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Winston-Salem",
+            "phone": "(336) 998-1313"
+          }
+        ],
+        "web_form_url": "https://www.budd.senate.gov/contact",
+        "social": {
+          "twitter": "@SenTedBudd"
+        }
+      },
+      "call_script": "ted-budd-nc",
+      "counted": null
+    },
+    {
+      "rank": 75,
+      "slug": "ruben-gallego-az",
+      "bioguide_id": "G000574",
+      "name": "Ruben Gallego",
+      "party": "D",
+      "state": "AZ",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0509,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.75,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.283,
+        "leverage": 0.18,
+        "expected_impact": 0.0509
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2934",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Phoenix",
+            "phone": "(602) 240-2200"
+          }
+        ],
+        "web_form_url": "https://www.gallego.senate.gov/contact",
+        "social": {
+          "twitter": "@SenRubenGallego"
+        }
+      },
+      "call_script": "ruben-gallego-az",
+      "counted": null
+    },
+    {
+      "rank": 76,
+      "slug": "elissa-slotkin-mi",
+      "bioguide_id": "S001208",
+      "name": "Elissa Slotkin",
+      "party": "D",
+      "state": "MI",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0509,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.75,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.283,
+        "leverage": 0.18,
+        "expected_impact": 0.0509
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6221",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Lansing",
+            "phone": "(517) 373-1900"
+          }
+        ],
+        "web_form_url": "https://www.slotkin.senate.gov/contact",
+        "social": {
+          "twitter": "@SenSlotkin"
+        }
+      },
+      "call_script": "elissa-slotkin-mi",
+      "counted": null
+    },
+    {
+      "rank": 77,
+      "slug": "bernie-moreno-oh",
+      "bioguide_id": "M001225",
+      "name": "Bernie Moreno",
+      "party": "R",
+      "state": "OH",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0487,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.75,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2705,
+        "leverage": 0.18,
+        "expected_impact": 0.0487
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2315",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Cleveland",
+            "phone": "(216) 522-7095"
+          }
+        ],
+        "web_form_url": "https://www.moreno.senate.gov/contact",
+        "social": {
+          "twitter": "@SenBernieMoreno"
+        }
+      },
+      "call_script": "bernie-moreno-oh",
+      "counted": null
+    },
+    {
+      "rank": 78,
+      "slug": "catherine-cortez-masto-nv",
+      "bioguide_id": "C001113",
+      "name": "Catherine Cortez Masto",
+      "party": "D",
+      "state": "NV",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0482,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.268,
+        "leverage": 0.18,
+        "expected_impact": 0.0482
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3542",
+        "dc_fax": "(202) 228-6753",
+        "state_offices": [
+          {
+            "city": "Las Vegas",
+            "phone": "(702) 388-5020"
+          }
+        ],
+        "web_form_url": "https://www.cortezmasto.senate.gov/contact",
+        "social": {
+          "twitter": "@SenCortezMasto"
+        }
+      },
+      "call_script": "catherine-cortez-masto-nv",
+      "counted": null
+    },
+    {
+      "rank": 79,
+      "slug": "maggie-hassan-nh",
+      "bioguide_id": "H001076",
+      "name": "Maggie Hassan",
+      "party": "D",
+      "state": "NH",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0482,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.268,
+        "leverage": 0.18,
+        "expected_impact": 0.0482
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3324",
+        "dc_fax": "(202) 228-0581",
+        "state_offices": [
+          {
+            "city": "Manchester",
+            "phone": "(603) 622-2204"
+          }
+        ],
+        "web_form_url": "https://www.hassan.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorHassan"
+        }
+      },
+      "call_script": "maggie-hassan-nh",
+      "counted": null
+    },
+    {
+      "rank": 80,
+      "slug": "tommy-tuberville-al",
+      "bioguide_id": "T000278",
+      "name": "Tommy Tuberville",
+      "party": "R",
+      "state": "AL",
+      "senate_class": 2,
+      "up_2026": true,
+      "expected_impact": 0.048,
+      "key_factor": "Electoral proximity (up 2026)",
+      "key_factor_short": "Faces voters in November",
+      "key_factor_long": "Up for reelection in 2026. Every call is a reminder this vote follows them to the ballot box.",
+      "scores": {
+        "m1_electoral_proximity": 1.0,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.1,
+        "m4_independence": 0.15,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 0.7,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.3,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2184,
+        "leverage": 0.22,
+        "expected_impact": 0.048
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4124",
+        "dc_fax": "(202) 228-0398",
+        "state_offices": [
+          {
+            "city": "Montgomery",
+            "phone": "(334) 523-7424"
+          }
+        ],
+        "web_form_url": "https://www.tuberville.senate.gov/contact",
+        "social": {
+          "twitter": "@SenTuberville"
+        }
+      },
+      "call_script": "tommy-tuberville-al",
+      "counted": null
+    },
+    {
+      "rank": 81,
+      "slug": "ashley-moody-fl",
+      "bioguide_id": "M001224",
+      "name": "Ashley Moody",
+      "party": "R",
+      "state": "FL",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.046,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2555,
+        "leverage": 0.18,
+        "expected_impact": 0.046
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3041",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Tampa",
+            "phone": "(813) 225-7040"
+          }
+        ],
+        "web_form_url": "https://www.moody.senate.gov/contact",
+        "social": {}
+      },
+      "call_script": "ashley-moody-fl",
+      "counted": null
+    },
+    {
+      "rank": 82,
+      "slug": "jon-husted-oh",
+      "bioguide_id": "H001093",
+      "name": "Jon Husted",
+      "party": "R",
+      "state": "OH",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.046,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.2,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2555,
+        "leverage": 0.18,
+        "expected_impact": 0.046
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3353",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Columbus",
+            "phone": "(614) 469-6774"
+          }
+        ],
+        "web_form_url": "https://www.husted.senate.gov/contact",
+        "social": {}
+      },
+      "call_script": "jon-husted-oh",
+      "counted": null
+    },
+    {
+      "rank": 83,
+      "slug": "katie-britt-al",
+      "bioguide_id": "B001320",
+      "name": "Katie Britt",
+      "party": "R",
+      "state": "AL",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0392,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.218,
+        "leverage": 0.18,
+        "expected_impact": 0.0392
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5744",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Montgomery",
+            "phone": "(334) 230-0698"
+          }
+        ],
+        "web_form_url": "https://www.britt.senate.gov/contact",
+        "social": {
+          "twitter": "@SenKatieBritt"
+        }
+      },
+      "call_script": "katie-britt-al",
+      "counted": null
+    },
+    {
+      "rank": 84,
+      "slug": "john-boozman-ar",
+      "bioguide_id": "B001236",
+      "name": "John Boozman",
+      "party": "R",
+      "state": "AR",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0392,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.218,
+        "leverage": 0.18,
+        "expected_impact": 0.0392
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4843",
+        "dc_fax": "(202) 228-1371",
+        "state_offices": [
+          {
+            "city": "Little Rock",
+            "phone": "(501) 372-7153"
+          }
+        ],
+        "web_form_url": "https://www.boozman.senate.gov/contact",
+        "social": {
+          "twitter": "@JohnBoozman"
+        }
+      },
+      "call_script": "john-boozman-ar",
+      "counted": null
+    },
+    {
+      "rank": 85,
+      "slug": "mike-crapo-id",
+      "bioguide_id": "C000880",
+      "name": "Mike Crapo",
+      "party": "R",
+      "state": "ID",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0392,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.218,
+        "leverage": 0.18,
+        "expected_impact": 0.0392
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6142",
+        "dc_fax": "(202) 228-1375",
+        "state_offices": [
+          {
+            "city": "Boise",
+            "phone": "(208) 334-1776"
+          }
+        ],
+        "web_form_url": "https://www.crapo.senate.gov/contact",
+        "social": {
+          "twitter": "@MikeCrapo"
+        }
+      },
+      "call_script": "mike-crapo-id",
+      "counted": null
+    },
+    {
+      "rank": 86,
+      "slug": "todd-young-in",
+      "bioguide_id": "Y000064",
+      "name": "Todd Young",
+      "party": "R",
+      "state": "IN",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0392,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.218,
+        "leverage": 0.18,
+        "expected_impact": 0.0392
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5623",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Indianapolis",
+            "phone": "(317) 226-6700"
+          }
+        ],
+        "web_form_url": "https://www.young.senate.gov/contact",
+        "social": {
+          "twitter": "@SenToddYoung"
+        }
+      },
+      "call_script": "todd-young-in",
+      "counted": null
+    },
+    {
+      "rank": 87,
+      "slug": "eric-schmitt-mo",
+      "bioguide_id": "S001227",
+      "name": "Eric Schmitt",
+      "party": "R",
+      "state": "MO",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0392,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.218,
+        "leverage": 0.18,
+        "expected_impact": 0.0392
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5721",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "St. Louis",
+            "phone": "(314) 456-8022"
+          }
+        ],
+        "web_form_url": "https://www.schmitt.senate.gov/contact",
+        "social": {
+          "twitter": "@SenEricSchmitt"
+        }
+      },
+      "call_script": "eric-schmitt-mo",
+      "counted": null
+    },
+    {
+      "rank": 88,
+      "slug": "jacky-rosen-nv",
+      "bioguide_id": "R000608",
+      "name": "Jacky Rosen",
+      "party": "D",
+      "state": "NV",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0392,
+      "key_factor": "Blue-state electorate",
+      "key_factor_short": "Represents antiwar voters",
+      "key_factor_long": "Represents a state where the majority oppose this war. Ignoring constituents is an electoral risk.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.4,
+        "m3_ambivalence": 0.05,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.218,
+        "leverage": 0.18,
+        "expected_impact": 0.0392
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6244",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Las Vegas",
+            "phone": "(702) 388-0205"
+          }
+        ],
+        "web_form_url": "https://www.rosen.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJackyRosen"
+        }
+      },
+      "call_script": "jacky-rosen-nv",
+      "counted": null
+    },
+    {
+      "rank": 89,
+      "slug": "john-hoeven-nd",
+      "bioguide_id": "H001061",
+      "name": "John Hoeven",
+      "party": "R",
+      "state": "ND",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0392,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.218,
+        "leverage": 0.18,
+        "expected_impact": 0.0392
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2551",
+        "dc_fax": "(202) 224-7999",
+        "state_offices": [
+          {
+            "city": "Bismarck",
+            "phone": "(701) 250-4618"
+          }
+        ],
+        "web_form_url": "https://www.hoeven.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJohnHoeven"
+        }
+      },
+      "call_script": "john-hoeven-nd",
+      "counted": null
+    },
+    {
+      "rank": 90,
+      "slug": "james-lankford-ok",
+      "bioguide_id": "L000575",
+      "name": "James Lankford",
+      "party": "R",
+      "state": "OK",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0392,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.218,
+        "leverage": 0.18,
+        "expected_impact": 0.0392
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5754",
+        "dc_fax": "(202) 228-1015",
+        "state_offices": [
+          {
+            "city": "Oklahoma City",
+            "phone": "(405) 231-4941"
+          }
+        ],
+        "web_form_url": "https://www.lankford.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorLankford"
+        }
+      },
+      "call_script": "james-lankford-ok",
+      "counted": null
+    },
+    {
+      "rank": 91,
+      "slug": "tim-sheehy-mt",
+      "bioguide_id": "S001230",
+      "name": "Tim Sheehy",
+      "party": "R",
+      "state": "MT",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0361,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.5,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2005,
+        "leverage": 0.18,
+        "expected_impact": 0.0361
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2644",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Billings",
+            "phone": "(406) 245-6822"
+          }
+        ],
+        "web_form_url": "https://www.sheehy.senate.gov/contact",
+        "social": {
+          "twitter": "@SenTimSheehy"
+        }
+      },
+      "call_script": "tim-sheehy-mt",
+      "counted": null
+    },
+    {
+      "rank": 92,
+      "slug": "deb-fischer-ne",
+      "bioguide_id": "F000463",
+      "name": "Deb Fischer",
+      "party": "R",
+      "state": "NE",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0361,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.5,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.2005,
+        "leverage": 0.18,
+        "expected_impact": 0.0361
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6551",
+        "dc_fax": "(202) 228-1325",
+        "state_offices": [
+          {
+            "city": "Lincoln",
+            "phone": "(402) 441-4600"
+          }
+        ],
+        "web_form_url": "https://www.fischer.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorFischer"
+        }
+      },
+      "call_script": "deb-fischer-ne",
+      "counted": null
+    },
+    {
+      "rank": 93,
+      "slug": "john-kennedy-la",
+      "bioguide_id": "K000393",
+      "name": "John Kennedy",
+      "party": "R",
+      "state": "LA",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0346,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.192,
+        "leverage": 0.18,
+        "expected_impact": 0.0346
+      },
+      "contact": {
+        "dc_phone": "(202) 224-4623",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Baton Rouge",
+            "phone": "(225) 926-8033"
+          }
+        ],
+        "web_form_url": "https://www.kennedy.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJohnKennedy"
+        }
+      },
+      "call_script": "john-kennedy-la",
+      "counted": null
+    },
+    {
+      "rank": 94,
+      "slug": "tim-scott-sc",
+      "bioguide_id": "S001184",
+      "name": "Tim Scott",
+      "party": "R",
+      "state": "SC",
+      "senate_class": 3,
+      "up_2026": false,
+      "expected_impact": 0.0346,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.3,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.192,
+        "leverage": 0.18,
+        "expected_impact": 0.0346
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6121",
+        "dc_fax": "(202) 228-5143",
+        "state_offices": [
+          {
+            "city": "Columbia",
+            "phone": "(803) 771-6112"
+          }
+        ],
+        "web_form_url": "https://www.scott.senate.gov/contact",
+        "social": {
+          "twitter": "@SenatorTimScott"
+        }
+      },
+      "call_script": "tim-scott-sc",
+      "counted": null
+    },
+    {
+      "rank": 95,
+      "slug": "josh-hawley-mo",
+      "bioguide_id": "H001089",
+      "name": "Josh Hawley",
+      "party": "R",
+      "state": "MO",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0302,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.168,
+        "leverage": 0.18,
+        "expected_impact": 0.0302
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6154",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Kansas City",
+            "phone": "(816) 960-4694"
+          }
+        ],
+        "web_form_url": "https://www.hawley.senate.gov/contact",
+        "social": {
+          "twitter": "@HawleyMO"
+        }
+      },
+      "call_script": "josh-hawley-mo",
+      "counted": null
+    },
+    {
+      "rank": 96,
+      "slug": "kevin-cramer-nd",
+      "bioguide_id": "C001096",
+      "name": "Kevin Cramer",
+      "party": "R",
+      "state": "ND",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0302,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.168,
+        "leverage": 0.18,
+        "expected_impact": 0.0302
+      },
+      "contact": {
+        "dc_phone": "(202) 224-2043",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Bismarck",
+            "phone": "(701) 232-5094"
+          }
+        ],
+        "web_form_url": "https://www.cramer.senate.gov/contact",
+        "social": {
+          "twitter": "@SenKevinCramer"
+        }
+      },
+      "call_script": "kevin-cramer-nd",
+      "counted": null
+    },
+    {
+      "rank": 97,
+      "slug": "marsha-blackburn-tn",
+      "bioguide_id": "B001243",
+      "name": "Marsha Blackburn",
+      "party": "R",
+      "state": "TN",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0302,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.168,
+        "leverage": 0.18,
+        "expected_impact": 0.0302
+      },
+      "contact": {
+        "dc_phone": "(202) 224-3344",
+        "dc_fax": "(202) 228-0566",
+        "state_offices": [
+          {
+            "city": "Nashville",
+            "phone": "(615) 736-5129"
+          }
+        ],
+        "web_form_url": "https://www.blackburn.senate.gov/contact",
+        "social": {
+          "twitter": "@MarshaBlackburn"
+        }
+      },
+      "call_script": "marsha-blackburn-tn",
+      "counted": null
+    },
+    {
+      "rank": 98,
+      "slug": "john-curtis-ut",
+      "bioguide_id": "C001114",
+      "name": "John Curtis",
+      "party": "R",
+      "state": "UT",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0302,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.168,
+        "leverage": 0.18,
+        "expected_impact": 0.0302
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5444",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Salt Lake City",
+            "phone": "(801) 524-5933"
+          }
+        ],
+        "web_form_url": "https://www.curtis.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJohnCurtis"
+        }
+      },
+      "call_script": "john-curtis-ut",
+      "counted": null
+    },
+    {
+      "rank": 99,
+      "slug": "jim-justice-wv",
+      "bioguide_id": "J000302",
+      "name": "Jim Justice",
+      "party": "R",
+      "state": "WV",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0302,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.25,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.168,
+        "leverage": 0.18,
+        "expected_impact": 0.0302
+      },
+      "contact": {
+        "dc_phone": "(202) 224-6472",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Charleston",
+            "phone": "(304) 347-5372"
+          }
+        ],
+        "web_form_url": "https://www.justice.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJimJustice"
+        }
+      },
+      "call_script": "jim-justice-wv",
+      "counted": null
+    },
+    {
+      "rank": 100,
+      "slug": "jim-banks-in",
+      "bioguide_id": "B001299",
+      "name": "Jim Banks",
+      "party": "R",
+      "state": "IN",
+      "senate_class": 1,
+      "up_2026": false,
+      "expected_impact": 0.0256,
+      "key_factor": "Signal/narrative value if shifted",
+      "key_factor_short": "Could break the dam",
+      "key_factor_long": "If this senator breaks, it changes the political calculus. One defection gives cover to others.",
+      "scores": {
+        "m1_electoral_proximity": 0.1,
+        "m2_electorate_alignment": 0.05,
+        "m3_ambivalence": 0.2,
+        "m4_independence": 0.4,
+        "m5_margin": 0.05,
+        "m6_primary_modifier": 1.0,
+        "m7_committee_power": 0.15,
+        "m8_leadership": 0.2,
+        "m9_signal_value": 0.2,
+        "m10_saturation": 1.0,
+        "persuadability": 0.142,
+        "leverage": 0.18,
+        "expected_impact": 0.0256
+      },
+      "contact": {
+        "dc_phone": "(202) 224-5623",
+        "dc_fax": "",
+        "state_offices": [
+          {
+            "city": "Indianapolis",
+            "phone": "(317) 226-5555"
+          }
+        ],
+        "web_form_url": "https://www.banks.senate.gov/contact",
+        "social": {
+          "twitter": "@SenJimBanks"
+        }
+      },
+      "call_script": "jim-banks-in",
+      "counted": null
+    }
+  ]
+}
