@@ -20,28 +20,75 @@ Counted is a routing tool. It identifies where calls will have the most impact a
 Expected Impact = Persuadability × Leverage
 ```
 
-**Persuadability** — will calls actually change their behavior?
+### Persuadability
 
-| Factor | What it measures |
-|---|---|
-| Electoral proximity | Are they up for reelection in 2026? |
-| Electorate alignment | Does their state's PVI suggest voters oppose the war? |
-| Demonstrated ambivalence | Have they hedged, set conditions, or avoided commitment? |
-| Historical independence | How often do they break with their party? |
-| Electoral margin | How tight was their last race? |
-| Primary direction | Are they threatened from the general or from a primary? |
+Weighted sum of five factors, multiplied by a sixth:
 
-**Leverage** — how much does their behavior matter?
+```
+Persuadability = (0.25·M1 + 0.25·M2 + 0.25·M3 + 0.12·M4 + 0.13·M5) × M6
+```
 
-| Factor | What it measures |
-|---|---|
-| Committee power | Do they sit on Appropriations, Armed Services, or Foreign Relations? |
-| Leadership role | Can they set agenda or whip votes? |
-| Signal value | Would their defection change the calculus for others? |
+M1, M2, and M3 are weighted equally at 0.25 because the model treats electoral exposure, electorate alignment, and personal ambivalence as roughly equally strong signals that a senator might respond to pressure. M4 and M5 are weaker signals — a senator can have a narrow margin and still vote in lockstep.
 
-The top result is Susan Collins (R-ME) at 0.80 — she chairs the Appropriations Committee (the committee the $200B goes through), faces reelection in a state that went for Harris, and has publicly hedged on her support. The #2 is at 0.35. The top 20 includes 11 Republicans and 9 Democrats.
+| Factor | Weight | Input | Scoring tiers |
+|---|---|---|---|
+| M1: Electoral proximity | 0.25 | Senate class | Class II (up 2026) → 1.0, Class III (2028) → 0.3, Class I (2030) → 0.1 |
+| M2: Electorate alignment | 0.25 | Cook PVI | D+5 → 1.0, D+1 → 0.8, EVEN → 0.6, R+4 → 0.4, R+9 → 0.2, R+10+ → 0.05 |
+| M3: Ambivalence | 0.25 | Hand-scored | Explicit scores for ~20 senators (0.05–0.95). Default: R → 0.20, D → 0.05 |
+| M4: Independence | 0.12 | Party-line deviation % | ≥20% → 1.0, ≥10% → 0.7, ≥5% → 0.4, <5% → 0.15 |
+| M5: Electoral margin | 0.13 | Last election margin | <3pt → 1.0, ≤6 → 0.75, ≤10 → 0.5, ≤20 → 0.25, >20 → 0.05 |
 
-All weights and factors are in the code. You can disagree with them. That's intentional.
+**M6: Primary direction modifier.** M6 is not a weighted addend — it multiplies the entire persuadability sum. Values above 1.0 boost the score (the senator faces a general-election threat, so opposing the war helps them); values below 1.0 dampen it (the senator faces a right-wing primary, so opposing the war hurts them). Most senators get 1.0 (no adjustment). Collins gets 1.2; senators like Cotton and Cornyn get 0.7.
+
+This factor exists because the same constituent call has opposite effects depending on which election the senator is worried about. A call saying "I'll vote against you if you fund this war" helps Collins in a general election and hurts Cotton in a primary. Treating M6 as a multiplier scales the entire persuadability signal rather than penalizing just one component.
+
+### Leverage
+
+```
+Leverage = 0.40·M7 + 0.20·M8 + 0.40·M9
+```
+
+Committee power and signal value are weighted equally at 0.40. The model considers "can they directly block the funding" and "would their defection shift the political landscape" as equally important forms of leverage. Leadership gets a lower weight because most leaders are ideologically committed — the whip is unlikely to break, but if they did, it would matter.
+
+| Factor | Weight | Scoring |
+|---|---|---|
+| M7: Committee power | 0.40 | Chair of Approps/Armed Svcs/Foreign Rels → 1.0, Ranking Member → 0.85, Member → 0.7, Intel/Budget → 0.4, none → 0.15 |
+| M8: Leadership | 0.20 | Majority/Minority Leader/Whip → 1.0, Committee Chair/Ranking → 0.7, Conference/Caucus Chair → 0.6, none → 0.2 |
+| M9: Signal value | 0.40 | Hand-scored, 0.2–0.9. Collins → 0.9, Murkowski → 0.8, Moran → 0.65. Default → 0.2 |
+
+### Debatable assumptions
+
+**R vs. D ambivalence defaults.** Senators without explicit M3 scores default to 0.20 (R) or 0.05 (D). The reasoning: most Republicans haven't publicly opposed the war but belong to a party with some isolationist tradition; most Democrats have actively opposed it and are scored explicitly if they've wavered. You could argue the R default should be lower or the D default higher.
+
+**M10 is dormant.** Set to 1.0 for all senators. Designed for Phase 3, where it would model diminishing returns — the 50,000th call to Collins matters less than the 500th. Currently a no-op because there's no contact data to drive it.
+
+**Key factor labels.** Each senator's "why they matter" tag (e.g., "Holds war funding power") is derived by computing the marginal contribution of each factor to the final score and picking the largest. It's not hand-assigned — it falls out of the math.
+
+### Worked example: Susan Collins (R-ME)
+
+```
+M1 (electoral proximity):  1.0   — Class II, up in 2026
+M2 (electorate alignment): 0.8   — Maine is D+3
+M3 (ambivalence):          0.55  — hand-scored from public hedging
+M4 (independence):         0.7   — 17% party-line deviation
+M5 (margin):               0.5   — won by 8.6 points
+M6 (primary direction):    1.2   — general election threat boosts
+
+Persuadability = (0.25×1.0 + 0.25×0.8 + 0.25×0.55 + 0.12×0.7 + 0.13×0.5) × 1.2
+               = 0.7365 × 1.2
+               = 0.8838
+
+M7 (committee power):      1.0   — chairs Appropriations
+M8 (leadership):           0.7   — committee chair
+M9 (signal value):         0.9   — highest in dataset
+
+Leverage = 0.40×1.0 + 0.20×0.7 + 0.40×0.9
+         = 0.90
+
+Expected Impact = 0.8838 × 0.90 = 0.7954
+```
+
+The #2 senator (Tillis, R-NC) scores 0.35. That gap isn't an error — Collins is an unusually high-leverage target because she sits at the intersection of committee power, electoral vulnerability, and demonstrated ambivalence simultaneously. The top 20 includes 11 Republicans and 9 Democrats.
 
 ## The web app
 
@@ -116,17 +163,15 @@ Deploy `dist/` to any static host. The `public/_redirects` file handles SPA rout
 └── tests/
 ```
 
-## Methodology notes
+## Data sources
 
-Most inputs are derived from public data: FEC filings, committee rosters, Cook PVI, vote records, election results.
+Most scoring inputs are derived from public records: Cook PVI, FEC election results, committee rosters from senate.gov, and vote tallies from ProPublica/VoteView.
 
-Two inputs involve judgment:
+Two inputs are hand-scored and subjective:
 
-**Ambivalence scores** (M3) for ~20 key senators were hand-scored from public statements, floor speeches, and reported conditions on support. Jerry Moran (R-KS) gets a 0.70 for the most vocal skepticism; Tom Cotton (R-AR) gets a 0.05. This is the most subjective factor.
+**Ambivalence (M3):** ~20 senators scored 0.05–0.95 from public statements, floor speeches, and reported conditions on support. Moran (R-KS) gets 0.70 for the most vocal skepticism; Paul (R-KY) gets 0.95 as a consistent non-interventionist; Cotton (R-AR) gets 0.05. The remaining ~80 senators use defaults (R: 0.20, D: 0.05).
 
-**Signal value** (M9) estimates "how much would it matter if this senator broke?" — a question about political dynamics that doesn't have a clean quantitative answer.
-
-Everything else is mechanical.
+**Signal value (M9):** ~20 senators scored 0.2–0.9. This estimates "how much would it matter if this senator broke?" — inherently a judgment about political dynamics. Collins at 0.9 reflects that the Appropriations chair opposing the funding would be front-page news. A backbench freshman at 0.2 would not.
 
 ## What this is not
 
