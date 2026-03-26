@@ -1,0 +1,104 @@
+{
+  "bioguide_id": "D000618",
+  "name": "Steve Daines",
+  "party": "R",
+  "state": "MT",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-2651",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "dc_fax": {
+      "value": "(202) 228-1236",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "web_form_url": {
+      "value": "https://www.daines.senate.gov/contact",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "twitter": {
+      "value": "@SteveDaines",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "facebook": {
+      "value": "SteveDainesMT",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "instagram": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Great Falls",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "address": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      },
+      "phone": {
+        "value": "(406) 453-0148",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.310082+00:00",
+    "last_updated": "2026-03-26T21:27:05.310097+00:00",
+    "verification_notes": ""
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "bioguide_id": "H001086",
+  "name": "Bill Hagerty",
+  "party": "R",
+  "state": "TN",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-4944",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "dc_fax": {
+      "value": "(202) 228-3398",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "web_form_url": {
+      "value": "https://www.hagerty.senate.gov/contact",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "twitter": {
+      "value": "@SenatorHagerty",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "facebook": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "instagram": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Nashville",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "address": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      },
+      "phone": {
+        "value": "(615) 736-5129",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.673867+00:00",
+    "last_updated": "2026-03-26T21:27:05.673888+00:00",
+    "verification_notes": ""
+  }
+}

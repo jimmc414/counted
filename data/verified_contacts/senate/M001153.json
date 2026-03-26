@@ -1,0 +1,234 @@
+{
+  "bioguide_id": "M001153",
+  "name": "Lisa Murkowski",
+  "party": "R",
+  "state": "AK",
+  "senate_class": 3,
+  "up_2026": false,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-6665",
+      "status": "verified",
+      "source": "https://www.murkowski.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 224-5301",
+      "status": "verified",
+      "source": "https://www.murkowski.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "web_form_url": {
+      "value": "https://www.murkowski.senate.gov/contact/email",
+      "status": "verified",
+      "source": "https://www.murkowski.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@lisamurkowski",
+      "status": "verified",
+      "source": "https://www.murkowski.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "SenLisaMurkowski",
+      "status": "verified",
+      "source": "https://www.murkowski.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "senlisamurkowski",
+      "status": "verified",
+      "source": "https://www.murkowski.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "senatormurkowski",
+      "status": "verified",
+      "source": "https://www.murkowski.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Anchorage",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "510 L Street, Suite 600, Anchorage, AK 99501",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 271-3735",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(877) 857-0322",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Fairbanks",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "Fairbanks Federal Building, 101 12th Avenue, Room 172, Fairbanks, AK 99701",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 456-0233",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(877) 857-0322",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Juneau",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "800 Glacier Ave, Suite 101, Juneau, AK 99801",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 586-7277",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(877) 857-0322",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Wasilla",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "851 E. Westpoint Drive, Suite 307, Wasilla, AK 99654",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 376-7665",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(877) 857-0322",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Soldotna",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "44539 Sterling Highway, Suite 203, Soldotna, AK 99669",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 262-4220",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(877) 857-0322",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Ketchikan",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "1900 First Avenue, Suite 225, Ketchikan, AK 99901",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 225-6880",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(877) 857-0322",
+        "status": "verified",
+        "source": "https://www.murkowski.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:04.808650+00:00",
+    "last_updated": "2026-03-26T21:33:02.022498+00:00",
+    "verification_notes": ""
+  }
+}

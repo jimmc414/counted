@@ -1,0 +1,104 @@
+{
+  "bioguide_id": "G000359",
+  "name": "Lindsey Graham",
+  "party": "R",
+  "state": "SC",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-5972",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "dc_fax": {
+      "value": "(202) 224-3808",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "web_form_url": {
+      "value": "https://www.lgraham.senate.gov/contact",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "twitter": {
+      "value": "@LindseyGrahamSC",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "facebook": {
+      "value": "LindseyGraham",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "instagram": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Greenville",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "address": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      },
+      "phone": {
+        "value": "(864) 250-1417",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.602917+00:00",
+    "last_updated": "2026-03-26T21:27:05.602951+00:00",
+    "verification_notes": ""
+  }
+}

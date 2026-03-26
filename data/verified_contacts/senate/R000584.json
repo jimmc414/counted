@@ -1,0 +1,104 @@
+{
+  "bioguide_id": "R000584",
+  "name": "Jim Risch",
+  "party": "R",
+  "state": "ID",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-2752",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "dc_fax": {
+      "value": "(202) 224-2573",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "web_form_url": {
+      "value": "https://www.risch.senate.gov/contact",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "twitter": {
+      "value": "@SenatorRisch",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "facebook": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "instagram": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Boise",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "address": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      },
+      "phone": {
+        "value": "(208) 342-7985",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.009946+00:00",
+    "last_updated": "2026-03-26T21:27:05.009973+00:00",
+    "verification_notes": ""
+  }
+}

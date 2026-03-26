@@ -1,0 +1,208 @@
+{
+  "bioguide_id": "T000476",
+  "name": "Thom Tillis",
+  "party": "R",
+  "state": "NC",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-6342",
+      "status": "verified",
+      "source": "https://www.tillis.senate.gov/office-locations",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 228-2563",
+      "status": "verified",
+      "source": "https://www.tillis.senate.gov/office-locations",
+      "verified_date": "2026-03-26"
+    },
+    "web_form_url": {
+      "value": "https://www.tillis.senate.gov/email-me",
+      "status": "verified",
+      "source": "https://www.tillis.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@SenThomTillis",
+      "status": "verified",
+      "source": "https://www.tillis.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "SenatorThomTillis",
+      "status": "verified",
+      "source": "https://www.tillis.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "senthomtillis",
+      "status": "verified",
+      "source": "https://www.tillis.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "https://www.youtube.com/channel/UCUD9VGV4SSGWjGdbn37Ea2w",
+      "status": "verified",
+      "source": "https://www.tillis.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Raleigh",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "310 New Bern Ave, Suite 122, Raleigh, NC 27601",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(919) 856-4630",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(704) 510-1749",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Charlotte",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "10150 Mallard Creek Rd, Suite 508, Charlotte, NC 28262",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(704) 509-9087",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(704) 509-9162",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Greenville",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "1694 E. Arlington Blvd, Suite B, Greenville, NC 27858",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(252) 329-0371",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(252) 329-0290",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Hendersonville",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "1 Historic Courthouse Square, Suite 112, Hendersonville, NC 28792",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(828) 693-8750",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(828) 693-9724",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Greensboro",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "3200 Northline Ave, Suite 150, Greensboro, NC 27408",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(336) 885-0685",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(336) 885-0692",
+        "status": "verified",
+        "source": "https://www.tillis.senate.gov/office-locations",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.446446+00:00",
+    "last_updated": "2026-03-26T21:33:02.114156+00:00",
+    "verification_notes": ""
+  }
+}

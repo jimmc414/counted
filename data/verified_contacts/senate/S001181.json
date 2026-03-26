@@ -1,0 +1,234 @@
+{
+  "bioguide_id": "S001181",
+  "name": "Jeanne Shaheen",
+  "party": "D",
+  "state": "NH",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-2841",
+      "status": "verified",
+      "source": "https://www.shaheen.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 228-3194",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "web_form_url": {
+      "value": "https://www.shaheen.senate.gov/contact/contact-jeanne",
+      "status": "verified",
+      "source": "https://www.shaheen.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@SenatorShaheen",
+      "status": "verified",
+      "source": "https://www.shaheen.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/SenatorShaheen",
+      "status": "verified",
+      "source": "https://www.shaheen.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "https://www.instagram.com/senatorshaheen",
+      "status": "verified",
+      "source": "https://www.shaheen.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "bluesky": {
+      "value": "https://bsky.app/profile/shaheen.senate.gov",
+      "status": "verified",
+      "source": "https://www.shaheen.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "youtube": {
+      "value": "https://www.youtube.com/senatorshaheen",
+      "status": "verified",
+      "source": "https://www.shaheen.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Berlin",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "961 Main Street, Berlin, NH 03570",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(603) 752-6300",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Claremont",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "50 Opera House Square, Claremont, NH 03743",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(603) 542-4872",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Dover",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "340 Central Avenue, Suite 205, Dover, NH 03820",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(603) 750-3004",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Keene",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "12 Gilbo Avenue, Suite C, Keene, NH 03431",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(603) 358-6604",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Manchester",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "2 Wall Street, Suite 220, Manchester, NH 03101",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(603) 647-7500",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Nashua",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "60 Main Street, Suite 217, Nashua, NH 03060",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(603) 883-0196",
+        "status": "verified",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.shaheen.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.369531+00:00",
+    "last_updated": "2026-03-26T21:33:01.510768+00:00",
+    "verification_notes": ""
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "bioguide_id": "H001076",
+  "name": "Maggie Hassan",
+  "party": "D",
+  "state": "NH",
+  "senate_class": 3,
+  "up_2026": false,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-3324",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "dc_fax": {
+      "value": "(202) 228-0581",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "web_form_url": {
+      "value": "https://www.hassan.senate.gov/contact",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "twitter": {
+      "value": "@SenatorHassan",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "facebook": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "instagram": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Manchester",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "address": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      },
+      "phone": {
+        "value": "(603) 622-2204",
+        "status": "unverified",
+        "source": "",
+        "verified_date": ""
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": ""
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.378847+00:00",
+    "last_updated": "2026-03-26T21:27:05.378861+00:00",
+    "verification_notes": ""
+  }
+}

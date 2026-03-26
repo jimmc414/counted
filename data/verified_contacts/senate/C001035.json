@@ -1,0 +1,234 @@
+{
+  "bioguide_id": "C001035",
+  "name": "Susan Collins",
+  "party": "R",
+  "state": "ME",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-2523",
+      "status": "verified",
+      "source": "https://www.collins.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 224-2693",
+      "status": "verified",
+      "source": "",
+      "verified_date": "2026-03-26"
+    },
+    "web_form_url": {
+      "value": "https://www.collins.senate.gov/contact/email-senator-collins",
+      "status": "verified",
+      "source": "https://www.collins.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@SenatorCollins",
+      "status": "verified",
+      "source": "https://www.collins.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "susancollins",
+      "status": "verified",
+      "source": "https://www.collins.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "sensusancollins",
+      "status": "verified",
+      "source": "https://www.collins.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "SenatorSusanCollins",
+      "status": "verified",
+      "source": "",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "https://www.susancollins.com",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Augusta",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "68 Sewall Street, Room 507, Augusta, ME 04330",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(207) 622-8414",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Bangor",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "202 Harlow St., Room 20100, Bangor, ME 04401",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(207) 945-0417",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Biddeford",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "160 Main Street, Biddeford, ME 04005",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(207) 283-1101",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Caribou",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "25 Sweden Street, Suite A, Caribou, ME 04736",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(207) 493-7873",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Lewiston",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "184 Main Street, Suite 401, Lewiston, ME 04240",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(207) 784-6969",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Portland",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "200 Middle Street, Suite 801, Portland, ME 04101",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(207) 618-5560",
+        "status": "verified",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.collins.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.152495+00:00",
+    "last_updated": "2026-03-26T21:33:02.192884+00:00",
+    "verification_notes": ""
+  }
+}

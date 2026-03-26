@@ -1,0 +1,182 @@
+{
+  "bioguide_id": "R000605",
+  "name": "Mike Rounds",
+  "party": "R",
+  "state": "SD",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-5842",
+      "status": "verified",
+      "source": "https://www.rounds.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 224-7482",
+      "status": "verified",
+      "source": "https://www.rounds.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "web_form_url": {
+      "value": "https://www.rounds.senate.gov/contact",
+      "status": "verified",
+      "source": "https://www.rounds.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@senatorrounds",
+      "status": "verified",
+      "source": "https://www.rounds.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "SenatorRounds",
+      "status": "verified",
+      "source": "https://www.rounds.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "@senatorrounds",
+      "status": "verified",
+      "source": "https://www.rounds.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "UC-pvzimyBdpdkcIfsicrfrQ",
+      "status": "verified",
+      "source": "https://www.rounds.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Pierre",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "111 W Capitol Ave., Suite 210, Pierre, SD 57501",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(605) 224-1450",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(605) 224-1379",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Rapid City",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "603 Omaha St., Suite 100, Rapid City, SD 57701",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(605) 343-5035",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(605) 343-5348",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Sioux Falls",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "320 N Main Ave., Suite A, Sioux Falls, SD 57104",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(605) 336-0486",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(605) 336-6624",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Aberdeen",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "221 Brown County Highway 19 S, Suite 112, Aberdeen, SD 57401",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(605) 225-0366",
+        "status": "verified",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.rounds.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.638023+00:00",
+    "last_updated": "2026-03-26T21:33:01.690390+00:00",
+    "verification_notes": ""
+  }
+}

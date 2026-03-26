@@ -1,0 +1,156 @@
+{
+  "bioguide_id": "C001047",
+  "name": "Shelley Moore Capito",
+  "party": "R",
+  "state": "WV",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-6472",
+      "status": "verified",
+      "source": "https://www.capito.senate.gov/contact/office-locations",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 224-7665",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "web_form_url": {
+      "value": "https://www.capito.senate.gov/contact/share-your-opinion",
+      "status": "verified",
+      "source": "https://www.capito.senate.gov/contact/share-your-opinion",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@SenCapito",
+      "status": "verified",
+      "source": "https://www.capito.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "senshelley",
+      "status": "verified",
+      "source": "https://www.capito.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "sencapito",
+      "status": "verified",
+      "source": "https://www.capito.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "https://www.youtube.com/channel/UCbiXdR4XQ3vD9Xp5lfR9QXw",
+      "status": "verified",
+      "source": "https://www.capito.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Charleston",
+        "status": "verified",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "500 Virginia Street East, Suite 950, Charleston, WV 25301",
+        "status": "verified",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(304) 347-5372",
+        "status": "verified",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Martinsburg",
+        "status": "verified",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "300 Foxcroft Avenue, Suite 202A, Martinsburg, WV 25401",
+        "status": "verified",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(304) 262-9285",
+        "status": "verified",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Morgantown",
+        "status": "verified",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "48 Donley Street, Suite 504, Morgantown, WV 26501",
+        "status": "verified",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(304) 292-2310",
+        "status": "verified",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.capito.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.838471+00:00",
+    "last_updated": "2026-03-26T21:33:02.271786+00:00",
+    "verification_notes": ""
+  }
+}

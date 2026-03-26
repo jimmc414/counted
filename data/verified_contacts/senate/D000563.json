@@ -1,0 +1,182 @@
+{
+  "bioguide_id": "D000563",
+  "name": "Dick Durbin",
+  "party": "D",
+  "state": "IL",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-2152",
+      "status": "verified",
+      "source": "https://www.durbin.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 228-0400",
+      "status": "unverified",
+      "source": "",
+      "verified_date": ""
+    },
+    "web_form_url": {
+      "value": "https://www.durbin.senate.gov/contact/email",
+      "status": "verified",
+      "source": "https://www.durbin.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@SenatorDurbin",
+      "status": "verified",
+      "source": "https://www.durbin.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "SenatorDurbin",
+      "status": "verified",
+      "source": "https://www.durbin.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "bluesky": {
+      "value": "durbin.senate.gov",
+      "status": "verified",
+      "source": "https://www.durbin.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "youtube": {
+      "value": "SenatorDurbin",
+      "status": "verified",
+      "source": "https://www.durbin.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Chicago",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "230 S. Dearborn Street, Suite 3892, Chicago, IL 60604",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(312) 353-4952",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Springfield",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "525 S. 8th Street, Springfield, IL 62703",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(217) 492-4062",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Carbondale",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "250 W. Cherry Street, Suite 115-D, Carbondale, IL 62901",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(618) 351-1122",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Rock Island",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "1504 Third Avenue, Suite 227, Rock Island, IL 61201",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(309) 786-5173",
+        "status": "verified",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.durbin.senate.gov",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.029772+00:00",
+    "last_updated": "2026-03-26T21:33:01.772806+00:00",
+    "verification_notes": ""
+  }
+}

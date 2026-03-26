@@ -1,0 +1,3785 @@
+{
+  "created": "2026-03-26T21:27:04.765712+00:00",
+  "last_updated": "2026-03-26T21:33:02.337705+00:00",
+  "chambers": {
+    "senate": {
+      "total": 100,
+      "verified_count": 10,
+      "members": {
+        "T000278": {
+          "name": "Tommy Tuberville",
+          "file": "senate/T000278.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "B001320": {
+          "name": "Katie Britt",
+          "file": "senate/B001320.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001198": {
+          "name": "Dan Sullivan",
+          "file": "senate/S001198.json",
+          "fields_with_data": 5,
+          "fields_verified": 7,
+          "status": "verified"
+        },
+        "M001153": {
+          "name": "Lisa Murkowski",
+          "file": "senate/M001153.json",
+          "fields_with_data": 5,
+          "fields_verified": 7,
+          "status": "verified"
+        },
+        "G000574": {
+          "name": "Ruben Gallego",
+          "file": "senate/G000574.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "K000377": {
+          "name": "Mark Kelly",
+          "file": "senate/K000377.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001095": {
+          "name": "Tom Cotton",
+          "file": "senate/C001095.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "B001236": {
+          "name": "John Boozman",
+          "file": "senate/B001236.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001150": {
+          "name": "Adam Schiff",
+          "file": "senate/S001150.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "P000145": {
+          "name": "Alex Padilla",
+          "file": "senate/P000145.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "H001090": {
+          "name": "John Hickenlooper",
+          "file": "senate/H001090.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "B001267": {
+          "name": "Michael Bennet",
+          "file": "senate/B001267.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M001169": {
+          "name": "Chris Murphy",
+          "file": "senate/M001169.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "B001277": {
+          "name": "Richard Blumenthal",
+          "file": "senate/B001277.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "B001303": {
+          "name": "Lisa Blunt Rochester",
+          "file": "senate/B001303.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001088": {
+          "name": "Chris Coons",
+          "file": "senate/C001088.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001217": {
+          "name": "Rick Scott",
+          "file": "senate/S001217.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M001224": {
+          "name": "Ashley Moody",
+          "file": "senate/M001224.json",
+          "fields_with_data": 3,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "O000174": {
+          "name": "Jon Ossoff",
+          "file": "senate/O000174.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "W000790": {
+          "name": "Raphael Warnock",
+          "file": "senate/W000790.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "H001042": {
+          "name": "Mazie Hirono",
+          "file": "senate/H001042.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001194": {
+          "name": "Brian Schatz",
+          "file": "senate/S001194.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "R000584": {
+          "name": "Jim Risch",
+          "file": "senate/R000584.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C000880": {
+          "name": "Mike Crapo",
+          "file": "senate/C000880.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "D000563": {
+          "name": "Dick Durbin",
+          "file": "senate/D000563.json",
+          "fields_with_data": 5,
+          "fields_verified": 6,
+          "status": "verified"
+        },
+        "D000622": {
+          "name": "Tammy Duckworth",
+          "file": "senate/D000622.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "B001299": {
+          "name": "Jim Banks",
+          "file": "senate/B001299.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "Y000064": {
+          "name": "Todd Young",
+          "file": "senate/Y000064.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "E000295": {
+          "name": "Joni Ernst",
+          "file": "senate/E000295.json",
+          "fields_with_data": 5,
+          "fields_verified": 7,
+          "status": "verified"
+        },
+        "G000386": {
+          "name": "Chuck Grassley",
+          "file": "senate/G000386.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M001198": {
+          "name": "Roger Marshall",
+          "file": "senate/M001198.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M000934": {
+          "name": "Jerry Moran",
+          "file": "senate/M000934.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M000355": {
+          "name": "Mitch McConnell",
+          "file": "senate/M000355.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "P000603": {
+          "name": "Rand Paul",
+          "file": "senate/P000603.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001075": {
+          "name": "Bill Cassidy",
+          "file": "senate/C001075.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "K000393": {
+          "name": "John Kennedy",
+          "file": "senate/K000393.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "K000383": {
+          "name": "Angus King",
+          "file": "senate/K000383.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001035": {
+          "name": "Susan Collins",
+          "file": "senate/C001035.json",
+          "fields_with_data": 8,
+          "fields_verified": 7,
+          "status": "verified"
+        },
+        "A000376": {
+          "name": "Angela Alsobrooks",
+          "file": "senate/A000376.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "V000128": {
+          "name": "Chris Van Hollen",
+          "file": "senate/V000128.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "W000817": {
+          "name": "Elizabeth Warren",
+          "file": "senate/W000817.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M000133": {
+          "name": "Ed Markey",
+          "file": "senate/M000133.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001208": {
+          "name": "Elissa Slotkin",
+          "file": "senate/S001208.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "P000595": {
+          "name": "Gary Peters",
+          "file": "senate/P000595.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "K000367": {
+          "name": "Amy Klobuchar",
+          "file": "senate/K000367.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001203": {
+          "name": "Tina Smith",
+          "file": "senate/S001203.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "W000437": {
+          "name": "Roger Wicker",
+          "file": "senate/W000437.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "H001079": {
+          "name": "Cindy Hyde-Smith",
+          "file": "senate/H001079.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "H001089": {
+          "name": "Josh Hawley",
+          "file": "senate/H001089.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001227": {
+          "name": "Eric Schmitt",
+          "file": "senate/S001227.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001230": {
+          "name": "Tim Sheehy",
+          "file": "senate/S001230.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "D000618": {
+          "name": "Steve Daines",
+          "file": "senate/D000618.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "F000463": {
+          "name": "Deb Fischer",
+          "file": "senate/F000463.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "R000618": {
+          "name": "Pete Ricketts",
+          "file": "senate/R000618.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "R000608": {
+          "name": "Jacky Rosen",
+          "file": "senate/R000608.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001113": {
+          "name": "Catherine Cortez Masto",
+          "file": "senate/C001113.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001181": {
+          "name": "Jeanne Shaheen",
+          "file": "senate/S001181.json",
+          "fields_with_data": 4,
+          "fields_verified": 7,
+          "status": "verified"
+        },
+        "H001076": {
+          "name": "Maggie Hassan",
+          "file": "senate/H001076.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "K000394": {
+          "name": "Andy Kim",
+          "file": "senate/K000394.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "B001288": {
+          "name": "Cory Booker",
+          "file": "senate/B001288.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "H001046": {
+          "name": "Martin Heinrich",
+          "file": "senate/H001046.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "L000570": {
+          "name": "Ben Ray Lujan",
+          "file": "senate/L000570.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "G000555": {
+          "name": "Kirsten Gillibrand",
+          "file": "senate/G000555.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S000148": {
+          "name": "Chuck Schumer",
+          "file": "senate/S000148.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "T000476": {
+          "name": "Thom Tillis",
+          "file": "senate/T000476.json",
+          "fields_with_data": 5,
+          "fields_verified": 7,
+          "status": "verified"
+        },
+        "B001311": {
+          "name": "Ted Budd",
+          "file": "senate/B001311.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001096": {
+          "name": "Kevin Cramer",
+          "file": "senate/C001096.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "H001061": {
+          "name": "John Hoeven",
+          "file": "senate/H001061.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M001225": {
+          "name": "Bernie Moreno",
+          "file": "senate/M001225.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "H001093": {
+          "name": "Jon Husted",
+          "file": "senate/H001093.json",
+          "fields_with_data": 3,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M001190": {
+          "name": "Markwayne Mullin",
+          "file": "senate/M001190.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "L000575": {
+          "name": "James Lankford",
+          "file": "senate/L000575.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M001176": {
+          "name": "Jeff Merkley",
+          "file": "senate/M001176.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "W000779": {
+          "name": "Ron Wyden",
+          "file": "senate/W000779.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M001226": {
+          "name": "Dave McCormick",
+          "file": "senate/M001226.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "F000479": {
+          "name": "John Fetterman",
+          "file": "senate/F000479.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "W000802": {
+          "name": "Sheldon Whitehouse",
+          "file": "senate/W000802.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "R000122": {
+          "name": "Jack Reed",
+          "file": "senate/R000122.json",
+          "fields_with_data": 4,
+          "fields_verified": 8,
+          "status": "verified"
+        },
+        "G000359": {
+          "name": "Lindsey Graham",
+          "file": "senate/G000359.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S001184": {
+          "name": "Tim Scott",
+          "file": "senate/S001184.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "R000605": {
+          "name": "Mike Rounds",
+          "file": "senate/R000605.json",
+          "fields_with_data": 5,
+          "fields_verified": 7,
+          "status": "verified"
+        },
+        "T000250": {
+          "name": "John Thune",
+          "file": "senate/T000250.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "B001243": {
+          "name": "Marsha Blackburn",
+          "file": "senate/B001243.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "H001086": {
+          "name": "Bill Hagerty",
+          "file": "senate/H001086.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001098": {
+          "name": "Ted Cruz",
+          "file": "senate/C001098.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001056": {
+          "name": "John Cornyn",
+          "file": "senate/C001056.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001114": {
+          "name": "John Curtis",
+          "file": "senate/C001114.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "L000577": {
+          "name": "Mike Lee",
+          "file": "senate/L000577.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "S000033": {
+          "name": "Bernie Sanders",
+          "file": "senate/S000033.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "W000800": {
+          "name": "Peter Welch",
+          "file": "senate/W000800.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "K000384": {
+          "name": "Tim Kaine",
+          "file": "senate/K000384.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "W000805": {
+          "name": "Mark Warner",
+          "file": "senate/W000805.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C000127": {
+          "name": "Maria Cantwell",
+          "file": "senate/C000127.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "M001111": {
+          "name": "Patty Murray",
+          "file": "senate/M001111.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "J000302": {
+          "name": "Jim Justice",
+          "file": "senate/J000302.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "C001047": {
+          "name": "Shelley Moore Capito",
+          "file": "senate/C001047.json",
+          "fields_with_data": 5,
+          "fields_verified": 6,
+          "status": "verified"
+        },
+        "B001230": {
+          "name": "Tammy Baldwin",
+          "file": "senate/B001230.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "J000293": {
+          "name": "Ron Johnson",
+          "file": "senate/J000293.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "B001261": {
+          "name": "John Barrasso",
+          "file": "senate/B001261.json",
+          "fields_with_data": 4,
+          "fields_verified": 0,
+          "status": "seeded"
+        },
+        "L000571": {
+          "name": "Cynthia Lummis",
+          "file": "senate/L000571.json",
+          "fields_with_data": 5,
+          "fields_verified": 0,
+          "status": "seeded"
+        }
+      }
+    },
+    "house": {
+      "total": 438,
+      "verified_count": 0,
+      "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
+      "members": {
+        "B001323": {
+          "name": "Nicholas J. Begich III",
+          "file": "house/B001323.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001212": {
+          "name": "Barry Moore",
+          "file": "house/M001212.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000481": {
+          "name": "Shomari Figures",
+          "file": "house/F000481.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000575": {
+          "name": "Mike Rogers",
+          "file": "house/R000575.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000055": {
+          "name": "Robert B. Aderholt",
+          "file": "house/A000055.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001220": {
+          "name": "Dale W. Strong",
+          "file": "house/S001220.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000609": {
+          "name": "Gary J. Palmer",
+          "file": "house/P000609.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001185": {
+          "name": "Terri A. Sewell",
+          "file": "house/S001185.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001087": {
+          "name": "Eric A. \"Rick\" Crawford",
+          "file": "house/C001087.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001072": {
+          "name": "J. French Hill",
+          "file": "house/H001072.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000809": {
+          "name": "Steve Womack",
+          "file": "house/W000809.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000821": {
+          "name": "Bruce Westerman",
+          "file": "house/W000821.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000600": {
+          "name": "Aumua Amata Coleman Radewagen",
+          "file": "house/R000600.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001183": {
+          "name": "David Schweikert",
+          "file": "house/S001183.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001132": {
+          "name": "Elijah Crane",
+          "file": "house/C001132.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000381": {
+          "name": "Yassamin Ansari",
+          "file": "house/A000381.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001211": {
+          "name": "Greg Stanton",
+          "file": "house/S001211.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001302": {
+          "name": "Andy Biggs",
+          "file": "house/B001302.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001133": {
+          "name": "Juan Ciscomani",
+          "file": "house/C001133.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000606": {
+          "name": "Adelita S. Grijalva",
+          "file": "house/G000606.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001098": {
+          "name": "Abraham J. Hamadeh",
+          "file": "house/H001098.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000565": {
+          "name": "Paul A. Gosar",
+          "file": "house/G000565.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001068": {
+          "name": "Jared Huffman",
+          "file": "house/H001068.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000401": {
+          "name": "Kevin Kiley",
+          "file": "house/K000401.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000460": {
+          "name": "Mike Thompson",
+          "file": "house/T000460.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001177": {
+          "name": "Tom McClintock",
+          "file": "house/M001177.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001287": {
+          "name": "Ami Bera",
+          "file": "house/B001287.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001163": {
+          "name": "Doris O. Matsui",
+          "file": "house/M001163.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000559": {
+          "name": "John Garamendi",
+          "file": "house/G000559.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001090": {
+          "name": "Josh Harder",
+          "file": "house/H001090.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000623": {
+          "name": "Mark DeSaulnier",
+          "file": "house/D000623.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000197": {
+          "name": "Nancy Pelosi",
+          "file": "house/P000197.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001231": {
+          "name": "Lateefah Simon",
+          "file": "house/S001231.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000605": {
+          "name": "Adam Gray",
+          "file": "house/G000605.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001193": {
+          "name": "Eric Swalwell",
+          "file": "house/S001193.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001225": {
+          "name": "Kevin Mullin",
+          "file": "house/M001225.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000607": {
+          "name": "Sam T. Liccardo",
+          "file": "house/L000607.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000389": {
+          "name": "Ro Khanna",
+          "file": "house/K000389.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000397": {
+          "name": "Zoe Lofgren",
+          "file": "house/L000397.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000613": {
+          "name": "Jimmy Panetta",
+          "file": "house/P000613.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000480": {
+          "name": "Vince Fong",
+          "file": "house/F000480.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001059": {
+          "name": "Jim Costa",
+          "file": "house/C001059.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000129": {
+          "name": "David G. Valadao",
+          "file": "house/V000129.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "O000019": {
+          "name": "Jay Obernolte",
+          "file": "house/O000019.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001112": {
+          "name": "Salud O. Carbajal",
+          "file": "house/C001112.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000599": {
+          "name": "Raul Ruiz",
+          "file": "house/R000599.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001285": {
+          "name": "Julia Brownley",
+          "file": "house/B001285.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000830": {
+          "name": "George Whitesides",
+          "file": "house/W000830.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001080": {
+          "name": "Judy Chu",
+          "file": "house/C001080.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000620": {
+          "name": "Luz M. Rivas",
+          "file": "house/R000620.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000483": {
+          "name": "Laura Friedman",
+          "file": "house/F000483.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001123": {
+          "name": "Gilbert Ray Cisneros Jr.",
+          "file": "house/C001123.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S000344": {
+          "name": "Brad Sherman",
+          "file": "house/S000344.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000371": {
+          "name": "Pete Aguilar",
+          "file": "house/A000371.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000585": {
+          "name": "Jimmy Gomez",
+          "file": "house/G000585.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000474": {
+          "name": "Norma J. Torres",
+          "file": "house/T000474.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000582": {
+          "name": "Ted Lieu",
+          "file": "house/L000582.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000400": {
+          "name": "Sydney Kamlager-Dove",
+          "file": "house/K000400.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001156": {
+          "name": "Linda T. S\u00e1nchez",
+          "file": "house/S001156.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000472": {
+          "name": "Mark Takano",
+          "file": "house/T000472.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000397": {
+          "name": "Young Kim",
+          "file": "house/K000397.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C000059": {
+          "name": "Ken Calvert",
+          "file": "house/C000059.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000598": {
+          "name": "Robert Garcia",
+          "file": "house/G000598.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000187": {
+          "name": "Maxine Waters",
+          "file": "house/W000187.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001300": {
+          "name": "Nanette Diaz Barrag\u00e1n",
+          "file": "house/B001300.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000491": {
+          "name": "Derek Tran",
+          "file": "house/T000491.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001110": {
+          "name": "J. Luis Correa",
+          "file": "house/C001110.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001241": {
+          "name": "Dave Min",
+          "file": "house/M001241.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "I000056": {
+          "name": "Darrell Issa",
+          "file": "house/I000056.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000593": {
+          "name": "Mike Levin",
+          "file": "house/L000593.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000608": {
+          "name": "Scott H. Peters",
+          "file": "house/P000608.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000305": {
+          "name": "Sara Jacobs",
+          "file": "house/J000305.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000130": {
+          "name": "Juan Vargas",
+          "file": "house/V000130.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000197": {
+          "name": "Diana DeGette",
+          "file": "house/D000197.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "N000191": {
+          "name": "Joe Neguse",
+          "file": "house/N000191.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001100": {
+          "name": "Jeff Hurd",
+          "file": "house/H001100.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B000825": {
+          "name": "Lauren Boebert",
+          "file": "house/B000825.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001137": {
+          "name": "Jeff Crank",
+          "file": "house/C001137.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001121": {
+          "name": "Jason Crow",
+          "file": "house/C001121.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000620": {
+          "name": "Brittany Pettersen",
+          "file": "house/P000620.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000300": {
+          "name": "Gabe Evans",
+          "file": "house/E000300.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000557": {
+          "name": "John B. Larson",
+          "file": "house/L000557.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001069": {
+          "name": "Joe Courtney",
+          "file": "house/C001069.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000216": {
+          "name": "Rosa L. DeLauro",
+          "file": "house/D000216.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001047": {
+          "name": "James A. Himes",
+          "file": "house/H001047.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001081": {
+          "name": "Jahana Hayes",
+          "file": "house/H001081.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "N000147": {
+          "name": "Eleanor Holmes Norton",
+          "file": "house/N000147.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001238": {
+          "name": "Sarah McBride",
+          "file": "house/M001238.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000622": {
+          "name": "Jimmy Patronis",
+          "file": "house/P000622.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000628": {
+          "name": "Neal P. Dunn",
+          "file": "house/D000628.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001039": {
+          "name": "Kat Cammack",
+          "file": "house/C001039.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001314": {
+          "name": "Aaron Bean",
+          "file": "house/B001314.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000609": {
+          "name": "John H. Rutherford",
+          "file": "house/R000609.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000484": {
+          "name": "Randy Fine",
+          "file": "house/F000484.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001216": {
+          "name": "Cory Mills",
+          "file": "house/M001216.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001099": {
+          "name": "Mike Haridopolos",
+          "file": "house/H001099.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001200": {
+          "name": "Darren Soto",
+          "file": "house/S001200.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000476": {
+          "name": "Maxwell Frost",
+          "file": "house/F000476.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000806": {
+          "name": "Daniel Webster",
+          "file": "house/W000806.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001257": {
+          "name": "Gus M. Bilirakis",
+          "file": "house/B001257.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000596": {
+          "name": "Anna Paulina Luna",
+          "file": "house/L000596.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001066": {
+          "name": "Kathy Castor",
+          "file": "house/C001066.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000597": {
+          "name": "Laurel M. Lee",
+          "file": "house/L000597.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001260": {
+          "name": "Vern Buchanan",
+          "file": "house/B001260.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001214": {
+          "name": "W. Gregory Steube",
+          "file": "house/S001214.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000472": {
+          "name": "Scott Franklin",
+          "file": "house/F000472.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000032": {
+          "name": "Byron Donalds",
+          "file": "house/D000032.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001127": {
+          "name": "Sheila Cherfilus-McCormick",
+          "file": "house/C001127.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001199": {
+          "name": "Brian J. Mast",
+          "file": "house/M001199.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000462": {
+          "name": "Lois Frankel",
+          "file": "house/F000462.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001217": {
+          "name": "Jared Moskowitz",
+          "file": "house/M001217.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000808": {
+          "name": "Frederica S. Wilson",
+          "file": "house/W000808.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000797": {
+          "name": "Debbie Wasserman Schultz",
+          "file": "house/W000797.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000600": {
+          "name": "Mario Diaz-Balart",
+          "file": "house/D000600.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S000168": {
+          "name": "Maria Elvira Salazar",
+          "file": "house/S000168.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000593": {
+          "name": "Carlos A. Gimenez",
+          "file": "house/G000593.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001103": {
+          "name": "Earl L. \"Buddy\" Carter",
+          "file": "house/C001103.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B000490": {
+          "name": "Sanford D. Bishop Jr.",
+          "file": "house/B000490.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000311": {
+          "name": "Brian Jack",
+          "file": "house/J000311.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000288": {
+          "name": "Henry C. \"Hank\" Johnson Jr.",
+          "file": "house/J000288.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000788": {
+          "name": "Nikema Williams",
+          "file": "house/W000788.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001208": {
+          "name": "Lucy McBath",
+          "file": "house/M001208.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001218": {
+          "name": "Richard McCormick",
+          "file": "house/M001218.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001189": {
+          "name": "Austin Scott",
+          "file": "house/S001189.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001116": {
+          "name": "Andrew S. Clyde",
+          "file": "house/C001116.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001129": {
+          "name": "Mike Collins",
+          "file": "house/C001129.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000583": {
+          "name": "Barry Loudermilk",
+          "file": "house/L000583.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000372": {
+          "name": "Rick W. Allen",
+          "file": "house/A000372.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001157": {
+          "name": "David Scott",
+          "file": "house/S001157.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001219": {
+          "name": "James C. Moylan",
+          "file": "house/M001219.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001055": {
+          "name": "Ed Case",
+          "file": "house/C001055.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000487": {
+          "name": "Jill N. Tokuda",
+          "file": "house/T000487.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001215": {
+          "name": "Mariannette Miller-Meeks",
+          "file": "house/M001215.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001091": {
+          "name": "Ashley Hinson",
+          "file": "house/H001091.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "N000193": {
+          "name": "Zachary Nunn",
+          "file": "house/N000193.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000446": {
+          "name": "Randy Feenstra",
+          "file": "house/F000446.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000469": {
+          "name": "Russ Fulcher",
+          "file": "house/F000469.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001148": {
+          "name": "Michael K. Simpson",
+          "file": "house/S001148.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000309": {
+          "name": "Jonathan L. Jackson",
+          "file": "house/J000309.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000385": {
+          "name": "Robin L. Kelly",
+          "file": "house/K000385.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000617": {
+          "name": "Delia C. Ramirez",
+          "file": "house/R000617.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000586": {
+          "name": "Jes\u00fas G. \"Chuy\" Garc\u00eda",
+          "file": "house/G000586.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "Q000023": {
+          "name": "Mike Quigley",
+          "file": "house/Q000023.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001117": {
+          "name": "Sean Casten",
+          "file": "house/C001117.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000096": {
+          "name": "Danny K. Davis",
+          "file": "house/D000096.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000391": {
+          "name": "Raja Krishnamoorthi",
+          "file": "house/K000391.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001145": {
+          "name": "Janice D. Schakowsky",
+          "file": "house/S001145.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001190": {
+          "name": "Bradley Scott Schneider",
+          "file": "house/S001190.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000454": {
+          "name": "Bill Foster",
+          "file": "house/F000454.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001295": {
+          "name": "Mike Bost",
+          "file": "house/B001295.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001315": {
+          "name": "Nikki Budzinski",
+          "file": "house/B001315.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "U000040": {
+          "name": "Lauren Underwood",
+          "file": "house/U000040.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001211": {
+          "name": "Mary E. Miller",
+          "file": "house/M001211.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000585": {
+          "name": "Darin LaHood",
+          "file": "house/L000585.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001225": {
+          "name": "Eric Sorensen",
+          "file": "house/S001225.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001214": {
+          "name": "Frank J. Mrvan",
+          "file": "house/M001214.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "Y000067": {
+          "name": "Rudy Yakym III",
+          "file": "house/Y000067.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001188": {
+          "name": "Marlin A. Stutzman",
+          "file": "house/S001188.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001307": {
+          "name": "James R. Baird",
+          "file": "house/B001307.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S000929": {
+          "name": "Victoria Spartz",
+          "file": "house/S000929.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001229": {
+          "name": "Jefferson Shreve",
+          "file": "house/S001229.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001072": {
+          "name": "Andr\u00e9 Carson",
+          "file": "house/C001072.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001233": {
+          "name": "Mark B. Messmer",
+          "file": "house/M001233.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001093": {
+          "name": "Erin Houchin",
+          "file": "house/H001093.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M000871": {
+          "name": "Tracey Mann",
+          "file": "house/M000871.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001228": {
+          "name": "Derek Schmidt",
+          "file": "house/S001228.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000629": {
+          "name": "Sharice Davids",
+          "file": "house/D000629.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000298": {
+          "name": "Ron Estes",
+          "file": "house/E000298.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001108": {
+          "name": "James Comer",
+          "file": "house/C001108.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000558": {
+          "name": "Brett Guthrie",
+          "file": "house/G000558.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001220": {
+          "name": "Morgan McGarvey",
+          "file": "house/M001220.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001184": {
+          "name": "Thomas Massie",
+          "file": "house/M001184.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000395": {
+          "name": "Harold Rogers",
+          "file": "house/R000395.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001282": {
+          "name": "Andy Barr",
+          "file": "house/B001282.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001176": {
+          "name": "Steve Scalise",
+          "file": "house/S001176.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001125": {
+          "name": "Troy A. Carter",
+          "file": "house/C001125.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001077": {
+          "name": "Clay Higgins",
+          "file": "house/H001077.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000299": {
+          "name": "Mike Johnson",
+          "file": "house/J000299.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000595": {
+          "name": "Julia Letlow",
+          "file": "house/L000595.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000110": {
+          "name": "Cleo Fields",
+          "file": "house/F000110.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "N000015": {
+          "name": "Richard E. Neal",
+          "file": "house/N000015.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M000312": {
+          "name": "James P. McGovern",
+          "file": "house/M000312.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000482": {
+          "name": "Lori Trahan",
+          "file": "house/T000482.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000148": {
+          "name": "Jake Auchincloss",
+          "file": "house/A000148.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001101": {
+          "name": "Katherine M. Clark",
+          "file": "house/C001101.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001196": {
+          "name": "Seth Moulton",
+          "file": "house/M001196.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000617": {
+          "name": "Ayanna Pressley",
+          "file": "house/P000617.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000562": {
+          "name": "Stephen F. Lynch",
+          "file": "house/L000562.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000375": {
+          "name": "William R. Keating",
+          "file": "house/K000375.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001052": {
+          "name": "Andy Harris",
+          "file": "house/H001052.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "O000176": {
+          "name": "Johnny Olszewski Jr.",
+          "file": "house/O000176.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000301": {
+          "name": "Sarah Elfreth",
+          "file": "house/E000301.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "I000058": {
+          "name": "Glenn Ivey",
+          "file": "house/I000058.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H000874": {
+          "name": "Steny H. Hoyer",
+          "file": "house/H000874.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001232": {
+          "name": "April McClain Delaney",
+          "file": "house/M001232.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M000687": {
+          "name": "Kweisi Mfume",
+          "file": "house/M000687.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000606": {
+          "name": "Jamie Raskin",
+          "file": "house/R000606.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000597": {
+          "name": "Chellie Pingree",
+          "file": "house/P000597.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000592": {
+          "name": "Jared F. Golden",
+          "file": "house/G000592.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001301": {
+          "name": "Jack Bergman",
+          "file": "house/B001301.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001194": {
+          "name": "John R. Moolenaar",
+          "file": "house/M001194.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001221": {
+          "name": "Hillary J. Scholten",
+          "file": "house/S001221.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001058": {
+          "name": "Bill Huizenga",
+          "file": "house/H001058.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000798": {
+          "name": "Tim Walberg",
+          "file": "house/W000798.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000624": {
+          "name": "Debbie Dingell",
+          "file": "house/D000624.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001321": {
+          "name": "Tom Barrett",
+          "file": "house/B001321.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001237": {
+          "name": "Kristen McDonald Rivet",
+          "file": "house/M001237.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001136": {
+          "name": "Lisa C. McClain",
+          "file": "house/M001136.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000307": {
+          "name": "John James",
+          "file": "house/J000307.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001215": {
+          "name": "Haley M. Stevens",
+          "file": "house/S001215.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000481": {
+          "name": "Rashida Tlaib",
+          "file": "house/T000481.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000488": {
+          "name": "Shri Thanedar",
+          "file": "house/T000488.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000475": {
+          "name": "Brad Finstad",
+          "file": "house/F000475.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001119": {
+          "name": "Angie Craig",
+          "file": "house/C001119.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001234": {
+          "name": "Kelly Morrison",
+          "file": "house/M001234.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001143": {
+          "name": "Betty McCollum",
+          "file": "house/M001143.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "O000173": {
+          "name": "Ilhan Omar",
+          "file": "house/O000173.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000294": {
+          "name": "Tom Emmer",
+          "file": "house/E000294.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000470": {
+          "name": "Michelle Fischbach",
+          "file": "house/F000470.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001212": {
+          "name": "Pete Stauber",
+          "file": "house/S001212.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001324": {
+          "name": "Wesley Bell",
+          "file": "house/B001324.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000812": {
+          "name": "Ann Wagner",
+          "file": "house/W000812.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "O000177": {
+          "name": "Robert F. Onder Jr.",
+          "file": "house/O000177.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000379": {
+          "name": "Mark Alford",
+          "file": "house/A000379.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001061": {
+          "name": "Emanuel Cleaver",
+          "file": "house/C001061.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000546": {
+          "name": "Sam Graves",
+          "file": "house/G000546.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001316": {
+          "name": "Eric Burlison",
+          "file": "house/B001316.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001195": {
+          "name": "Jason Smith",
+          "file": "house/S001195.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000404": {
+          "name": "Kimberlyn King-Hinds",
+          "file": "house/K000404.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000388": {
+          "name": "Trent Kelly",
+          "file": "house/K000388.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000193": {
+          "name": "Bennie G. Thompson",
+          "file": "house/T000193.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000591": {
+          "name": "Michael Guest",
+          "file": "house/G000591.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000235": {
+          "name": "Mike Ezell",
+          "file": "house/E000235.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "Z000018": {
+          "name": "Ryan K. Zinke",
+          "file": "house/Z000018.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000634": {
+          "name": "Troy Downing",
+          "file": "house/D000634.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000230": {
+          "name": "Donald G. Davis",
+          "file": "house/D000230.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000305": {
+          "name": "Deborah K. Ross",
+          "file": "house/R000305.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001210": {
+          "name": "Gregory F. Murphy",
+          "file": "house/M001210.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000477": {
+          "name": "Valerie P. Foushee",
+          "file": "house/F000477.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000450": {
+          "name": "Virginia Foxx",
+          "file": "house/F000450.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001240": {
+          "name": "Addison P. McDowell",
+          "file": "house/M001240.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000603": {
+          "name": "David Rouzer",
+          "file": "house/R000603.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001102": {
+          "name": "Mark Harris",
+          "file": "house/H001102.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001067": {
+          "name": "Richard Hudson",
+          "file": "house/H001067.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001101": {
+          "name": "Pat Harrigan",
+          "file": "house/H001101.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000246": {
+          "name": "Chuck Edwards",
+          "file": "house/E000246.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000370": {
+          "name": "Alma S. Adams",
+          "file": "house/A000370.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000405": {
+          "name": "Brad Knott",
+          "file": "house/K000405.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001236": {
+          "name": "Tim Moore",
+          "file": "house/M001236.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000482": {
+          "name": "Julie Fedorchak",
+          "file": "house/F000482.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000474": {
+          "name": "Mike Flood",
+          "file": "house/F000474.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001298": {
+          "name": "Don Bacon",
+          "file": "house/B001298.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001172": {
+          "name": "Adrian Smith",
+          "file": "house/S001172.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000614": {
+          "name": "Chris Pappas",
+          "file": "house/P000614.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000604": {
+          "name": "Maggie Goodlander",
+          "file": "house/G000604.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "N000188": {
+          "name": "Donald Norcross",
+          "file": "house/N000188.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000133": {
+          "name": "Jefferson Van Drew",
+          "file": "house/V000133.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001136": {
+          "name": "Herbert C. Conaway Jr.",
+          "file": "house/C001136.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S000522": {
+          "name": "Christopher H. Smith",
+          "file": "house/S000522.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000583": {
+          "name": "Josh Gottheimer",
+          "file": "house/G000583.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000034": {
+          "name": "Frank Pallone Jr.",
+          "file": "house/P000034.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000398": {
+          "name": "Thomas H. Kean Jr.",
+          "file": "house/K000398.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001226": {
+          "name": "Robert Menendez",
+          "file": "house/M001226.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000621": {
+          "name": "Nellie Pou",
+          "file": "house/P000621.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001229": {
+          "name": "LaMonica McIver",
+          "file": "house/M001229.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000822": {
+          "name": "Bonnie Watson Coleman",
+          "file": "house/W000822.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001218": {
+          "name": "Melanie A. Stansbury",
+          "file": "house/S001218.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000136": {
+          "name": "Gabe Vasquez",
+          "file": "house/V000136.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000273": {
+          "name": "Teresa Leger Fernandez",
+          "file": "house/L000273.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000468": {
+          "name": "Dina Titus",
+          "file": "house/T000468.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000369": {
+          "name": "Mark E. Amodei",
+          "file": "house/A000369.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000590": {
+          "name": "Susie Lee",
+          "file": "house/L000590.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001066": {
+          "name": "Steven Horsford",
+          "file": "house/H001066.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000598": {
+          "name": "Nick LaLota",
+          "file": "house/L000598.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000597": {
+          "name": "Andrew R. Garbarino",
+          "file": "house/G000597.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001201": {
+          "name": "Thomas R. Suozzi",
+          "file": "house/S001201.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000602": {
+          "name": "Laura Gillen",
+          "file": "house/G000602.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001137": {
+          "name": "Gregory W. Meeks",
+          "file": "house/M001137.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001188": {
+          "name": "Grace Meng",
+          "file": "house/M001188.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000081": {
+          "name": "Nydia M. Vel\u00e1zquez",
+          "file": "house/V000081.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000294": {
+          "name": "Hakeem S. Jeffries",
+          "file": "house/J000294.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001067": {
+          "name": "Yvette D. Clarke",
+          "file": "house/C001067.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000599": {
+          "name": "Daniel S. Goldman",
+          "file": "house/G000599.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M000317": {
+          "name": "Nicole Malliotakis",
+          "file": "house/M000317.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "N000002": {
+          "name": "Jerrold Nadler",
+          "file": "house/N000002.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000297": {
+          "name": "Adriano Espaillat",
+          "file": "house/E000297.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "O000172": {
+          "name": "Alexandria Ocasio-Cortez",
+          "file": "house/O000172.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000486": {
+          "name": "Ritchie Torres",
+          "file": "house/T000486.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000606": {
+          "name": "George Latimer",
+          "file": "house/L000606.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000599": {
+          "name": "Michael Lawler",
+          "file": "house/L000599.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000579": {
+          "name": "Patrick Ryan",
+          "file": "house/R000579.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000622": {
+          "name": "Josh Riley",
+          "file": "house/R000622.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000469": {
+          "name": "Paul Tonko",
+          "file": "house/T000469.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001196": {
+          "name": "Elise M. Stefanik",
+          "file": "house/S001196.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001231": {
+          "name": "John W. Mannion",
+          "file": "house/M001231.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000600": {
+          "name": "Nicholas A. Langworthy",
+          "file": "house/L000600.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000478": {
+          "name": "Claudia Tenney",
+          "file": "house/T000478.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001206": {
+          "name": "Joseph D. Morelle",
+          "file": "house/M001206.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000402": {
+          "name": "Timothy M. Kennedy",
+          "file": "house/K000402.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000601": {
+          "name": "Greg Landsman",
+          "file": "house/L000601.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000490": {
+          "name": "David J. Taylor",
+          "file": "house/T000490.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001281": {
+          "name": "Joyce Beatty",
+          "file": "house/B001281.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000289": {
+          "name": "Jim Jordan",
+          "file": "house/J000289.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000566": {
+          "name": "Robert E. Latta",
+          "file": "house/L000566.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000619": {
+          "name": "Michael A. Rulli",
+          "file": "house/R000619.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001222": {
+          "name": "Max L. Miller",
+          "file": "house/M001222.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000626": {
+          "name": "Warren Davidson",
+          "file": "house/D000626.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000009": {
+          "name": "Marcy Kaptur",
+          "file": "house/K000009.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000463": {
+          "name": "Michael R. Turner",
+          "file": "house/T000463.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001313": {
+          "name": "Shontel M. Brown",
+          "file": "house/B001313.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001306": {
+          "name": "Troy Balderson",
+          "file": "house/B001306.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001223": {
+          "name": "Emilia Strong Sykes",
+          "file": "house/S001223.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000295": {
+          "name": "David P. Joyce",
+          "file": "house/J000295.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001126": {
+          "name": "Mike Carey",
+          "file": "house/C001126.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001082": {
+          "name": "Kevin Hern",
+          "file": "house/H001082.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001317": {
+          "name": "Josh Brecheen",
+          "file": "house/B001317.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000491": {
+          "name": "Frank D. Lucas",
+          "file": "house/L000491.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001053": {
+          "name": "Tom Cole",
+          "file": "house/C001053.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B000740": {
+          "name": "Stephanie I. Bice",
+          "file": "house/B000740.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001278": {
+          "name": "Suzanne Bonamici",
+          "file": "house/B001278.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B000668": {
+          "name": "Cliff Bentz",
+          "file": "house/B000668.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000635": {
+          "name": "Maxine Dexter",
+          "file": "house/D000635.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001094": {
+          "name": "Val T. Hoyle",
+          "file": "house/H001094.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001326": {
+          "name": "Janelle S. Bynum",
+          "file": "house/B001326.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001226": {
+          "name": "Andrea Salinas",
+          "file": "house/S001226.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000466": {
+          "name": "Brian K. Fitzpatrick",
+          "file": "house/F000466.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001296": {
+          "name": "Brendan F. Boyle",
+          "file": "house/B001296.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000296": {
+          "name": "Dwight Evans",
+          "file": "house/E000296.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000631": {
+          "name": "Madeleine Dean",
+          "file": "house/D000631.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001205": {
+          "name": "Mary Gay Scanlon",
+          "file": "house/S001205.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001085": {
+          "name": "Chrissy Houlahan",
+          "file": "house/H001085.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001230": {
+          "name": "Ryan Mackenzie",
+          "file": "house/M001230.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001327": {
+          "name": "Robert P. Bresnahan Jr.",
+          "file": "house/B001327.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001204": {
+          "name": "Daniel Meuser",
+          "file": "house/M001204.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000605": {
+          "name": "Scott Perry",
+          "file": "house/P000605.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001199": {
+          "name": "Lloyd Smucker",
+          "file": "house/S001199.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000602": {
+          "name": "Summer L. Lee",
+          "file": "house/L000602.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000302": {
+          "name": "John Joyce",
+          "file": "house/J000302.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000610": {
+          "name": "Guy Reschenthaler",
+          "file": "house/R000610.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000467": {
+          "name": "Glenn Thompson",
+          "file": "house/T000467.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000376": {
+          "name": "Mike Kelly",
+          "file": "house/K000376.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000530": {
+          "name": "Christopher R. Deluzio",
+          "file": "house/D000530.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001103": {
+          "name": "Pablo Jos\u00e9 Hern\u00e1ndez",
+          "file": "house/H001103.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000380": {
+          "name": "Gabe Amo",
+          "file": "house/A000380.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001223": {
+          "name": "Seth Magaziner",
+          "file": "house/M001223.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M000194": {
+          "name": "Nancy Mace",
+          "file": "house/M000194.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000795": {
+          "name": "Joe Wilson",
+          "file": "house/W000795.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001325": {
+          "name": "Sheri Biggs",
+          "file": "house/B001325.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000480": {
+          "name": "William R. Timmons IV",
+          "file": "house/T000480.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "N000190": {
+          "name": "Ralph Norman",
+          "file": "house/N000190.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C000537": {
+          "name": "James E. Clyburn",
+          "file": "house/C000537.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000478": {
+          "name": "Russell Fry",
+          "file": "house/F000478.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000301": {
+          "name": "Dusty Johnson",
+          "file": "house/J000301.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001086": {
+          "name": "Diana Harshbarger",
+          "file": "house/H001086.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001309": {
+          "name": "Tim Burchett",
+          "file": "house/B001309.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000459": {
+          "name": "Charles J. \"Chuck\" Fleischmann",
+          "file": "house/F000459.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000616": {
+          "name": "Scott DesJarlais",
+          "file": "house/D000616.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "O000175": {
+          "name": "Andrew Ogles",
+          "file": "house/O000175.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000612": {
+          "name": "John W. Rose",
+          "file": "house/R000612.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000139": {
+          "name": "Matt Van Epps",
+          "file": "house/V000139.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000392": {
+          "name": "David Kustoff",
+          "file": "house/K000392.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001068": {
+          "name": "Steve Cohen",
+          "file": "house/C001068.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001224": {
+          "name": "Nathaniel Moran",
+          "file": "house/M001224.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001120": {
+          "name": "Dan Crenshaw",
+          "file": "house/C001120.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001224": {
+          "name": "Keith Self",
+          "file": "house/S001224.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000246": {
+          "name": "Pat Fallon",
+          "file": "house/F000246.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000589": {
+          "name": "Lance Gooden",
+          "file": "house/G000589.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000071": {
+          "name": "Jake Ellzey",
+          "file": "house/E000071.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000468": {
+          "name": "Lizzie Fletcher",
+          "file": "house/F000468.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000603": {
+          "name": "Morgan Luttrell",
+          "file": "house/L000603.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000553": {
+          "name": "Al Green",
+          "file": "house/G000553.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001157": {
+          "name": "Michael T. McCaul",
+          "file": "house/M001157.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000048": {
+          "name": "August Pfluger",
+          "file": "house/P000048.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000601": {
+          "name": "Craig A. Goldman",
+          "file": "house/G000601.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000304": {
+          "name": "Ronny Jackson",
+          "file": "house/J000304.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000814": {
+          "name": "Randy K. Weber Sr.",
+          "file": "house/W000814.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000594": {
+          "name": "Monica De La Cruz",
+          "file": "house/D000594.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "E000299": {
+          "name": "Veronica Escobar",
+          "file": "house/E000299.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S000250": {
+          "name": "Pete Sessions",
+          "file": "house/S000250.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001245": {
+          "name": "Christian D. Menefee",
+          "file": "house/M001245.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "A000375": {
+          "name": "Jodey C. Arrington",
+          "file": "house/A000375.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001091": {
+          "name": "Joaquin Castro",
+          "file": "house/C001091.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000614": {
+          "name": "Chip Roy",
+          "file": "house/R000614.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "N000026": {
+          "name": "Troy E. Nehls",
+          "file": "house/N000026.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000594": {
+          "name": "Tony Gonzales",
+          "file": "house/G000594.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000134": {
+          "name": "Beth Van Duyne",
+          "file": "house/V000134.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000816": {
+          "name": "Roger Williams",
+          "file": "house/W000816.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000603": {
+          "name": "Brandon Gill",
+          "file": "house/G000603.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001115": {
+          "name": "Michael Cloud",
+          "file": "house/C001115.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001063": {
+          "name": "Henry Cuellar",
+          "file": "house/C001063.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000587": {
+          "name": "Sylvia R. Garcia",
+          "file": "house/G000587.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001130": {
+          "name": "Jasmine Crockett",
+          "file": "house/C001130.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001051": {
+          "name": "John R. Carter",
+          "file": "house/C001051.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000310": {
+          "name": "Julie Johnson",
+          "file": "house/J000310.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000131": {
+          "name": "Marc A. Veasey",
+          "file": "house/V000131.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000581": {
+          "name": "Vicente Gonzalez",
+          "file": "house/G000581.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001131": {
+          "name": "Greg Casar",
+          "file": "house/C001131.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001291": {
+          "name": "Brian Babin",
+          "file": "house/B001291.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000399": {
+          "name": "Lloyd Doggett",
+          "file": "house/D000399.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001095": {
+          "name": "Wesley Hunt",
+          "file": "house/H001095.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001213": {
+          "name": "Blake D. Moore",
+          "file": "house/M001213.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001228": {
+          "name": "Celeste Maloy",
+          "file": "house/M001228.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000403": {
+          "name": "Mike Kennedy",
+          "file": "house/K000403.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "O000086": {
+          "name": "Burgess Owens",
+          "file": "house/O000086.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000804": {
+          "name": "Robert J. Wittman",
+          "file": "house/W000804.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "K000399": {
+          "name": "Jennifer A. Kiggans",
+          "file": "house/K000399.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S000185": {
+          "name": "Robert C. \"Bobby\" Scott",
+          "file": "house/S000185.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001227": {
+          "name": "Jennifer L. McClellan",
+          "file": "house/M001227.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001239": {
+          "name": "John J. McGuire III",
+          "file": "house/M001239.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "C001118": {
+          "name": "Ben Cline",
+          "file": "house/C001118.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000138": {
+          "name": "Eugene Simon Vindman",
+          "file": "house/V000138.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001292": {
+          "name": "Donald S. Beyer Jr.",
+          "file": "house/B001292.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000568": {
+          "name": "H. Morgan Griffith",
+          "file": "house/G000568.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001230": {
+          "name": "Suhas Subramanyam",
+          "file": "house/S001230.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000831": {
+          "name": "James R. Walkinshaw",
+          "file": "house/W000831.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000610": {
+          "name": "Stacey E. Plaskett",
+          "file": "house/P000610.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001318": {
+          "name": "Becca Balint",
+          "file": "house/B001318.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "D000617": {
+          "name": "Suzan K. DelBene",
+          "file": "house/D000617.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "L000560": {
+          "name": "Rick Larsen",
+          "file": "house/L000560.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000600": {
+          "name": "Marie Gluesenkamp Perez",
+          "file": "house/G000600.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "N000189": {
+          "name": "Dan Newhouse",
+          "file": "house/N000189.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "B001322": {
+          "name": "Michael Baumgartner",
+          "file": "house/B001322.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "R000621": {
+          "name": "Emily Randall",
+          "file": "house/R000621.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "J000298": {
+          "name": "Pramila Jayapal",
+          "file": "house/J000298.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001216": {
+          "name": "Kim Schrier",
+          "file": "house/S001216.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S000510": {
+          "name": "Adam Smith",
+          "file": "house/S000510.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001159": {
+          "name": "Marilyn Strickland",
+          "file": "house/S001159.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "S001213": {
+          "name": "Bryan Steil",
+          "file": "house/S001213.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "P000607": {
+          "name": "Mark Pocan",
+          "file": "house/P000607.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "V000135": {
+          "name": "Derrick Van Orden",
+          "file": "house/V000135.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001160": {
+          "name": "Gwen Moore",
+          "file": "house/M001160.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "F000471": {
+          "name": "Scott Fitzgerald",
+          "file": "house/F000471.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "G000576": {
+          "name": "Glenn Grothman",
+          "file": "house/G000576.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "T000165": {
+          "name": "Thomas P. Tiffany",
+          "file": "house/T000165.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "W000829": {
+          "name": "Tony Wied",
+          "file": "house/W000829.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001205": {
+          "name": "Carol D. Miller",
+          "file": "house/M001205.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "M001235": {
+          "name": "Riley M. Moore",
+          "file": "house/M001235.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        },
+        "H001096": {
+          "name": "Harriet M. Hageman",
+          "file": "house/H001096.json",
+          "fields_with_data": 1,
+          "fields_verified": 0,
+          "status": "placeholder"
+        }
+      }
+    }
+  }
+}

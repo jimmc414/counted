@@ -1,0 +1,234 @@
+{
+  "bioguide_id": "S001198",
+  "name": "Dan Sullivan",
+  "party": "R",
+  "state": "AK",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-3004",
+      "status": "verified",
+      "source": "https://www.sullivan.senate.gov/contact/locations",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 224-6501",
+      "status": "verified",
+      "source": "https://www.sullivan.senate.gov/contact/locations",
+      "verified_date": "2026-03-26"
+    },
+    "web_form_url": {
+      "value": "https://www.sullivan.senate.gov/contact/email",
+      "status": "verified",
+      "source": "https://www.sullivan.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@SenDanSullivan",
+      "status": "verified",
+      "source": "https://www.sullivan.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "SenDanSullivan",
+      "status": "verified",
+      "source": "https://www.sullivan.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "sen_dansullivan",
+      "status": "verified",
+      "source": "https://www.sullivan.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "https://www.youtube.com/channel/UC7tXCm8gKlAhTFo2kuf5ylw",
+      "status": "verified",
+      "source": "https://www.sullivan.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Anchorage",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "510 L Street, Suite 750, Anchorage, AK 99501",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 271-5915",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(202) 228-4562",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Fairbanks",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "Federal Building, 101 12th Avenue, Suite 328, Fairbanks, AK 99701",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 456-0261",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(907) 451-7290",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Juneau",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "800 Glacier Ave, Suite 101, Juneau, AK 99801",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 205-3767",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(907) 586-7201",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Wasilla",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "851 E. Westpoint Drive, Suite 309, Wasilla, AK 99654",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 357-9956",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(907) 357-9964",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Soldotna",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "44539 Sterling Highway, Suite 204, Soldotna, AK 99669",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 262-4040",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(907) 262-4224",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Ketchikan",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "1900 First Avenue, Suite 225, Ketchikan, AK 99901",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(907) 225-6880",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(202) 224-0089",
+        "status": "verified",
+        "source": "https://www.sullivan.senate.gov/contact/locations",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:04.791212+00:00",
+    "last_updated": "2026-03-26T21:33:01.599612+00:00",
+    "verification_notes": ""
+  }
+}

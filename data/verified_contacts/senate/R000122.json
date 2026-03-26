@@ -1,0 +1,130 @@
+{
+  "bioguide_id": "R000122",
+  "name": "Jack Reed",
+  "party": "D",
+  "state": "RI",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-4642",
+      "status": "verified",
+      "source": "https://www.reed.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 224-4680",
+      "status": "verified",
+      "source": "https://www.reed.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "web_form_url": {
+      "value": "https://www.reed.senate.gov/contact/email",
+      "status": "verified",
+      "source": "https://www.reed.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@SenJackReed",
+      "status": "verified",
+      "source": "https://www.reed.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/senjackreed",
+      "status": "verified",
+      "source": "https://www.reed.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "https://www.instagram.com/senjackreed_ri",
+      "status": "verified",
+      "source": "https://www.reed.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "bluesky": {
+      "value": "https://bsky.app/profile/reed.senate.gov",
+      "status": "verified",
+      "source": "https://www.reed.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "youtube": {
+      "value": "https://www.youtube.com/user/senatorreed",
+      "status": "verified",
+      "source": "https://www.reed.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Cranston",
+        "status": "verified",
+        "source": "https://www.reed.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "1000 Chapel View Boulevard, Suite 290, Cranston, RI 02920-5602",
+        "status": "verified",
+        "source": "https://www.reed.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(401) 943-3100",
+        "status": "verified",
+        "source": "https://www.reed.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(401) 464-6837",
+        "status": "verified",
+        "source": "https://www.reed.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Providence",
+        "status": "verified",
+        "source": "https://www.reed.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "U.S. District Courthouse, One Exchange Terrace, Suite 408, Providence, RI 02903-1744",
+        "status": "verified",
+        "source": "https://www.reed.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(401) 528-5200",
+        "status": "verified",
+        "source": "https://www.reed.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(202) 224-4680",
+        "status": "verified",
+        "source": "https://www.reed.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.586237+00:00",
+    "last_updated": "2026-03-26T21:33:01.859885+00:00",
+    "verification_notes": ""
+  }
+}

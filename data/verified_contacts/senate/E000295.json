@@ -1,0 +1,208 @@
+{
+  "bioguide_id": "E000295",
+  "name": "Joni Ernst",
+  "party": "R",
+  "state": "IA",
+  "senate_class": 2,
+  "up_2026": true,
+  "chamber": "senate",
+  "contacts": {
+    "dc_phone": {
+      "value": "(202) 224-3254",
+      "status": "verified",
+      "source": "https://www.ernst.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "dc_fax": {
+      "value": "(202) 224-9369",
+      "status": "verified",
+      "source": "https://www.ernst.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "web_form_url": {
+      "value": "https://www.ernst.senate.gov/contact/email-joni",
+      "status": "verified",
+      "source": "https://www.ernst.senate.gov/contact",
+      "verified_date": "2026-03-26"
+    },
+    "twitter": {
+      "value": "@SenJoniErnst",
+      "status": "verified",
+      "source": "https://www.ernst.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "facebook": {
+      "value": "senjoniernst",
+      "status": "verified",
+      "source": "https://www.ernst.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "instagram": {
+      "value": "senjoniernst",
+      "status": "verified",
+      "source": "https://www.ernst.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "bluesky": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "youtube": {
+      "value": "UCLwrmtF_84FIcK3TyMs4MIw",
+      "status": "verified",
+      "source": "https://www.ernst.senate.gov",
+      "verified_date": "2026-03-26"
+    },
+    "truth_social": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    },
+    "campaign_site": {
+      "value": "",
+      "status": "placeholder",
+      "source": "",
+      "verified_date": ""
+    }
+  },
+  "state_offices": [
+    {
+      "city": {
+        "value": "Cedar Rapids",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "111 Seventh Avenue SE, Suite 480, Cedar Rapids, IA 52401",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(319) 365-4504",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(319) 365-4683",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Council Bluffs",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "2146 27th Avenue, Suite 500, Council Bluffs, IA 51501",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(712) 352-1167",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(712) 352-0087",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Davenport",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "201 West Second Street, Suite 806, Davenport, IA 52801",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(563) 322-0677",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(563) 322-0854",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Des Moines",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "733 Federal Building, 210 Walnut Street, Des Moines, IA 50309",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(515) 284-4574",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(515) 284-4937",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    },
+    {
+      "city": {
+        "value": "Sioux City",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "address": {
+        "value": "194 Federal Building, 320 Sixth Street, Sioux City, IA 51101",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "phone": {
+        "value": "(712) 252-1550",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      },
+      "fax": {
+        "value": "(712) 252-1638",
+        "status": "verified",
+        "source": "https://www.ernst.senate.gov/contact",
+        "verified_date": "2026-03-26"
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-26T21:27:05.067460+00:00",
+    "last_updated": "2026-03-26T21:33:01.940633+00:00",
+    "verification_notes": ""
+  }
+}
