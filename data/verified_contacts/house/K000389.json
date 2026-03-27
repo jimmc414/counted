@@ -8,51 +8,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2631",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://sengov.com/california/khanna-ro/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-2699",
+      "status": "verified",
+      "source": "https://khanna.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://khanna.house.gov/contact/email",
+      "status": "verified",
+      "source": "https://khanna.house.gov/contact/email",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepRoKhanna",
+      "status": "verified",
+      "source": "https://x.com/RepRoKhanna",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepRoKhanna/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepRoKhanna/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/reprokhanna/",
+      "status": "verified",
+      "source": "https://www.instagram.com/reprokhanna/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/khanna.house.gov",
+      "status": "verified",
+      "source": "https://bsky.app/profile/khanna.house.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@RepRoKhanna",
+      "status": "verified",
+      "source": "https://www.youtube.com/@RepRoKhanna",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.rokhanna.com/",
+      "status": "verified",
+      "source": "https://en.wikipedia.org/wiki/Ro_Khanna",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Santa Clara",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "3150 De La Cruz Blvd, Suite 240, Santa Clara, CA 95054",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(408) 436-2720",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(408) 436-2721",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:13.895763+00:00",
-    "last_updated": "2026-03-26T21:30:13.895775+00:00",
+    "last_updated": "2026-03-27T11:08:17.783002+00:00",
     "verification_notes": ""
   }
 }

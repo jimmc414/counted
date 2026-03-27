@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T10:47:32.435723+00:00",
+  "last_updated": "2026-03-27T11:08:17.824384+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 199,
+      "verified_count": 207,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -976,8 +976,8 @@
           "name": "Ro Khanna",
           "file": "house/K000389.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "L000397": {
           "name": "Zoe Lofgren",
@@ -1137,8 +1137,8 @@
           "name": "Young Kim",
           "file": "house/K000397.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C000059": {
           "name": "Ken Calvert",
@@ -1543,8 +1543,8 @@
           "name": "Brian Jack",
           "file": "house/J000311.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "J000288": {
           "name": "Henry C. \"Hank\" Johnson Jr.",
@@ -1690,8 +1690,8 @@
           "name": "Robin L. Kelly",
           "file": "house/K000385.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "R000617": {
           "name": "Delia C. Ramirez",
@@ -1732,8 +1732,8 @@
           "name": "Raja Krishnamoorthi",
           "file": "house/K000391.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "S001145": {
           "name": "Janice D. Schakowsky",
@@ -2866,8 +2866,8 @@
           "name": "Marcy Kaptur",
           "file": "house/K000009.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "T000463": {
           "name": "Michael R. Turner",
@@ -3097,8 +3097,8 @@
           "name": "Mike Kelly",
           "file": "house/K000376.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "D000530": {
           "name": "Christopher R. Deluzio",
@@ -3468,8 +3468,8 @@
           "name": "Julie Johnson",
           "file": "house/J000310.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "V000131": {
           "name": "Marc A. Veasey",

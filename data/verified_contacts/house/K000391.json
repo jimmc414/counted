@@ -8,51 +8,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3711",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/21794",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-7830",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/21794",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://krishnamoorthi.house.gov/contact/email",
+      "status": "verified",
+      "source": "https://krishnamoorthi.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@CongressmanRaja",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Raja_Krishnamoorthi",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "CongressmanRaja",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Raja_Krishnamoorthi",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "congressmanraja",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Raja_Krishnamoorthi",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "congressmanraja.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/congressmanraja.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@CongressmanRaja",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Raja_Krishnamoorthi",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Schaumburg",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "1701 East Woodfield Road, Suite 704, Schaumburg, IL 60173",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(847) 413-1959",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.924639+00:00",
-    "last_updated": "2026-03-26T21:30:14.924659+00:00",
+    "last_updated": "2026-03-27T11:08:17.373014+00:00",
     "verification_notes": ""
   }
 }
