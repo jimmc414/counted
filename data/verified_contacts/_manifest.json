@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T09:27:22.728490+00:00",
+  "last_updated": "2026-03-27T09:37:55.964462+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 97,
+      "verified_count": 108,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -1340,8 +1340,8 @@
           "name": "Neal P. Dunn",
           "file": "house/D000628.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "C001039": {
           "name": "Kat Cammack",
@@ -1879,8 +1879,8 @@
           "name": "Sharice Davids",
           "file": "house/D000629.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "E000298": {
           "name": "Ron Estes",
@@ -2236,8 +2236,8 @@
           "name": "Tom Emmer",
           "file": "house/E000294.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "F000470": {
           "name": "Michelle Fischbach",
@@ -2341,8 +2341,8 @@
           "name": "Mike Ezell",
           "file": "house/E000235.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "Z000018": {
           "name": "Ryan K. Zinke",
@@ -2432,8 +2432,8 @@
           "name": "Chuck Edwards",
           "file": "house/E000246.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "A000370": {
           "name": "Alma S. Adams",
@@ -2712,8 +2712,8 @@
           "name": "Adriano Espaillat",
           "file": "house/E000297.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "O000172": {
           "name": "Alexandria Ocasio-Cortez",
@@ -2859,8 +2859,8 @@
           "name": "Warren Davidson",
           "file": "house/D000626.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "K000009": {
           "name": "Marcy Kaptur",
@@ -3006,15 +3006,15 @@
           "name": "Dwight Evans",
           "file": "house/E000296.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "D000631": {
           "name": "Madeleine Dean",
           "file": "house/D000631.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001205": {
           "name": "Mary Gay Scanlon",
@@ -3286,8 +3286,8 @@
           "name": "Jake Ellzey",
           "file": "house/E000071.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "F000468": {
           "name": "Lizzie Fletcher",
@@ -3356,8 +3356,8 @@
           "name": "Veronica Escobar",
           "file": "house/E000299.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "S000250": {
           "name": "Pete Sessions",

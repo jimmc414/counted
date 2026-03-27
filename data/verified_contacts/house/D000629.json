@@ -8,96 +8,96 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2865",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://davids.house.gov/contact/offices/washington-dc-office; https://clerk.house.gov/members/D000629; https://www.billtrack50.com/legislatordetail/23973",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://davids.house.gov/contact; https://www.billtrack50.com/legislatordetail/23973",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://davids.house.gov/contact/email-me",
+      "status": "verified",
+      "source": "https://davids.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepDavids",
+      "status": "verified",
+      "source": "https://x.com/repdavids",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepDavids",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepDavids/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repdavids",
+      "status": "verified",
+      "source": "https://www.instagram.com/repdavids/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://shariceforcongress.com/",
+      "status": "verified",
+      "source": "https://shariceforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Overland Park",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "9200 Indian Creek Parkway, Suite 562, Overland Park, KS 66210",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(913) 621-0832",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.180494+00:00",
-    "last_updated": "2026-03-26T21:30:15.180547+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T09:37:55.246801+00:00",
+    "verification_notes": "Official site davids.house.gov returns 403; verified via web search cross-referencing clerk.house.gov, billtrack50.com, and search engine cached data. DC office at 2435 Rayburn HOB confirmed for 119th Congress. One district office in Overland Park confirmed. No fax numbers published for either office."
   }
 }

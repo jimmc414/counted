@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4831",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://directory.texastribune.org/veronica-escobar/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://escobar.house.gov/contact/",
+      "status": "verified",
+      "source": "https://escobar.house.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepEscobar",
+      "status": "verified",
+      "source": "https://twitter.com/repescobar",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepEscobar/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepEscobar/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repescobar",
+      "status": "verified",
+      "source": "https://www.instagram.com/repescobar/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "El Paso",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/23961",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Wells Fargo Plaza, 221 N. Kansas St., Suite 1500, El Paso, TX 79901",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/23961",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(915) 541-1400",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/23961",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(915) 541-1407",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/23961",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.708959+00:00",
-    "last_updated": "2026-03-26T21:30:17.708979+00:00",
+    "last_updated": "2026-03-27T09:37:55.483062+00:00",
     "verification_notes": ""
   }
 }

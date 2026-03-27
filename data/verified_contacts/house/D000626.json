@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-6205",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://sengov.com/ohio/davidson-warren/; https://contactgovernors.com/ohio/davidson-warren/; https://www.gongwer-oh.com/directories/bio.cfm?nameid=202502; https://www.billtrack50.com/legislatordetail/21239",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://davidson.house.gov/contact",
+      "status": "verified",
+      "source": "https://sengov.com/ohio/davidson-warren/; https://contactgovernors.com/ohio/davidson-warren/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@WarrenDavidson",
+      "status": "verified",
+      "source": "https://x.com/WarrenDavidson; https://www.legistorm.com/person/bio/253419/Warren_Earl_Davidson.html",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "CongressmanWarrenDavidson",
+      "status": "verified",
+      "source": "https://www.facebook.com/CongressmanWarrenDavidson/; https://www.legistorm.com/person/bio/253419/Warren_Earl_Davidson.html",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repwarrendavidson",
+      "status": "verified",
+      "source": "https://www.instagram.com/repwarrendavidson/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://youtube.com/channel/UCMzuyZWzk44YRNesFzPTeUw",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/253419/Warren_Earl_Davidson.html",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,95 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.davidsonforcongress.com/",
+      "status": "verified",
+      "source": "https://www.gongwer-oh.com/directories/bio.cfm?nameid=202502",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Troy",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "20 Dotcom Drive, Troy, OH 45373",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(937) 339-1524",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "West Chester",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "8857 Cincinnati-Dayton Rd., Suite #102, West Chester, OH 45069",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(513) 779-5400",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Springfield",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "76 E. High Street, 3rd Floor, Springfield, OH 45502",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(937) 322-1120",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.869082+00:00",
-    "last_updated": "2026-03-26T21:30:16.869101+00:00",
+    "last_updated": "2026-03-27T09:37:55.288992+00:00",
     "verification_notes": ""
   }
 }
