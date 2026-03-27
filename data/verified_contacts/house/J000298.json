@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3106",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://jayapal.house.gov/contact/offices/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-6197",
+      "status": "verified",
+      "source": "https://jayapal.house.gov/contact/offices/",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://jayapal.house.gov/contact/email/",
+      "status": "verified",
+      "source": "https://jayapal.house.gov/contact/email/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepJayapal",
+      "status": "verified",
+      "source": "https://x.com/RepJayapal",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepJayapal",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepJayapal/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repjayapal",
+      "status": "verified",
+      "source": "https://www.instagram.com/repjayapal/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Seattle",
+        "status": "verified",
+        "source": "https://jayapal.house.gov/contact/offices/",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "2033 6th Ave., Suite 1011, Seattle, WA 98121",
+        "status": "verified",
+        "source": "https://jayapal.house.gov/contact/offices/",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(206) 674-0040",
+        "status": "verified",
+        "source": "https://jayapal.house.gov/contact/offices/",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(771) 200-5813",
+        "status": "verified",
+        "source": "https://jayapal.house.gov/contact/offices/",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:18.215562+00:00",
-    "last_updated": "2026-03-26T21:30:18.215579+00:00",
+    "last_updated": "2026-03-27T10:47:31.990871+00:00",
     "verification_notes": ""
   }
 }

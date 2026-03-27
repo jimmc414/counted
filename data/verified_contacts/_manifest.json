@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T10:37:57.956894+00:00",
+  "last_updated": "2026-03-27T10:47:32.435723+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -668,7 +668,7 @@
           "name": "Jim Justice",
           "file": "senate/J000302.json",
           "fields_with_data": 4,
-          "fields_verified": 5,
+          "fields_verified": 6,
           "status": "verified"
         },
         "C001047": {
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 188,
+      "verified_count": 199,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -1214,8 +1214,8 @@
           "name": "Sara Jacobs",
           "file": "house/J000305.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "V000130": {
           "name": "Juan Vargas",
@@ -1550,8 +1550,8 @@
           "name": "Henry C. \"Hank\" Johnson Jr.",
           "file": "house/J000288.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "W000788": {
           "name": "Nikema Williams",
@@ -1683,8 +1683,8 @@
           "name": "Jonathan L. Jackson",
           "file": "house/J000309.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "K000385": {
           "name": "Robin L. Kelly",
@@ -1956,8 +1956,8 @@
           "name": "Mike Johnson",
           "file": "house/J000299.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "L000595": {
           "name": "Julia Letlow",
@@ -2173,8 +2173,8 @@
           "name": "John James",
           "file": "house/J000307.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "S001215": {
           "name": "Haley M. Stevens",
@@ -2677,8 +2677,8 @@
           "name": "Hakeem S. Jeffries",
           "file": "house/J000294.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001067": {
           "name": "Yvette D. Clarke",
@@ -2831,8 +2831,8 @@
           "name": "Jim Jordan",
           "file": "house/J000289.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "L000566": {
           "name": "Robert E. Latta",
@@ -2901,8 +2901,8 @@
           "name": "David P. Joyce",
           "file": "house/J000295.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "C001126": {
           "name": "Mike Carey",
@@ -3181,8 +3181,8 @@
           "name": "Dusty Johnson",
           "file": "house/J000301.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "H001086": {
           "name": "Diana Harshbarger",
@@ -3335,8 +3335,8 @@
           "name": "Ronny Jackson",
           "file": "house/J000304.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "W000814": {
           "name": "Randy K. Weber Sr.",
@@ -3678,8 +3678,8 @@
           "name": "Pramila Jayapal",
           "file": "house/J000298.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "S001216": {
           "name": "Kim Schrier",
