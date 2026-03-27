@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T09:18:33.453989+00:00",
+  "last_updated": "2026-03-27T09:27:22.728490+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 83,
+      "verified_count": 97,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -927,8 +927,8 @@
           "name": "Mark DeSaulnier",
           "file": "house/D000623.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "P000197": {
           "name": "Nancy Pelosi",
@@ -1228,8 +1228,8 @@
           "name": "Diana DeGette",
           "file": "house/D000197.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "N000191": {
           "name": "Joe Neguse",
@@ -1256,8 +1256,8 @@
           "name": "Jeff Crank",
           "file": "house/C001137.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "C001121": {
           "name": "Jason Crow",
@@ -1298,8 +1298,8 @@
           "name": "Rosa L. DeLauro",
           "file": "house/D000216.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "H001047": {
           "name": "James A. Himes",
@@ -1459,8 +1459,8 @@
           "name": "Byron Donalds",
           "file": "house/D000032.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "C001127": {
           "name": "Sheila Cherfilus-McCormick",
@@ -1508,8 +1508,8 @@
           "name": "Mario Diaz-Balart",
           "file": "house/D000600.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S000168": {
           "name": "Maria Elvira Salazar",
@@ -1725,8 +1725,8 @@
           "name": "Danny K. Davis",
           "file": "house/D000096.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "K000391": {
           "name": "Raja Krishnamoorthi",
@@ -2145,8 +2145,8 @@
           "name": "Debbie Dingell",
           "file": "house/D000624.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "B001321": {
           "name": "Tom Barrett",
@@ -2362,8 +2362,8 @@
           "name": "Donald G. Davis",
           "file": "house/D000230.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "R000305": {
           "name": "Deborah K. Ross",
@@ -2516,8 +2516,8 @@
           "name": "Herbert C. Conaway Jr.",
           "file": "house/C001136.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S000522": {
           "name": "Christopher H. Smith",
@@ -3104,8 +3104,8 @@
           "name": "Christopher R. Deluzio",
           "file": "house/D000530.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 1,
+          "status": "verified"
         },
         "H001103": {
           "name": "Pablo Jos\u00e9 Hern\u00e1ndez",
@@ -3209,8 +3209,8 @@
           "name": "Scott DesJarlais",
           "file": "house/D000616.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "O000175": {
           "name": "Andrew Ogles",
@@ -3349,8 +3349,8 @@
           "name": "Monica De La Cruz",
           "file": "house/D000594.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "E000299": {
           "name": "Veronica Escobar",
@@ -3636,8 +3636,8 @@
           "name": "Suzan K. DelBene",
           "file": "house/D000617.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "L000560": {
           "name": "Rick Larsen",

@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4422",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://crank.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://crank.house.gov/address_authentication?form=/contact/email-me",
+      "status": "verified",
+      "source": "https://legisletter.org/legislator/jeff-crank-C001137/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepJeffCrank",
+      "status": "verified",
+      "source": "https://x.com/RepJeffCrank",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://facebook.com/RepJeffCrank",
+      "status": "verified",
+      "source": "https://legisletter.org/legislator/jeff-crank-C001137/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://instagram.com/repjeffcrank",
+      "status": "verified",
+      "source": "https://instagram.com/repjeffcrank",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Colorado Springs",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "455 E. Pikes Peak Ave, Suite 103, Colorado Springs, CO 80903",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(719) 520-0055",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.282114+00:00",
-    "last_updated": "2026-03-26T21:30:14.282130+00:00",
+    "last_updated": "2026-03-27T09:27:22.565444+00:00",
     "verification_notes": ""
   }
 }

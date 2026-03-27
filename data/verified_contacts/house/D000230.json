@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3101",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/27923",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://dondavis.house.gov/address_authentication?form=/contact",
+      "status": "verified",
+      "source": "https://dondavis.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepDonDavis",
+      "status": "verified",
+      "source": "https://x.com/RepDonDavis",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepDonDavis/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepDonDavis/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repdondavis/",
+      "status": "verified",
+      "source": "https://www.instagram.com/repdondavis/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,95 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://votedondavis.com/",
+      "status": "verified",
+      "source": "https://votedondavis.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Rocky Mount",
+        "status": "verified",
+        "source": "https://dondavis.house.gov/contact/offices/rocky-mount-office",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1151 Falls Road, Suite 2002, Rocky Mount, NC 27804",
+        "status": "verified",
+        "source": "https://dondavis.house.gov/contact/offices/rocky-mount-office",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(252) 999-7600",
+        "status": "verified",
+        "source": "https://dondavis.house.gov/contact/offices/rocky-mount-office",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://dondavis.house.gov/contact/offices/rocky-mount-office",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Goldsboro",
+        "status": "verified",
+        "source": "https://dondavis.house.gov/contact/offices/goldsboro-office",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2803 Cashwell Drive, Suite B, Goldsboro, NC 27534",
+        "status": "verified",
+        "source": "https://dondavis.house.gov/contact/offices/goldsboro-office",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(252) 999-7600",
+        "status": "verified",
+        "source": "https://dondavis.house.gov/contact/offices/goldsboro-office",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://dondavis.house.gov/contact/offices/goldsboro-office",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Elizabeth City",
+        "status": "verified",
+        "source": "https://dondavis.house.gov/contact/offices/elizabeth-city-office",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "306 E Colonial Ave, Elizabeth City, NC 27909",
+        "status": "verified",
+        "source": "https://dondavis.house.gov/contact/offices/elizabeth-city-office",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(252) 999-7600",
+        "status": "verified",
+        "source": "https://dondavis.house.gov/contact/offices/elizabeth-city-office",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://dondavis.house.gov/contact/offices/elizabeth-city-office",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.126275+00:00",
-    "last_updated": "2026-03-26T21:30:16.126292+00:00",
+    "last_updated": "2026-03-27T09:27:22.101869+00:00",
     "verification_notes": ""
   }
 }

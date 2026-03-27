@@ -8,45 +8,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-6311",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://delbene.house.gov/contact/offices.htm; https://sengov.com/washington/delbene-suzan/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 226-1606",
+      "status": "verified",
+      "source": "https://clerk.house.gov/members/D000617",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://delbene.house.gov/contact/email-me.htm",
+      "status": "verified",
+      "source": "https://delbene.house.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepDelBene",
+      "status": "verified",
+      "source": "https://x.com/repdelbene",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepDelBene/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepDelBene/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repdelbene",
+      "status": "verified",
+      "source": "https://www.instagram.com/repdelbene/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repdelbene.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/repdelbene.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -61,43 +61,69 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://delbeneforcongress.com/",
+      "status": "verified",
+      "source": "https://delbeneforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Bothell",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Canyon Park Business Center, 22121 17th Ave SE, Bldg E, Suite 220, Bothell, WA 98021",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(425) 485-0085",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(425) 485-0083",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Mount Vernon",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "204 West Montgomery Street, Mount Vernon, WA 98273",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(360) 416-7879",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:18.148556+00:00",
-    "last_updated": "2026-03-26T21:30:18.148575+00:00",
+    "last_updated": "2026-03-27T09:27:22.439302+00:00",
     "verification_notes": ""
   }
 }

@@ -8,45 +8,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3661",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.waterburyct.org/content/103357/104265/111513/111518/default.aspx",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-4890",
+      "status": "verified",
+      "source": "https://www.waterburyct.org/content/103357/104265/111513/111518/default.aspx",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://delauro.house.gov/contact/email",
+      "status": "verified",
+      "source": "https://delauro.house.gov/zip_authentication?form=/contact/email",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/rosadelauro",
+      "status": "verified",
+      "source": "https://x.com/rosadelauro",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/CongresswomanRosaDeLauro/",
+      "status": "verified",
+      "source": "https://www.facebook.com/CongresswomanRosaDeLauro/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/rosa_delauro/",
+      "status": "verified",
+      "source": "https://www.instagram.com/rosa_delauro/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/delauro.house.gov",
+      "status": "verified",
+      "source": "https://bsky.app/profile/delauro.house.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://rosadelauro.com/",
+      "status": "verified",
+      "source": "https://rosadelauro.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "New Haven",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "59 Elm Street, New Haven, CT 06510",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(203) 562-3718",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(203) 772-2260",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.329038+00:00",
-    "last_updated": "2026-03-26T21:30:14.329053+00:00",
+    "last_updated": "2026-03-27T09:27:22.505596+00:00",
     "verification_notes": ""
   }
 }
