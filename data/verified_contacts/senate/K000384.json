@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-4024",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.kaine.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-6363",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.kaine.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.kaine.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.kaine.senate.gov/contact/share-your-opinion",
+      "status": "verified",
+      "source": "https://www.kaine.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@timkaine",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@SenTimKaine",
+      "status": "verified",
+      "source": "https://www.kaine.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorKaine",
+      "status": "verified",
+      "source": "https://www.kaine.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/sentimkaine/",
+      "status": "verified",
+      "source": "https://www.kaine.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/kaine.senate.gov",
+      "status": "verified",
+      "source": "https://www.kaine.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@SenatorKaine",
+      "status": "verified",
+      "source": "https://www.kaine.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,163 @@
     {
       "city": {
         "value": "Richmond",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "919 East Main Street, Suite 970, Richmond, VA 23219",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(804) 771-2221",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Roanoke",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "611 S. Jefferson Street, Suite 5B, Roanoke, VA 24011",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(540) 682-5693",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Virginia Beach",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "222 Central Park Avenue, Suite 120, Virginia Beach, VA 23462",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(757) 518-1674",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Manassas",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "9408 Grant Avenue, Suite 202, Manassas, VA 20110",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(703) 361-3192",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Abingdon",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "121 Russell Road, Suite 2, Abingdon, VA 24210",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(276) 525-4790",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Fredericksburg",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "816 William Street, Suite B, Fredericksburg, VA 22401",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(540) 369-7667",
+        "status": "verified",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.kaine.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.762050+00:00",
-    "last_updated": "2026-03-26T21:27:05.762092+00:00",
+    "last_updated": "2026-03-27T06:18:51.548955+00:00",
     "verification_notes": ""
   }
 }

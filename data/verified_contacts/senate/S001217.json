@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5274",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.rickscott.senate.gov/contact/office-locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -20,28 +20,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.rickscott.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.rickscott.senate.gov/contact/contact",
+      "status": "verified",
+      "source": "https://www.rickscott.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenRickScott",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.rickscott.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RickScottSenOffice/",
+      "status": "verified",
+      "source": "https://www.rickscott.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/flsenrickscott/",
+      "status": "verified",
+      "source": "https://www.rickscott.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UC-Y9pFmW4PYGZHkC8lcqSkQ",
+      "status": "verified",
+      "source": "https://www.rickscott.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,242 @@
   "state_offices": [
     {
       "city": {
-        "value": "Jacksonville",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Pensacola",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "221 Palafox Place, Suite 420, Pensacola, FL 32502",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(904) 479-7227",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(850) 760-5151",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Tallahassee",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "111 N. Adams St., Suite 208, Tallahassee, FL 32301",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(850) 942-8415",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Jacksonville",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "400 West Bay Street, Suite 289, Jacksonville, FL 32202",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(904) 479-7227",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Orlando",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "225 East Robinson Street, Suite 410, Orlando, FL 32801",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(407) 872-7161",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Kissimmee",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1 Courthouse Square, Suite 300, Kissimmee, FL 34741",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(407) 586-7879",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Tampa",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "801 North Florida Avenue, Suite 421, Tampa, FL 33602",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(813) 225-7040",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "West Palm Beach",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "415 Clematis Street, Suite 201, West Palm Beach, FL 33401",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(561) 514-0189",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Naples",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "3299 Tamiami Trail East, Building F, #106, Naples, FL 34112",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(239) 231-7890",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Miami",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "901 Ponce de Leon Boulevard, Suite 505, Miami, FL 33134",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(786) 501-7141",
+        "status": "verified",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.rickscott.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.953218+00:00",
-    "last_updated": "2026-03-26T21:27:04.953235+00:00",
+    "last_updated": "2026-03-27T06:18:51.615016+00:00",
     "verification_notes": ""
   }
 }

@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-6253",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.wicker.senate.gov/office-locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-0378",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.wicker.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.wicker.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.wicker.senate.gov/email-me",
+      "status": "verified",
+      "source": "https://www.wicker.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorWicker",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.wicker.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorWicker",
+      "status": "verified",
+      "source": "https://www.wicker.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senatorwicker/",
+      "status": "verified",
+      "source": "https://www.wicker.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/user/SenatorWicker",
+      "status": "verified",
+      "source": "https://www.wicker.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,112 @@
   "state_offices": [
     {
       "city": {
-        "value": "Jackson",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Gulfport",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "2909 13th Street, 3rd Floor, Suite 303, Gulfport, MS 39501",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(601) 965-4644",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(228) 871-7017",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Hernando",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "321 Losher Street, PO Box 385, Hernando, MS 38632",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(662) 429-1002",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Jackson",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "U.S. Federal Courthouse, 501 East Court Street, Suite 3-500, Jackson, MS 39201",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(601) 965-4644",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Tupelo",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "330 West Jefferson Street, Suite B, P.O. Box 3777, Tupelo, MS 38804",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(662) 844-5010",
+        "status": "verified",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.wicker.senate.gov/office-locations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.260453+00:00",
-    "last_updated": "2026-03-26T21:27:05.260470+00:00",
+    "last_updated": "2026-03-27T06:18:52.397179+00:00",
     "verification_notes": ""
   }
 }

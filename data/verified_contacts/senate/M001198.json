@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-4774",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.marshall.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-6966",
@@ -20,28 +20,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.marshall.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.marshall.senate.gov/contact/contact-form/",
+      "status": "verified",
+      "source": "https://www.marshall.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@RogerMarshallMD",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://twitter.com/RogerMarshallMD",
+      "status": "verified",
+      "source": "https://www.marshall.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RogerMarshallMD",
+      "status": "verified",
+      "source": "https://www.marshall.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senrogermarshall/",
+      "status": "verified",
+      "source": "https://www.marshall.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCR3nOFMqBB-kRpKFwgapMaQ",
+      "status": "verified",
+      "source": "https://www.marshall.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,190 @@
   "state_offices": [
     {
       "city": {
-        "value": "Wichita",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Garden City",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "921 Larue Street, Suite C, Garden City, KS 67846",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(316) 262-8992",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(620) 765-7800",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Kansas City",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "400 State Ave, Suite 1006, Kansas City, KS 66101",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(913) 549-1570",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Overland Park",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "7011 W. 121st Street, Suite 100, Overland Park, KS 66209",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(913) 879-7070",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Pittsburg",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "402B North Broadway, Pittsburg, KS 66762",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(620) 404-7016",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Salina",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "204 S. Santa Fe Avenue, Suite 1, Salina, KS 67401",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(785) 829-9000",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Topeka",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "800 SW Jackson Street, Suite 600, Topeka, KS 66612",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(785) 414-7501",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Wichita",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 S. Market, Suite 102, Wichita, KS 67202",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(316) 803-6120",
+        "status": "verified",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.marshall.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.087725+00:00",
-    "last_updated": "2026-03-26T21:27:05.087743+00:00",
+    "last_updated": "2026-03-27T06:18:51.787930+00:00",
     "verification_notes": ""
   }
 }

@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5922",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.cruz.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -20,28 +20,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.cruz.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.cruz.senate.gov/contact/write-ted",
+      "status": "verified",
+      "source": "https://www.cruz.senate.gov/contact/write-ted",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenTedCruz",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.cruz.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorTedCruz",
+      "status": "verified",
+      "source": "https://www.cruz.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/sentedcruz",
+      "status": "verified",
+      "source": "https://www.cruz.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCOTZ-6H1rri1lSsj6IzhUyw",
+      "status": "verified",
+      "source": "https://www.cruz.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,164 @@
   "state_offices": [
     {
       "city": {
-        "value": "Houston",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Austin",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "300 E. 8th, Suite 961, Austin, TX 78701",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(713) 718-3057",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(512) 916-5834",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Dallas",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Lee Park Tower II, 3626 N. Hall St., Suite 410, Dallas, TX 75219",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(214) 599-8749",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Houston",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Mickey Leland Federal Bldg., 1919 Smith St., Suite 9047, Houston, TX 77002",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(713) 718-3057",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "San Antonio",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "9901 IH-10W, Suite 950, San Antonio, TX 78230",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(210) 340-2885",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Tyler",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "305 S. Broadway, Suite 501, Tyler, TX 75702",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(903) 593-5130",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "McAllen",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "200 S. 10th St., Suite 1107, McAllen, TX 78501",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(956) 686-7339",
+        "status": "verified",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.cruz.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.686137+00:00",
-    "last_updated": "2026-03-26T21:27:05.686154+00:00",
+    "last_updated": "2026-03-27T06:18:51.848035+00:00",
     "verification_notes": ""
   }
 }

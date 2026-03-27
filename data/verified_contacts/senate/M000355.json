@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2541",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-2499",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.mcconnell.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.mcconnell.senate.gov/public/index.cfm/contactform",
+      "status": "verified",
+      "source": "https://www.mcconnell.senate.gov/public/index.cfm/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@LeaderMcConnell",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@McConnellPress",
+      "status": "verified",
+      "source": "https://www.mcconnell.senate.gov/public/index.cfm/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/mitchmcconnell",
+      "status": "verified",
+      "source": "https://www.mcconnell.senate.gov/public/index.cfm/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/mcconnellpress/",
+      "status": "verified",
+      "source": "https://www.mcconnell.senate.gov/public/index.cfm/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/RepublicanLeader",
+      "status": "verified",
+      "source": "https://www.mcconnell.senate.gov/public/index.cfm/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,163 @@
     {
       "city": {
         "value": "Louisville",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "601 W. Broadway, Room 630, Louisville, KY 40202",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(502) 582-6304",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Lexington",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "771 Corporate Drive, Suite 108, Lexington, KY 40503",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(859) 224-8286",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Fort Wright",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1885 Dixie Highway, Suite 345, Fort Wright, KY 41011",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(859) 578-0188",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "London",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "300 S. Main Street, Suite 310, London, KY 40741",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(606) 864-2026",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Bowling Green",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Federal Building, 241 E. Main Street, Rm. 102, Bowling Green, KY 42101",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(270) 781-1673",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Paducah",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "501 Broadway Street, Suite B36, Paducah, KY 42001",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(270) 442-4554",
+        "status": "verified",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.103340+00:00",
-    "last_updated": "2026-03-26T21:27:05.103353+00:00",
+    "last_updated": "2026-03-27T06:18:51.962754+00:00",
     "verification_notes": ""
   }
 }

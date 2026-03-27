@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-4944",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.hagerty.senate.gov/office-locations/ ; https://www.senate.gov/general/contact_information/senators_cfm.xml",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-3398",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-TN-S-2.htm",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.hagerty.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.hagerty.senate.gov/email-me/",
+      "status": "verified",
+      "source": "https://www.hagerty.senate.gov/page-sitemap.xml",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorHagerty",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://x.com/SenatorHagerty ; https://www.legistorm.com/person/bio/365070/William_Francis_Hagerty_IV.html",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorBillHagerty",
+      "status": "verified",
+      "source": "https://www.facebook.com/SenatorBillHagerty/ ; https://www.legistorm.com/person/bio/365070/William_Francis_Hagerty_IV.html",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@senatorhagerty",
+      "status": "verified",
+      "source": "https://www.instagram.com/senatorhagerty/ ; https://www.legistorm.com/person/bio/365070/William_Francis_Hagerty_IV.html",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCqLlLx05ScUwxVHvevyaDFg",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/365070/William_Francis_Hagerty_IV.html",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -62,43 +62,199 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://teamhagerty.com/",
+      "status": "verified",
+      "source": "https://www.wikidata.org/wiki/Q27734214",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
         "value": "Nashville",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "719 Church Street, Suite 2150, Nashville, TN 37203",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(615) 736-5129",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(615) 269-4803",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Memphis",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Clifford Davis-Odell Horton Federal Building, 167 North Main Street, Suite 1068, Memphis, TN 38103",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(901) 544-4224",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Knoxville",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Howard H. Baker, Jr. U.S. Courthouse, 800 Market Street, Suite 112, Knoxville, TN 37902",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(865) 545-4253",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(865) 545-4252",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Chattanooga",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "900 Georgia Avenue, Suite 260, Chattanooga, TN 37402",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(423) 752-5337",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(423) 752-2504",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Jackson",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Ed Jones Federal Building, 109 S. Highland Avenue, Suite 216, Jackson, TN 38301",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(731) 234-9358",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(731) 664-3129",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Cookeville",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "L. Clure Morton Federal Building, 9 E. Broad Street, 3rd Floor, Cookeville, TN 38503",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(931) 400-7080",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Blountville",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Tri-Cities Regional Airport, 2525 Highway 75, Suite 101, Blountville, TN 37617",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(423) 325-6240",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(423) 325-6236",
+        "status": "verified",
+        "source": "https://www.hagerty.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.673867+00:00",
-    "last_updated": "2026-03-26T21:27:05.673888+00:00",
+    "last_updated": "2026-03-27T06:18:51.117974+00:00",
     "verification_notes": ""
   }
 }

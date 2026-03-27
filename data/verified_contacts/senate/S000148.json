@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-6542",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.schumer.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-3027",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.schumer.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.schumer.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.schumer.senate.gov/contact/message-chuck",
+      "status": "verified",
+      "source": "https://www.schumer.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenSchumer",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.schumer.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "chuckschumer",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "senschumer",
+      "status": "verified",
+      "source": "https://www.schumer.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senschumer",
+      "status": "verified",
+      "source": "https://www.schumer.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "schumer.senate.gov",
+      "status": "verified",
+      "source": "https://www.schumer.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorSchumer",
+      "status": "verified",
+      "source": "https://www.schumer.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,216 @@
   "state_offices": [
     {
       "city": {
-        "value": "New York",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Albany",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Leo O'Brien Building, Room 827, Albany, NY 12207",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(518) 431-4070",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(518) 431-4076",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Binghamton",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "15 Henry Street, Room 100 A-F, Binghamton, NY 13901",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(607) 772-6792",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(607) 772-8124",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Buffalo",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "130 South Elmwood Avenue, #660, Buffalo, NY 14202",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(716) 846-4111",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(716) 846-4113",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Melville",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "145 Pinelawn Road, #300N, Melville, NY 11747",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(631) 753-0978",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(631) 391-9068",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "New York",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "780 Third Avenue, Suite 2301, New York, NY 10017",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(212) 486-4430",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(202) 228-2838",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Peekskill",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "One Park Place, Suite 100, Peekskill, NY 10566",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(914) 734-1532",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(914) 734-1673",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Rochester",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 State Street, Room 3040, Rochester, NY 14614",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(585) 263-5866",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(585) 263-3173",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Syracuse",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 South Clinton Street, Room 841, Syracuse, NY 13261",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(315) 423-5471",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(315) 423-5185",
+        "status": "verified",
+        "source": "https://www.schumer.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.436098+00:00",
-    "last_updated": "2026-03-26T21:27:05.436115+00:00",
+    "last_updated": "2026-03-27T06:18:51.233579+00:00",
     "verification_notes": ""
   }
 }

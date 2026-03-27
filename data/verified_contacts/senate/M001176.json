@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3753",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.merkley.senate.gov/connect/office-locations/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-3997",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.merkley.senate.gov/connect/office-locations/",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.merkley.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.merkley.senate.gov/connect/contact/",
+      "status": "verified",
+      "source": "https://www.merkley.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@SenJeffMerkley",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://twitter.com/SenJeffMerkley",
+      "status": "verified",
+      "source": "https://www.merkley.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/jeffmerkley",
+      "status": "verified",
+      "source": "https://www.merkley.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senjeffmerkley/",
+      "status": "verified",
+      "source": "https://www.merkley.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCRoXttCJhMnLVCxCaa6VnNQ",
+      "status": "verified",
+      "source": "https://www.merkley.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,164 @@
   "state_offices": [
     {
       "city": {
-        "value": "Portland",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Baker City",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1705 Main Street, Suite 504, Baker City, OR 97814",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(503) 326-3386",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(541) 278-1129",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Bend",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "131 NW Hawthorne Avenue, Suite 208, Bend, OR 97703",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(541) 318-1298",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Eugene",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "405 East 8th Avenue, Suite 2010, Eugene, OR 97401",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(541) 465-6750",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Medford",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "10 South Bartlett Street, Suite 201, Medford, OR 97501",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(541) 608-9102",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Portland",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "121 SW Salmon Street, Suite 1400, Portland, OR 97204",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(503) 326-3386",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-2073",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Salem",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "500 Liberty Street SE, Suite 320, Salem, OR 97301",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(503) 362-8102",
+        "status": "verified",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.merkley.senate.gov/connect/office-locations/",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.531714+00:00",
-    "last_updated": "2026-03-26T21:27:05.531734+00:00",
+    "last_updated": "2026-03-27T06:18:51.493824+00:00",
     "verification_notes": ""
   }
 }

@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3224",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.booker.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-8378",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.booker.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.booker.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.booker.senate.gov/contact/write-to-cory",
+      "status": "verified",
+      "source": "https://www.booker.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenBooker",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.booker.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorCoryBooker",
+      "status": "verified",
+      "source": "https://www.booker.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/corybooker",
+      "status": "verified",
+      "source": "https://www.booker.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -72,33 +72,59 @@
     {
       "city": {
         "value": "Newark",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.booker.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "One Gateway Center, 23rd Floor, Newark, NJ 07102",
+        "status": "verified",
+        "source": "https://www.booker.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(973) 639-8700",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.booker.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(202) 224-5702",
+        "status": "verified",
+        "source": "https://www.booker.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Camden",
+        "status": "verified",
+        "source": "https://www.booker.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "401 Market St., Suite 240, Camden, NJ 08102",
+        "status": "verified",
+        "source": "https://www.booker.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(856) 338-8922",
+        "status": "verified",
+        "source": "https://www.booker.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-5701",
+        "status": "verified",
+        "source": "https://www.booker.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.395410+00:00",
-    "last_updated": "2026-03-26T21:27:05.395425+00:00",
+    "last_updated": "2026-03-27T06:18:52.021977+00:00",
     "verification_notes": ""
   }
 }

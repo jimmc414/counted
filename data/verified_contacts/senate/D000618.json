@@ -9,33 +9,33 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2651",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.daines.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-1236",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.daines.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.daines.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.daines.senate.gov/contact/",
+      "status": "verified",
+      "source": "https://www.daines.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SteveDaines",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "facebook": {
       "value": "SteveDainesMT",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.daines.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SteveDainesMT",
+      "status": "verified",
+      "source": "https://www.daines.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,190 @@
   "state_offices": [
     {
       "city": {
-        "value": "Great Falls",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Bozeman",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1450 Twin Lakes Avenue, Suite 201A, Bozeman, MT 59718",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(406) 587-3446",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(406) 219-2354",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Great Falls",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "104 4th Street North, Suite 302, Great Falls, MT 59401",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(406) 453-0148",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(406) 453-5379",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Helena",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "30 West 14th Street, Suite 206, Helena, MT 59601",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(406) 443-3189",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(406) 443-3306",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Billings",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "222 N. 32nd Street, Suite 100, Billings, MT 59101",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(406) 245-6822",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(406) 245-1607",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Missoula",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "218 East Front Street, Suite 103, Missoula, MT 59802",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(406) 549-8198",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(406) 549-0905",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Kalispell",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "121 Financial Drive, Suite 127, Kalispell, MT 59901",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(406) 257-3765",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Sidney",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "609 S. Central Ave., Suite 4, Sidney, MT 59270",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(406) 482-9010",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(406) 482-9059",
+        "status": "verified",
+        "source": "https://www.daines.senate.gov",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.310082+00:00",
-    "last_updated": "2026-03-26T21:27:05.310097+00:00",
+    "last_updated": "2026-03-27T06:18:51.372028+00:00",
     "verification_notes": ""
   }
 }

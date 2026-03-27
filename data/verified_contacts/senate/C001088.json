@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5042",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.coons.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-3075",
@@ -20,40 +20,40 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.coons.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.coons.senate.gov/contact/share-your-opinion",
+      "status": "verified",
+      "source": "https://www.coons.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@ChrisCoons",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.coons.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/senatorchriscoons",
+      "status": "verified",
+      "source": "https://www.coons.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senatorchriscoons",
+      "status": "verified",
+      "source": "https://www.coons.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/coons.senate.gov",
+      "status": "verified",
+      "source": "https://www.coons.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/senatorchriscoons",
+      "status": "verified",
+      "source": "https://www.coons.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,59 @@
     {
       "city": {
         "value": "Wilmington",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.coons.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1105 N. Market Street, Suite 100, Wilmington, DE 19801",
+        "status": "verified",
+        "source": "https://www.coons.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(302) 573-6345",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.coons.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.coons.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Dover",
+        "status": "verified",
+        "source": "https://www.coons.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "555 E. Loockerman Street, Suite 330, Dover, DE 19901",
+        "status": "verified",
+        "source": "https://www.coons.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(302) 736-5601",
+        "status": "verified",
+        "source": "https://www.coons.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(302) 736-5609",
+        "status": "verified",
+        "source": "https://www.coons.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.941196+00:00",
-    "last_updated": "2026-03-26T21:27:04.941214+00:00",
+    "last_updated": "2026-03-27T06:18:51.436062+00:00",
     "verification_notes": ""
   }
 }

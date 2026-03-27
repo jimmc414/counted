@@ -1,10 +1,10 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T06:03:24.990837+00:00",
+  "last_updated": "2026-03-27T06:20:09.691568+00:00",
   "chambers": {
     "senate": {
       "total": 100,
-      "verified_count": 25,
+      "verified_count": 50,
       "members": {
         "T000278": {
           "name": "Tommy Tuberville",
@@ -45,8 +45,8 @@
           "name": "Mark Kelly",
           "file": "senate/K000377.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "C001095": {
           "name": "Tom Cotton",
@@ -73,15 +73,15 @@
           "name": "Alex Padilla",
           "file": "senate/P000145.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "H001090": {
           "name": "John Hickenlooper",
           "file": "senate/H001090.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B001267": {
           "name": "Michael Bennet",
@@ -115,15 +115,15 @@
           "name": "Chris Coons",
           "file": "senate/C001088.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001217": {
           "name": "Rick Scott",
           "file": "senate/S001217.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001224": {
           "name": "Ashley Moody",
@@ -213,15 +213,15 @@
           "name": "Chuck Grassley",
           "file": "senate/G000386.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001198": {
           "name": "Roger Marshall",
           "file": "senate/M001198.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M000934": {
           "name": "Jerry Moran",
@@ -234,15 +234,15 @@
           "name": "Mitch McConnell",
           "file": "senate/M000355.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "P000603": {
           "name": "Rand Paul",
           "file": "senate/P000603.json",
           "fields_with_data": 5,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001075": {
           "name": "Bill Cassidy",
@@ -297,8 +297,8 @@
           "name": "Ed Markey",
           "file": "senate/M000133.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "S001208": {
           "name": "Elissa Slotkin",
@@ -325,15 +325,15 @@
           "name": "Tina Smith",
           "file": "senate/S001203.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "W000437": {
           "name": "Roger Wicker",
           "file": "senate/W000437.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "H001079": {
           "name": "Cindy Hyde-Smith",
@@ -367,8 +367,8 @@
           "name": "Steve Daines",
           "file": "senate/D000618.json",
           "fields_with_data": 5,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "F000463": {
           "name": "Deb Fischer",
@@ -381,8 +381,8 @@
           "name": "Pete Ricketts",
           "file": "senate/R000618.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "R000608": {
           "name": "Jacky Rosen",
@@ -423,8 +423,8 @@
           "name": "Cory Booker",
           "file": "senate/B001288.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "H001046": {
           "name": "Martin Heinrich",
@@ -437,8 +437,8 @@
           "name": "Ben Ray Lujan",
           "file": "senate/L000570.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "G000555": {
           "name": "Kirsten Gillibrand",
@@ -451,8 +451,8 @@
           "name": "Chuck Schumer",
           "file": "senate/S000148.json",
           "fields_with_data": 5,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "T000476": {
           "name": "Thom Tillis",
@@ -514,8 +514,8 @@
           "name": "Jeff Merkley",
           "file": "senate/M001176.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "W000779": {
           "name": "Ron Wyden",
@@ -542,8 +542,8 @@
           "name": "Sheldon Whitehouse",
           "file": "senate/W000802.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "R000122": {
           "name": "Jack Reed",
@@ -556,8 +556,8 @@
           "name": "Lindsey Graham",
           "file": "senate/G000359.json",
           "fields_with_data": 5,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "S001184": {
           "name": "Tim Scott",
@@ -591,15 +591,15 @@
           "name": "Bill Hagerty",
           "file": "senate/H001086.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "C001098": {
           "name": "Ted Cruz",
           "file": "senate/C001098.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "C001056": {
           "name": "John Cornyn",
@@ -626,8 +626,8 @@
           "name": "Bernie Sanders",
           "file": "senate/S000033.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "W000800": {
           "name": "Peter Welch",
@@ -640,8 +640,8 @@
           "name": "Tim Kaine",
           "file": "senate/K000384.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "W000805": {
           "name": "Mark Warner",
@@ -703,8 +703,8 @@
           "name": "Cynthia Lummis",
           "file": "senate/L000571.json",
           "fields_with_data": 5,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         }
       }
     },

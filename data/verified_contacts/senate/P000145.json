@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3553",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.padilla.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 224-2200",
+      "status": "verified",
+      "source": "https://www.padilla.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.padilla.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.padilla.senate.gov/contact/contact-form/",
+      "status": "verified",
+      "source": "https://www.padilla.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenAlexPadilla",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.padilla.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenAlexPadilla/",
+      "status": "verified",
+      "source": "https://www.padilla.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/SenAlexPadilla/",
+      "status": "verified",
+      "source": "https://www.padilla.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -72,33 +72,137 @@
     {
       "city": {
         "value": "Los Angeles",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "255 E. Temple St., Suite 1860, Los Angeles, CA 90012",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(213) 977-5133",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(310) 231-4494",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(202) 224-0357",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "San Francisco",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "333 Bush Street, Suite 3225, San Francisco, CA 94104",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(415) 981-9369",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-0454",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Sacramento",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "501 I Street, Suite 7-800, Sacramento, CA 95814",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(916) 448-2787",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 228-3865",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Fresno",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2500 Tulare Street, Suite 5290, Fresno, CA 93721",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(559) 497-5109",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 228-3864",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "San Diego",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "600 B Street, Suite 2240, San Diego, CA 92101",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(619) 239-3884",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 228-3863",
+        "status": "verified",
+        "source": "https://www.padilla.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.874141+00:00",
-    "last_updated": "2026-03-26T21:27:04.874167+00:00",
+    "last_updated": "2026-03-27T06:18:52.207577+00:00",
     "verification_notes": ""
   }
 }

@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5941",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -20,40 +20,40 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.hickenlooper.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.hickenlooper.senate.gov/email-john/",
+      "status": "verified",
+      "source": "https://www.hickenlooper.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorHick",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.hickenlooper.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorHick",
+      "status": "verified",
+      "source": "https://www.hickenlooper.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senatorhick/",
+      "status": "verified",
+      "source": "https://www.hickenlooper.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/hickenlooper.senate.gov",
+      "status": "verified",
+      "source": "https://www.hickenlooper.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCU6pcq-AZA9wnmIPBj6ePwQ",
+      "status": "verified",
+      "source": "https://www.hickenlooper.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,189 @@
     {
       "city": {
         "value": "Denver",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/byron-rogers-federal-building/",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1961 Stout St., Suite 12-300, Byron Rogers Federal Building, Denver, CO 80294",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/byron-rogers-federal-building/",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(303) 244-1628",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/byron-rogers-federal-building/",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.hickenlooper.senate.gov/locations/byron-rogers-federal-building/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Colorado Springs",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/colorado-springs/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "102 South Tejon St., Suite 930, Colorado Springs, CO 80903",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/colorado-springs/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(719) 632-6706",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/colorado-springs/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hickenlooper.senate.gov/locations/colorado-springs/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Grand Junction",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/wayne-aspinall-federal-building/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "400 Rood Ave., Suite 220, Wayne Aspinall Federal Building, Grand Junction, CO 81501",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/wayne-aspinall-federal-building/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(970) 822-4530",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/wayne-aspinall-federal-building/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hickenlooper.senate.gov/locations/wayne-aspinall-federal-building/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Durango",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/durango/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1309 East 3rd Ave., Suite 104, The Smiley Building, Durango, CO 81301",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/durango/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(970) 880-7236",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/durango/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hickenlooper.senate.gov/locations/durango/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Greeley",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/greeley/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "801 8th St., Suite 140A, Greeley, CO 80631",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/greeley/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(970) 352-5546",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/greeley/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hickenlooper.senate.gov/locations/greeley/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Fort Collins",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/fort-collins/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "201 S College Ave., Suite 200, Fort Collins, CO 80524",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/fort-collins/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(970) 484-3502",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/fort-collins/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hickenlooper.senate.gov/locations/fort-collins/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Glenwood Springs",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/glenwood-springs/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1402 Blake Ave., Suite 109A, Glenwood Springs, CO 81601",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/glenwood-springs/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(970) 989-7075",
+        "status": "verified",
+        "source": "https://www.hickenlooper.senate.gov/locations/glenwood-springs/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hickenlooper.senate.gov/locations/glenwood-springs/",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.884611+00:00",
-    "last_updated": "2026-03-26T21:27:04.884624+00:00",
+    "last_updated": "2026-03-27T06:18:51.671584+00:00",
     "verification_notes": ""
   }
 }

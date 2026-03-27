@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3744",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.grassley.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-6020",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.grassley.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.grassley.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.grassley.senate.gov/contact/questions-and-comments",
+      "status": "verified",
+      "source": "https://www.grassley.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@ChuckGrassley",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://twitter.com/chuckgrassley",
+      "status": "verified",
+      "source": "https://www.grassley.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/grassley",
+      "status": "verified",
+      "source": "https://www.grassley.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senatorchuckgrassley",
+      "status": "verified",
+      "source": "https://www.grassley.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCiCPRkcLMInpDeOqGkMTt4w",
+      "status": "verified",
+      "source": "https://www.grassley.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,164 @@
   "state_offices": [
     {
       "city": {
-        "value": "Des Moines",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Cedar Rapids",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "111 7th Avenue SE, Box 13, Suite 6800, Cedar Rapids, IA 52401",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(319) 363-6832",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(319) 363-7179",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Council Bluffs",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2146 27th Avenue, Suite 550, Council Bluffs, IA 51501",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(712) 322-7103",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(712) 322-7196",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Davenport",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "201 West 2nd Street, Suite 720, Davenport, IA 52801",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(563) 322-4331",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(563) 322-8552",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Des Moines",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "721 Federal Building, 210 Walnut Street, Des Moines, IA 50309",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(515) 288-1145",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(515) 288-5097",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Sioux City",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "120 Federal Building, 320 6th Street, Sioux City, IA 51101",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(712) 233-1860",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(712) 233-1634",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Waterloo",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "210 Waterloo Building, 531 Commercial Street, Waterloo, IA 50701",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(319) 232-6657",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(319) 232-9965",
+        "status": "verified",
+        "source": "https://www.grassley.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.078160+00:00",
-    "last_updated": "2026-03-26T21:27:05.078178+00:00",
+    "last_updated": "2026-03-27T06:18:51.084647+00:00",
     "verification_notes": ""
   }
 }

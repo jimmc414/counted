@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3424",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.lummis.senate.gov/office-locations/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-0359",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.lummis.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.lummis.senate.gov/contact/contact-form/",
+      "status": "verified",
+      "source": "https://www.lummis.senate.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenLummis",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.lummis.senate.gov/office-locations/",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "SenCynthiaLummis",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "sencynthialummis",
+      "status": "verified",
+      "source": "https://www.lummis.senate.gov/office-locations/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "sencynthialummis",
+      "status": "verified",
+      "source": "https://www.lummis.senate.gov/office-locations/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -71,34 +71,190 @@
   "state_offices": [
     {
       "city": {
-        "value": "Cheyenne",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Casper",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Dick Cheney Federal Building, 100 East B Street, Suite 3201, PO Box 33201, Casper, WY 82602",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(307) 261-6572",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Cheyenne",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Federal Center, 2120 Capitol Avenue, Suite 2007, Cheyenne, WY 82001",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(307) 772-2477",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Cody",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1285 Sheridan Avenue, Suite 215, Cody, WY 82414",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(307) 527-9444",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Jackson",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Office Coming Soon, Jackson, WY",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(307) 886-6050",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Sheridan",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "P.O. Box 6677, Sheridan, WY 82801",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(307) 439-7783",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Afton (Star Valley)",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "80 1st Street, Suite 105, P.O. Box 1630, Afton, WY 83110",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(307) 248-1736",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Sundance",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "120 North 4th Street, PO Box 769, Sundance, WY 82729",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(307) 283-3461",
+        "status": "verified",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.lummis.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.888855+00:00",
-    "last_updated": "2026-03-26T21:27:05.888876+00:00",
+    "last_updated": "2026-03-27T06:18:52.148383+00:00",
     "verification_notes": ""
   }
 }

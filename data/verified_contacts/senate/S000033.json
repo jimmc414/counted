@@ -9,33 +9,33 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5141",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.sanders.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-0776",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.sanders.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.sanders.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.sanders.senate.gov/contact/contact-form/",
+      "status": "verified",
+      "source": "https://www.sanders.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenSanders",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.sanders.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/senatorsanders",
+      "status": "verified",
+      "source": "https://www.sanders.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
       "value": "",
@@ -44,16 +44,16 @@
       "verified_date": ""
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/sanders.senate.gov",
+      "status": "verified",
+      "source": "https://www.sanders.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/senatorsanders",
+      "status": "verified",
+      "source": "https://www.sanders.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,33 @@
     {
       "city": {
         "value": "Burlington",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.sanders.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1 Church St., 3rd Floor, Burlington, VT 05401",
+        "status": "verified",
+        "source": "https://www.sanders.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(802) 862-0697",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.sanders.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(802) 860-6370",
+        "status": "verified",
+        "source": "https://www.sanders.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.725633+00:00",
-    "last_updated": "2026-03-26T21:27:05.725667+00:00",
+    "last_updated": "2026-03-27T06:18:52.082095+00:00",
     "verification_notes": ""
   }
 }

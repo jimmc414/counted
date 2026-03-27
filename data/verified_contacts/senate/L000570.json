@@ -9,45 +9,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-6621",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.lujan.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 224-3370",
+      "status": "verified",
+      "source": "https://www.lujan.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.lujan.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.lujan.senate.gov/contact/contact-form/",
+      "status": "verified",
+      "source": "https://www.lujan.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorLujan",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.lujan.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorLujan",
+      "status": "verified",
+      "source": "https://www.lujan.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senatorlujan/",
+      "status": "verified",
+      "source": "https://www.lujan.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/lujan.senate.gov",
+      "status": "verified",
+      "source": "https://www.lujan.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -72,33 +72,137 @@
     {
       "city": {
         "value": "Albuquerque",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "500 Marquette Ave NW, Suite 1460, Albuquerque, NM 87102",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(505) 346-6601",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(505) 337-7023",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(833) 907-0886",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Las Cruces",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "201 North Church Street, Suite 201B, Las Cruces, NM 88001",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(575) 288-4644",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(833) 907-0887",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Las Vegas",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1103 National Avenue, Room 210, Las Vegas, NM 87701",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(505) 398-9465",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(833) 907-0888",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Portales",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 South Ave A, Suite 113, Portales, NM 88130",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(575) 252-6188",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(833) 702-2620",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Santa Fe",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "120 South Federal Place, Suite 302, Santa Fe, NM 87501",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(505) 230-7040",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(833) 702-2621",
+        "status": "verified",
+        "source": "https://www.lujan.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.416568+00:00",
-    "last_updated": "2026-03-26T21:27:05.416584+00:00",
+    "last_updated": "2026-03-27T06:18:51.907722+00:00",
     "verification_notes": ""
   }
 }

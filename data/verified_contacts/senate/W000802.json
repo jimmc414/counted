@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2921",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.whitehouse.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-6362",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://opengov.sos.ri.gov/GOVDirectoryPublic/ViewGOVDirectoryDetails?RelationID=2591&EntityID=3620",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.whitehouse.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.whitehouse.senate.gov/contact/email-sheldon/",
+      "status": "verified",
+      "source": "https://www.whitehouse.senate.gov/contact/email-sheldon/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenWhitehouse",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.whitehouse.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorWhitehouse",
+      "status": "verified",
+      "source": "https://www.whitehouse.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senwhitehouse/",
+      "status": "verified",
+      "source": "https://www.whitehouse.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@whitehouse.senate.gov",
+      "status": "verified",
+      "source": "https://bsky.app/profile/whitehouse.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/user/SenatorWhitehouse",
+      "status": "verified",
+      "source": "https://www.whitehouse.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -62,43 +62,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://whitehouseforsenate.com",
+      "status": "verified",
+      "source": "https://whitehouseforsenate.com/meet-sheldon/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
         "value": "Providence",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://opengov.sos.ri.gov/GOVDirectoryPublic/ViewGOVDirectoryDetails?RelationID=2591&EntityID=3620",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "170 Westminster St., Ste. 200, Providence, RI 02903",
+        "status": "verified",
+        "source": "https://opengov.sos.ri.gov/GOVDirectoryPublic/ViewGOVDirectoryDetails?RelationID=2591&EntityID=3620",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(401) 453-5294",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://opengov.sos.ri.gov/GOVDirectoryPublic/ViewGOVDirectoryDetails?RelationID=2591&EntityID=3620",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(401) 453-5085",
+        "status": "verified",
+        "source": "https://opengov.sos.ri.gov/GOVDirectoryPublic/ViewGOVDirectoryDetails?RelationID=2591&EntityID=3620",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.574513+00:00",
-    "last_updated": "2026-03-26T21:27:05.574538+00:00",
+    "last_updated": "2026-03-27T06:18:52.459347+00:00",
     "verification_notes": ""
   }
 }

@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2742",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.markey.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-8525",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.markey.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.markey.senate.gov/contact/share-your-opinion",
+      "status": "verified",
+      "source": "https://www.markey.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenMarkey",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.markey.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/EdJMarkey",
+      "status": "verified",
+      "source": "https://www.markey.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senmarkeymemes",
+      "status": "verified",
+      "source": "https://www.markey.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/markey.senate.gov",
+      "status": "verified",
+      "source": "https://www.markey.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/repmarkey",
+      "status": "verified",
+      "source": "https://www.markey.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,59 @@
     {
       "city": {
         "value": "Boston",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.markey.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "975 JFK Federal Building, 15 New Sudbury St, Boston, MA 02203",
+        "status": "verified",
+        "source": "https://www.markey.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(617) 565-8519",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.markey.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.markey.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Springfield",
+        "status": "verified",
+        "source": "https://www.markey.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1550 Main Street 4th Floor, Springfield, MA 01103",
+        "status": "verified",
+        "source": "https://www.markey.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(413) 785-4610",
+        "status": "verified",
+        "source": "https://www.markey.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.markey.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.198596+00:00",
-    "last_updated": "2026-03-26T21:27:05.198612+00:00",
+    "last_updated": "2026-03-27T06:18:51.297159+00:00",
     "verification_notes": ""
   }
 }
