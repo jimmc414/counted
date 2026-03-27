@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-9895",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://sc.gov/government/getting-know-your-government/elected-officials/congressional-delegation",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -70,34 +70,60 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Surfside Beach",
+        "status": "verified",
+        "source": "https://sc.gov/government/getting-know-your-government/elected-officials/congressional-delegation",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1500 Hwy 17 N, Suite 304, Surfside Beach, SC 29575",
+        "status": "verified",
+        "source": "https://sc.gov/government/getting-know-your-government/elected-officials/congressional-delegation",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(843) 353-5377",
+        "status": "verified",
+        "source": "https://sc.gov/government/getting-know-your-government/elected-officials/congressional-delegation",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://sc.gov/government/getting-know-your-government/elected-officials/congressional-delegation",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Florence",
+        "status": "verified",
+        "source": "https://sc.gov/government/getting-know-your-government/elected-officials/congressional-delegation",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1831 West Evans Street, Suite 300, Florence, SC 29501",
+        "status": "verified",
+        "source": "https://sc.gov/government/getting-know-your-government/elected-officials/congressional-delegation",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(843) 799-6880",
+        "status": "verified",
+        "source": "https://sc.gov/government/getting-know-your-government/elected-officials/congressional-delegation",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://sc.gov/government/getting-know-your-government/elected-officials/congressional-delegation",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.358374+00:00",
-    "last_updated": "2026-03-26T21:30:17.358389+00:00",
+    "last_updated": "2026-03-27T10:01:26.650682+00:00",
     "verification_notes": ""
   }
 }

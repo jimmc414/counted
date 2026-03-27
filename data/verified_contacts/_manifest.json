@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T09:50:32.989461+00:00",
+  "last_updated": "2026-03-27T10:01:26.752446+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 124,
+      "verified_count": 134,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -997,8 +997,8 @@
           "name": "Vince Fong",
           "file": "house/F000480.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001059": {
           "name": "Jim Costa",
@@ -1368,8 +1368,8 @@
           "name": "Randy Fine",
           "file": "house/F000484.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 4,
+          "status": "verified"
         },
         "M001216": {
           "name": "Cory Mills",
@@ -1396,8 +1396,8 @@
           "name": "Maxwell Frost",
           "file": "house/F000476.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "W000806": {
           "name": "Daniel Webster",
@@ -2201,8 +2201,8 @@
           "name": "Brad Finstad",
           "file": "house/F000475.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "C001119": {
           "name": "Angie Craig",
@@ -2292,8 +2292,8 @@
           "name": "Sam Graves",
           "file": "house/G000546.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "B001316": {
           "name": "Eric Burlison",
@@ -2383,15 +2383,15 @@
           "name": "Valerie P. Foushee",
           "file": "house/F000477.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "F000450": {
           "name": "Virginia Foxx",
           "file": "house/F000450.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "M001240": {
           "name": "Addison P. McDowell",
@@ -3174,8 +3174,8 @@
           "name": "Russell Fry",
           "file": "house/F000478.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 1,
+          "status": "verified"
         },
         "J000301": {
           "name": "Dusty Johnson",
@@ -3307,8 +3307,8 @@
           "name": "Al Green",
           "file": "house/G000553.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "M001157": {
           "name": "Michael T. McCaul",
@@ -3734,8 +3734,8 @@
           "name": "Scott Fitzgerald",
           "file": "house/F000471.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "G000576": {
           "name": "Glenn Grothman",
