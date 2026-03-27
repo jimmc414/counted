@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T10:11:46.542254+00:00",
+  "last_updated": "2026-03-27T10:18:41.589266+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 148,
+      "verified_count": 162,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -948,8 +948,8 @@
           "name": "Adam Gray",
           "file": "house/G000605.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001193": {
           "name": "Eric Swalwell",
@@ -1151,8 +1151,8 @@
           "name": "Robert Garcia",
           "file": "house/G000598.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "W000187": {
           "name": "Maxine Waters",
@@ -1522,8 +1522,8 @@
           "name": "Carlos A. Gimenez",
           "file": "house/G000593.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "C001103": {
           "name": "Earl L. \"Buddy\" Carter",
@@ -2334,8 +2334,8 @@
           "name": "Michael Guest",
           "file": "house/G000591.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "E000235": {
           "name": "Mike Ezell",
@@ -2495,8 +2495,8 @@
           "name": "Maggie Goodlander",
           "file": "house/G000604.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "N000188": {
           "name": "Donald Norcross",
@@ -2530,8 +2530,8 @@
           "name": "Josh Gottheimer",
           "file": "house/G000583.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "P000034": {
           "name": "Frank Pallone Jr.",
@@ -2635,8 +2635,8 @@
           "name": "Andrew R. Garbarino",
           "file": "house/G000597.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001201": {
           "name": "Thomas R. Suozzi",
@@ -2649,8 +2649,8 @@
           "name": "Laura Gillen",
           "file": "house/G000602.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001137": {
           "name": "Gregory W. Meeks",
@@ -2691,8 +2691,8 @@
           "name": "Daniel S. Goldman",
           "file": "house/G000599.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 1,
+          "status": "verified"
         },
         "M000317": {
           "name": "Nicole Malliotakis",
@@ -3279,8 +3279,8 @@
           "name": "Lance Gooden",
           "file": "house/G000589.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "E000071": {
           "name": "Jake Ellzey",
@@ -3328,8 +3328,8 @@
           "name": "Craig A. Goldman",
           "file": "house/G000601.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "J000304": {
           "name": "Ronny Jackson",
@@ -3405,8 +3405,8 @@
           "name": "Tony Gonzales",
           "file": "house/G000594.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "V000134": {
           "name": "Beth Van Duyne",
@@ -3426,8 +3426,8 @@
           "name": "Brandon Gill",
           "file": "house/G000603.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "C001115": {
           "name": "Michael Cloud",
@@ -3650,8 +3650,8 @@
           "name": "Marie Gluesenkamp Perez",
           "file": "house/G000600.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "N000189": {
           "name": "Dan Newhouse",

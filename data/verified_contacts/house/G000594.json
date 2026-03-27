@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4511",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.txdirectory.com/online/person/?id=66153&office=24246",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-2237",
+      "status": "verified",
+      "source": "https://www.txdirectory.com/online/person/?id=66153&office=24246",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://gonzales.house.gov/contact",
+      "status": "verified",
+      "source": "https://gonzales.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepTonyGonzales",
+      "status": "verified",
+      "source": "https://x.com/RepTonyGonzales",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepTonyGonzales",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepTonyGonzales/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "reptonygonzales",
+      "status": "verified",
+      "source": "https://www.instagram.com/reptonygonzales/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepTonyGonzales",
+      "status": "verified",
+      "source": "https://www.youtube.com/@RepTonyGonzales",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,147 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://tonygonzalesforcongress.com",
+      "status": "verified",
+      "source": "https://directory.texastribune.org/tony-gonzales/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "San Antonio",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "4372 N. Loop 1604 W, Suite 205, San Antonio, TX 78249",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(210) 806-9920",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(210) 927-4903",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Del Rio",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "712 East Gibbs St., Suite 101, Del Rio, TX 78840",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(830) 308-6200",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Socorro",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "10167 Socorro Rd., Socorro, TX 79927",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(915) 990-1500",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Uvalde",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2401 Garner Field Rd, Building Q, Uvalde, TX 78801",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(830) 333-7410",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Fort Stockton",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "103 West Callaghan, Fort Stockton, TX 79735",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(432) 299-6200",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.781804+00:00",
-    "last_updated": "2026-03-26T21:30:17.781826+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T10:18:41.347878+00:00",
+    "verification_notes": "Official site gonzales.house.gov/contact returned 403. DC phone (202) 225-4511 confirmed across txdirectory.com, directory.texastribune.org, directory.texasscorecard.com, and web search results. DC fax (202) 225-2237 from txdirectory.com. DC address is 2239 Rayburn HOB, Washington, DC 20515-4323. Five district offices confirmed across txdirectory.com, texastribune.org, and texasscorecard.com: San Antonio (4372 N. Loop 1604 W, Suite 205), Del Rio (712 East Gibbs St., Suite 101), Socorro (10167 Socorro Rd. - Casa Ortiz, by appointment), Uvalde (2401 Garner Field Rd, Building Q), Fort Stockton (103 West Callaghan). San Antonio fax (210) 927-4903 from txdirectory.com; no fax numbers found for other district offices. Twitter @RepTonyGonzales, Facebook RepTonyGonzales, Instagram @reptonygonzales confirmed via direct social media profile URLs. YouTube channel @RepTonyGonzales confirmed. Campaign site tonygonzalesforcongress.com from texastribune.org directory. No Bluesky or Truth Social accounts found."
   }
 }

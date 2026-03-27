@@ -8,15 +8,15 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4465",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/21789",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-9048",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/21789",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
       "value": "",
@@ -70,34 +70,60 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Glen Rock",
+        "status": "verified",
+        "source": "https://www.ramseynj.com/226/State-Federal-Officials",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "65 Harristown Road, Suite 104, Glen Rock, NJ 07452",
+        "status": "verified",
+        "source": "https://www.ramseynj.com/226/State-Federal-Officials",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(201) 389-1100",
+        "status": "verified",
+        "source": "https://www.ramseynj.com/226/State-Federal-Officials",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.ramseynj.com/226/State-Federal-Officials",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Newton",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/21789",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "93 Spring Street, Suite 408, Newton, NJ 07860",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/21789",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(973) 940-1117",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/21789",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.billtrack50.com/legislatordetail/21789",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.359195+00:00",
-    "last_updated": "2026-03-26T21:30:16.359209+00:00",
+    "last_updated": "2026-03-27T10:18:40.685866+00:00",
     "verification_notes": ""
   }
 }

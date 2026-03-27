@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-5516",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://gillen.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-5758",
+      "status": "verified",
+      "source": "https://gillen.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://gillen.house.gov/contact",
+      "status": "verified",
+      "source": "https://gillen.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepLauraGillen",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/422300/Laura_Anne_Gillen.html",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "replauragillen",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/422300/Laura_Anne_Gillen.html",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "replauragillen",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/422300/Laura_Anne_Gillen.html",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@Rep.LauraGillen",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/422300/Laura_Anne_Gillen.html",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Garden City",
+        "status": "verified",
+        "source": "https://gillen.house.gov/contact/offices/garden-city-district-office",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "229 7th Street, Suite 102, Garden City, NY 11530",
+        "status": "verified",
+        "source": "https://gillen.house.gov/contact/offices/garden-city-district-office",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(516) 739-3008",
+        "status": "verified",
+        "source": "https://gillen.house.gov/contact/offices/garden-city-district-office",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(516) 739-2973",
+        "status": "verified",
+        "source": "https://gillen.house.gov/contact/offices/garden-city-district-office",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.538323+00:00",
-    "last_updated": "2026-03-26T21:30:16.538338+00:00",
+    "last_updated": "2026-03-27T10:18:40.722564+00:00",
     "verification_notes": ""
   }
 }
