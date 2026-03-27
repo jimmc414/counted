@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3701",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://mannion.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,34 +19,34 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://mannion.house.gov/contact/email-me",
+      "status": "verified",
+      "source": "https://mannion.house.gov/contact/email-me",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@JohnMannionNY22",
+      "status": "verified",
+      "source": "https://x.com/JohnMannionNY22",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/CongressmanJohnMannion/",
+      "status": "verified",
+      "source": "https://www.facebook.com/CongressmanJohnMannion/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@congressmannion",
+      "status": "verified",
+      "source": "https://www.instagram.com/congressmannion/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@congressmannion.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/congressmannion.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -61,43 +61,69 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.mannionforny.com/",
+      "status": "verified",
+      "source": "https://www.mannionforny.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Syracuse",
+        "status": "verified",
+        "source": "https://mannion.house.gov/contact/offices/syracuse-district-office",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "440 S. Warren St., Suite 706, Syracuse, NY 13202",
+        "status": "verified",
+        "source": "https://mannion.house.gov/contact/offices/syracuse-district-office",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(315) 233-4333",
+        "status": "verified",
+        "source": "https://mannion.house.gov/contact/offices/syracuse-district-office",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://mannion.house.gov/contact/offices/syracuse-district-office",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Utica",
+        "status": "verified",
+        "source": "https://mannion.house.gov/contact/offices/utica-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "207 Genesee St., Suite 405, Utica, NY 13501",
+        "status": "verified",
+        "source": "https://mannion.house.gov/contact/offices/utica-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(315) 732-0713",
+        "status": "verified",
+        "source": "https://mannion.house.gov/contact/offices/utica-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://mannion.house.gov/contact/offices/utica-district-office",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.753779+00:00",
-    "last_updated": "2026-03-26T21:30:16.753827+00:00",
+    "last_updated": "2026-03-27T12:07:53.276745+00:00",
     "verification_notes": ""
   }
 }

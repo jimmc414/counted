@@ -8,96 +8,122 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2711",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://rileymoore.house.gov/contact/office-locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://rileymoore.house.gov/contact/email-me",
+      "status": "verified",
+      "source": "https://rileymoore.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepRileyMoore",
+      "status": "verified",
+      "source": "https://x.com/RepRileyMoore",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/reprileymoore/",
+      "status": "verified",
+      "source": "https://www.facebook.com/reprileymoore/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@reprileymoore",
+      "status": "verified",
+      "source": "https://www.instagram.com/reprileymoore/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.mooreforwv.com/",
+      "status": "verified",
+      "source": "https://www.mooreforwv.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Morgantown",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "8 Suburban Court, Morgantown, WV 26505",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(304) 350-6995",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(771) 200-5938",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Martinsburg",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "739 Winchester Ave, Martinsburg, WV 25401",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(304) 350-6987",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:18.345953+00:00",
-    "last_updated": "2026-03-26T21:30:18.345979+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T12:07:53.532923+00:00",
+    "verification_notes": "Official site (rileymoore.house.gov) returns 403 to automated fetches. Contact data verified via web search results referencing official house.gov office-locations and martinsburg-district-office pages. DC phone confirmed (202) 225-2711. Two district offices: Morgantown and Martinsburg. Official congressional social media: @RepRileyMoore (X), @reprileymoore (FB and IG). Campaign accounts exist separately (@RileyMooreWV on X, @moore4wv on IG, MooreforWV on FB). No DC fax, YouTube, Bluesky, or Truth Social found."
   }
 }

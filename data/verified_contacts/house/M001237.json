@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3611",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://mcdonaldrivet.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://mcdonaldrivet.house.gov/address_authentication?form=/contact/email-me",
+      "status": "verified",
+      "source": "https://mcdonaldrivet.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepKMR",
+      "status": "verified",
+      "source": "https://pressgallery.house.gov/member-data/members-official-x-handles-119th-congress",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/repmcdonaldrivet/",
+      "status": "verified",
+      "source": "https://www.facebook.com/repmcdonaldrivet/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repmcdonaldrivet",
+      "status": "verified",
+      "source": "https://www.instagram.com/repmcdonaldrivet/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,69 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://kristenmcdonaldrivet.com/",
+      "status": "verified",
+      "source": "https://kristenmcdonaldrivet.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Saginaw",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "4800 Fashion Square Blvd., Suite 200, Saginaw, MI 48604",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(989) 898-6060",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Flint",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "601 Saginaw St., Suite 403, Flint, MI 48502",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(810) 238-8627",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.799919+00:00",
-    "last_updated": "2026-03-26T21:30:15.799939+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T12:07:53.134748+00:00",
+    "verification_notes": "DC phone (202) 225-3611 confirmed across multiple sources (house.gov search snippets, sengov.com, BillTrack50, house_members.json). Official site returns 403; data sourced via web search snippets, sengov.com, BillTrack50, and UCSD LibGuides. Official X handle @RepKMR from House Press Gallery 119th Congress list. Official Facebook is /repmcdonaldrivet/ (congressional), distinct from campaign /KristenMcDonaldRivet/. Official Instagram @repmcdonaldrivet (congressional). Two district offices: Saginaw Township (opened 2025) and Flint (opened Jan 3, 2025). No DC fax found in any source."
   }
 }

@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T11:57:25.619899+00:00",
+  "last_updated": "2026-03-27T12:07:53.553077+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 277,
+      "verified_count": 290,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -1326,8 +1326,8 @@
           "name": "Sarah McBride",
           "file": "house/M001238.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "P000622": {
           "name": "Jimmy Patronis",
@@ -1851,8 +1851,8 @@
           "name": "Mark B. Messmer",
           "file": "house/M001233.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "H001093": {
           "name": "Erin Houchin",
@@ -2075,8 +2075,8 @@
           "name": "April McClain Delaney",
           "file": "house/M001232.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "M000687": {
           "name": "Kweisi Mfume",
@@ -2159,8 +2159,8 @@
           "name": "Kristen McDonald Rivet",
           "file": "house/M001237.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001136": {
           "name": "Lisa C. McClain",
@@ -2215,8 +2215,8 @@
           "name": "Kelly Morrison",
           "file": "house/M001234.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "M001143": {
           "name": "Betty McCollum",
@@ -2397,8 +2397,8 @@
           "name": "Addison P. McDowell",
           "file": "house/M001240.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "R000603": {
           "name": "David Rouzer",
@@ -2453,8 +2453,8 @@
           "name": "Tim Moore",
           "file": "house/M001236.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "F000482": {
           "name": "Julie Fedorchak",
@@ -2565,8 +2565,8 @@
           "name": "LaMonica McIver",
           "file": "house/M001229.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "W000822": {
           "name": "Bonnie Watson Coleman",
@@ -2775,8 +2775,8 @@
           "name": "John W. Mannion",
           "file": "house/M001231.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "L000600": {
           "name": "Nicholas A. Langworthy",
@@ -3034,8 +3034,8 @@
           "name": "Ryan Mackenzie",
           "file": "house/M001230.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B001327": {
           "name": "Robert P. Bresnahan Jr.",
@@ -3524,8 +3524,8 @@
           "name": "Celeste Maloy",
           "file": "house/M001228.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "K000403": {
           "name": "Mike Kennedy",
@@ -3573,8 +3573,8 @@
           "name": "John J. McGuire III",
           "file": "house/M001239.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "C001118": {
           "name": "Ben Cline",
@@ -3769,8 +3769,8 @@
           "name": "Riley M. Moore",
           "file": "house/M001235.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "H001096": {
           "name": "Harriet M. Hageman",

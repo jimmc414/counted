@@ -8,45 +8,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2721",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://msa.maryland.gov/msa/mdmanual/39fed/06ushse/html/msa18593.html",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-2193",
+      "status": "verified",
+      "source": "https://msa.maryland.gov/msa/mdmanual/39fed/06ushse/html/msa18593.html",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://mcclaindelaney.house.gov/address_authentication?form=/contact/email-me",
+      "status": "verified",
+      "source": "https://mcclaindelaney.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepAprilDelaney",
+      "status": "verified",
+      "source": "https://x.com/RepAprilDelaney",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepAprilDelaney",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepAprilDelaney/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repaprildelaney",
+      "status": "verified",
+      "source": "https://www.instagram.com/repaprildelaney/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repaprildelaney.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/repaprildelaney.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.aprilmcclaindelaneyforcongress.com/",
+      "status": "verified",
+      "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Frederick",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "30 W. Patrick St., Suite 505, Frederick, MD 21701",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(301) 926-0300",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(443) 441-6277",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.662853+00:00",
-    "last_updated": "2026-03-26T21:30:15.662878+00:00",
+    "last_updated": "2026-03-27T12:07:53.001974+00:00",
     "verification_notes": ""
   }
 }
