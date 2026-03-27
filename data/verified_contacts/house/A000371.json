@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3201",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://aguilar.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,40 +19,40 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://aguilar.house.gov/email-me/",
+      "status": "verified",
+      "source": "https://aguilar.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://twitter.com/RepPeteAguilar",
+      "status": "verified",
+      "source": "https://aguilar.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepPeteAguilar/",
+      "status": "verified",
+      "source": "https://aguilar.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://instagram.com/Rep.PeteAguilar/",
+      "status": "verified",
+      "source": "https://aguilar.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/reppeteaguilar.bsky.social",
+      "status": "verified",
+      "source": "https://aguilar.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCxwbFLOlKDsXrwizV5jah7g",
+      "status": "verified",
+      "source": "https://aguilar.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "San Bernardino",
+        "status": "verified",
+        "source": "https://aguilar.house.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "685 E. Carnegie Drive, Suite 100, San Bernardino, CA 92408",
+        "status": "verified",
+        "source": "https://aguilar.house.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(909) 890-4445",
+        "status": "verified",
+        "source": "https://aguilar.house.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(909) 890-9643",
+        "status": "verified",
+        "source": "https://aguilar.house.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.046426+00:00",
-    "last_updated": "2026-03-26T21:30:14.046440+00:00",
+    "last_updated": "2026-03-27T08:02:26.775625+00:00",
     "verification_notes": ""
   }
 }

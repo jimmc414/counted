@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2132",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://bice.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://biceforms.house.gov/contact/",
+      "status": "verified",
+      "source": "https://bice.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepBice",
+      "status": "verified",
+      "source": "https://bice.house.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepStephanieBice",
+      "status": "verified",
+      "source": "https://bice.house.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repstephaniebice",
+      "status": "verified",
+      "source": "https://bice.house.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepBice",
+      "status": "verified",
+      "source": "https://bice.house.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Oklahoma City",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "101 N. Robinson Ave., Suite 1105, Oklahoma City, OK 73102",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(405) 300-6890",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(855) 235-5024",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.986803+00:00",
-    "last_updated": "2026-03-26T21:30:16.986824+00:00",
+    "last_updated": "2026-03-27T08:02:26.834185+00:00",
     "verification_notes": ""
   }
 }

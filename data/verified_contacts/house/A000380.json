@@ -8,45 +8,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4911",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://amo.house.gov/contact/offices",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-3290",
+      "status": "verified",
+      "source": "https://amo.house.gov/contact/offices",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://amo.house.gov/address_authentication?form=/contact",
+      "status": "verified",
+      "source": "https://amo.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepGabeAmo",
+      "status": "verified",
+      "source": "https://amo.house.gov (evo_social_icons config",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/profile.php?id=61553581414066",
+      "status": "verified",
+      "source": "https://amo.house.gov (evo_social_icons config",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repgabeamo",
+      "status": "verified",
+      "source": "https://amo.house.gov (evo_social_icons config",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/amo.house.gov",
+      "status": "verified",
+      "source": "https://amo.house.gov (evo_social_icons config",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Providence",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "10 Charles Street, Suite 200, Providence, RI 02904",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(401) 729-5600",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(401) 729-5608",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.267236+00:00",
-    "last_updated": "2026-03-26T21:30:17.267264+00:00",
+    "last_updated": "2026-03-27T08:02:26.904017+00:00",
     "verification_notes": ""
   }
 }

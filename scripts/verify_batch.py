@@ -20,6 +20,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 SENATE_DIR = DATA / "verified_contacts" / "senate"
+HOUSE_DIR = DATA / "verified_contacts" / "house"
 MANIFEST_PATH = DATA / "verified_contacts" / "_manifest.json"
 
 CONTACT_FIELDS = [
@@ -53,18 +54,29 @@ def resolve_targets(args):
     return []
 
 
+def _member_path(bioguide_id):
+    """Find the file path for a member in either chamber."""
+    for d in (SENATE_DIR, HOUSE_DIR):
+        p = d / f"{bioguide_id}.json"
+        if p.exists():
+            return p
+    return None
+
+
 def load_member(bioguide_id):
-    """Load a verified contact file."""
-    path = SENATE_DIR / f"{bioguide_id}.json"
-    if not path.exists():
+    """Load a verified contact file from either chamber."""
+    path = _member_path(bioguide_id)
+    if path is None:
         return None
     return json.loads(path.read_text())
 
 
 def save_member(record):
-    """Save a verified contact file."""
+    """Save a verified contact file to the correct chamber directory."""
     record["metadata"]["last_updated"] = datetime.now(timezone.utc).isoformat()
-    path = SENATE_DIR / f"{record['bioguide_id']}.json"
+    chamber = record.get("chamber", "senate")
+    base_dir = HOUSE_DIR if chamber == "house" else SENATE_DIR
+    path = base_dir / f"{record['bioguide_id']}.json"
     path.write_text(json.dumps(record, indent=2) + "\n")
 
 
@@ -120,7 +132,9 @@ def update_manifest(bioguide_id, record):
     if not MANIFEST_PATH.exists():
         return
     manifest = json.loads(MANIFEST_PATH.read_text())
-    member_entry = manifest["chambers"]["senate"]["members"].get(bioguide_id, {})
+    chamber = record.get("chamber", "senate")
+
+    member_entry = manifest["chambers"][chamber]["members"].get(bioguide_id, {})
 
     verified_count = sum(
         1 for f in CONTACT_FIELDS
@@ -128,11 +142,11 @@ def update_manifest(bioguide_id, record):
     )
     member_entry["fields_verified"] = verified_count
     member_entry["status"] = "verified" if verified_count > 0 else "seeded"
-    manifest["chambers"]["senate"]["members"][bioguide_id] = member_entry
+    manifest["chambers"][chamber]["members"][bioguide_id] = member_entry
 
     # Recount total verified
-    manifest["chambers"]["senate"]["verified_count"] = sum(
-        1 for m in manifest["chambers"]["senate"]["members"].values()
+    manifest["chambers"][chamber]["verified_count"] = sum(
+        1 for m in manifest["chambers"][chamber]["members"].values()
         if m.get("status") == "verified"
     )
     manifest["last_updated"] = datetime.now(timezone.utc).isoformat()

@@ -8,57 +8,57 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-6730",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://bentz.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-5774",
+      "status": "verified",
+      "source": "https://bentz.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bentz.house.gov/zip_authentication?form=/contact",
+      "status": "verified",
+      "source": "https://bentz.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepBentz",
+      "status": "verified",
+      "source": "https://bentz.house.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://facebook.com/RepBentz",
+      "status": "verified",
+      "source": "https://bentz.house.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://instagram.com/RepBentz",
+      "status": "verified",
+      "source": "https://bentz.house.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
       "value": "",
@@ -70,34 +70,60 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Medford",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "14 N. Central Avenue, Suite 112, Medford, OR 97501",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(541) 776-4646",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(541) 779-0204",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Ontario",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2430 SW 4th Avenue, Suite 2, Ontario, OR 97914",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(541) 709-2040",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.008426+00:00",
-    "last_updated": "2026-03-26T21:30:17.008444+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T08:02:26.460853+00:00",
+    "verification_notes": "All data verified from bentz.house.gov/contact. DC office at 409 Cannon HOB. Social media (Facebook, Instagram, X) confirmed active via site JS config (checkbox:1). YouTube/Bluesky/TruthSocial not enabled on official site. Ontario office has no fax listed."
   }
 }

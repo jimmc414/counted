@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2876",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://alford.house.gov/contact/offices.htm",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://alford.house.gov/forms/writeyourrep/",
+      "status": "verified",
+      "source": "https://alford.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepMarkAlford",
+      "status": "verified",
+      "source": "https://alford.house.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepMarkAlford",
+      "status": "verified",
+      "source": "https://alford.house.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repmarkalford/",
+      "status": "verified",
+      "source": "https://alford.house.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@RepMarkAlford",
+      "status": "verified",
+      "source": "https://alford.house.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,69 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://alfordforcongress.com/",
+      "status": "verified",
+      "source": "https://alfordforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Raymore",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "1272 West Foxwood Dr., Raymore, MO 64083",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(816) 441-6318",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Columbia",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2401 Bernadette Dr., Suite 117, Columbia, MO 65203",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(573) 540-6600",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.001215+00:00",
-    "last_updated": "2026-03-26T21:30:16.001233+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T08:02:26.529856+00:00",
+    "verification_notes": "Verified via alford.house.gov and clerk.house.gov. Official site (alford.house.gov) returned 403 on direct fetch, but search-indexed snippets from alford.house.gov/contact/offices.htm confirmed all office data. DC office at 328 Cannon HOB confirmed by clerk.house.gov/members/A000379 (119th Congress). DC phone (202) 225-2876 confirmed across all official sources. No DC fax found on official site. Two district offices: Raymore and Columbia. Columbia address cross-confirmed via Columbia Chamber of Commerce listing. Social media handles (Twitter, Facebook, Instagram, YouTube all @RepMarkAlford) linked from alford.house.gov footer. YouTube channel at youtube.com/@RepMarkAlford confirmed active. Web form at alford.house.gov/forms/writeyourrep/ linked from contact page. No district office fax numbers published on official site."
   }
 }

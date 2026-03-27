@@ -8,57 +8,57 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2823",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://allen.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-3377",
+      "status": "verified",
+      "source": "https://allen.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://allen.house.gov/contact",
+      "status": "verified",
+      "source": "https://allen.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepRickAllen",
+      "status": "verified",
+      "source": "https://allen.house.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/CongressmanRickAllen",
+      "status": "verified",
+      "source": "https://allen.house.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://instagram.com/Rep_RickAllen",
+      "status": "verified",
+      "source": "https://allen.house.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://youtube.com/channel/UCZPoYXHFDAV17BGLMzGAmpg",
+      "status": "verified",
+      "source": "https://allen.house.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
       "value": "",
@@ -70,34 +70,112 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Augusta",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "2743 Perimeter Parkway, Building 200, Suite 105, Augusta, GA 30909",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(706) 228-1980",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(706) 228-1954",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Dublin",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 S. Church Street, Dublin, GA 31021",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(478) 291-6324",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(706) 228-1954",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Statesboro",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "50 E. Main Street, Statesboro, GA 30458",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(912) 243-9452",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(912) 243-9453",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Vidalia",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "107 Old Airport Rd, Suite A, Vidalia, GA 30474",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(912) 243-9452",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(912) 243-9453",
+        "status": "verified",
+        "source": "https://allen.house.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.741583+00:00",
-    "last_updated": "2026-03-26T21:30:14.741616+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T00:00:00.000000+00:00",
+    "verification_notes": "All data verified from official allen.house.gov/contact and allen.house.gov pages. DC phone (202) 225-2823 confirmed, matching prior unverified value. DC fax (202) 225-3377 confirmed. Four district offices: Augusta, Dublin, Statesboro, and Vidalia (satellite). Social media links (Facebook, X, Instagram, YouTube) extracted from official homepage footer. Web contact form is zip-code-gated at /contact, submitting to /forms/writeyourrep/. No Bluesky or Truth Social accounts found on official site. Vidalia zip is 30474 per official site (unitedstates/congress-legislators YAML had 30475 which is incorrect)."
   }
 }

@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4876",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://aderholt.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-5587",
+      "status": "verified",
+      "source": "https://aderholt.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://aderholt.house.gov/contact-robert",
+      "status": "verified",
+      "source": "https://aderholt.house.gov/contact-robert",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/Robert_Aderholt",
+      "status": "verified",
+      "source": "https://aderholt.house.gov/media/social-media",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RobertAderholt/",
+      "status": "verified",
+      "source": "https://aderholt.house.gov/media/social-media",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/robert_aderholt/",
+      "status": "verified",
+      "source": "https://aderholt.house.gov/media/social-media",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/user/RobertAderholt",
+      "status": "verified",
+      "source": "https://aderholt.house.gov/media/social-media",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -70,34 +70,112 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Tuscumbia",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/shoals-district-office",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1011 George Wallace Blvd, Suite 146, Tuscumbia, AL 35674",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/shoals-district-office",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(256) 381-3450",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/shoals-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(256) 381-7659",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/shoals-district-office",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Jasper",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/jasper-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1710 Alabama Avenue, 247 Carl Elliott Building, Jasper, AL 35501",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/jasper-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(205) 221-2310",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/jasper-district-office",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://aderholt.house.gov/contact/offices/jasper-district-office",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Cullman",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/cullman-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "205 4th Ave NE, Suite 104, Cullman, AL 35055",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/cullman-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(256) 734-6043",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/cullman-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://aderholt.house.gov/contact/offices/cullman-district-office",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Albertville",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/marshall-county-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "209 Sand Mountain Drive East, STE 400, Albertville, AL 35950",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/marshall-county-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(256) 546-0201",
+        "status": "verified",
+        "source": "https://aderholt.house.gov/contact/offices/marshall-county-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://aderholt.house.gov/contact/offices/marshall-county-district-office",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:13.596207+00:00",
-    "last_updated": "2026-03-26T21:30:13.596233+00:00",
+    "last_updated": "2026-03-27T08:02:26.656943+00:00",
     "verification_notes": ""
   }
 }

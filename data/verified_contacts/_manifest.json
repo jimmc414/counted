@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T07:32:04.949061+00:00",
+  "last_updated": "2026-03-27T08:02:26.949917+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 0,
+      "verified_count": 11,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -745,8 +745,8 @@
           "name": "Robert B. Aderholt",
           "file": "house/A000055.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001220": {
           "name": "Dale W. Strong",
@@ -1088,8 +1088,8 @@
           "name": "Pete Aguilar",
           "file": "house/A000371.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "G000585": {
           "name": "Jimmy Gomez",
@@ -1536,8 +1536,8 @@
           "name": "Sanford D. Bishop Jr.",
           "file": "house/B000490.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "J000311": {
           "name": "Brian Jack",
@@ -1998,8 +1998,8 @@
           "name": "Jake Auchincloss",
           "file": "house/A000148.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001101": {
           "name": "Katherine M. Clark",
@@ -2278,8 +2278,8 @@
           "name": "Mark Alford",
           "file": "house/A000379.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001061": {
           "name": "Emanuel Cleaver",
@@ -2439,8 +2439,8 @@
           "name": "Alma S. Adams",
           "file": "house/A000370.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "K000405": {
           "name": "Brad Knott",
@@ -2607,8 +2607,8 @@
           "name": "Mark E. Amodei",
           "file": "house/A000369.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "L000590": {
           "name": "Susie Lee",
@@ -2943,8 +2943,8 @@
           "name": "Stephanie I. Bice",
           "file": "house/B000740.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "B001278": {
           "name": "Suzanne Bonamici",
@@ -2957,8 +2957,8 @@
           "name": "Cliff Bentz",
           "file": "house/B000668.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "D000635": {
           "name": "Maxine Dexter",
@@ -3118,8 +3118,8 @@
           "name": "Gabe Amo",
           "file": "house/A000380.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001223": {
           "name": "Seth Magaziner",
@@ -3377,8 +3377,8 @@
           "name": "Jodey C. Arrington",
           "file": "house/A000375.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "C001091": {
           "name": "Joaquin Castro",

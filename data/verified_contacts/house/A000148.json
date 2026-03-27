@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-5931",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://auchincloss.house.gov/contact/office-locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-0182",
+      "status": "verified",
+      "source": "https://auchincloss.house.gov/contact/office-locations",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://auchincloss.house.gov/contact/emailme",
+      "status": "verified",
+      "source": "https://auchincloss.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepAuchincloss",
+      "status": "verified",
+      "source": "https://auchincloss.house.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepAuchincloss",
+      "status": "verified",
+      "source": "https://auchincloss.house.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/RepAuchincloss/",
+      "status": "verified",
+      "source": "https://auchincloss.house.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/RepAuchincloss",
+      "status": "verified",
+      "source": "https://auchincloss.house.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -70,34 +70,86 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Newton",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "29 Crafts Street, Suite 375, Newton, MA 02458",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(617) 332-3333",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Attleboro",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "8 N. Main Street, Suite 200, Attleboro, MA 02703",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(508) 431-1110",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Fall River",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1 Government Center, Office 237B, Fall River, MA 02722",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.484410+00:00",
-    "last_updated": "2026-03-26T21:30:15.484431+00:00",
+    "last_updated": "2026-03-27T08:02:26.688550+00:00",
     "verification_notes": ""
   }
 }

@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-6155",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://amodei.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-5679",
+      "status": "verified",
+      "source": "https://amodei.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://amodei.house.gov/address_authentication?form=/email-me",
+      "status": "verified",
+      "source": "https://amodei.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://twitter.com/MarkAmodeiNV2",
+      "status": "verified",
+      "source": "https://amodei.house.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/MarkAmodeiNV2",
+      "status": "verified",
+      "source": "https://amodei.house.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/markamodeinv2/",
+      "status": "verified",
+      "source": "https://amodei.house.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,9 +50,9 @@
     },
     "youtube": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,69 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://amodeifornevada.com/",
+      "status": "verified",
+      "source": "https://amodeifornevada.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Reno",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "5310 Kietzke Lane, Suite 103, Reno, NV 89511",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(775) 686-5760",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(775) 686-5711",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Elko",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "905 Railroad Street, Suite 104 D, Elko, NV 89801",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(775) 777-7705",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.478263+00:00",
-    "last_updated": "2026-03-26T21:30:16.478291+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T08:02:26.625986+00:00",
+    "verification_notes": "Verified via amodei.house.gov official pages (offices, contact, reno-district-office, elko-contact, washington-dc-office). Site returned 403 on direct fetch but search snippets confirmed data from official URLs. DC phone confirmed at (202) 225-6155. Reno office moved to NevDex Office Park at 5310 Kietzke Lane. No official YouTube channel found. No Elko fax found on official site."
   }
 }
