@@ -1,17 +1,17 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T07:17:04.706414+00:00",
+  "last_updated": "2026-03-27T07:32:04.949061+00:00",
   "chambers": {
     "senate": {
       "total": 100,
-      "verified_count": 79,
+      "verified_count": 100,
       "members": {
         "T000278": {
           "name": "Tommy Tuberville",
           "file": "senate/T000278.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "B001320": {
           "name": "Katie Britt",
@@ -66,8 +66,8 @@
           "name": "Adam Schiff",
           "file": "senate/S001150.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "P000145": {
           "name": "Alex Padilla",
@@ -94,8 +94,8 @@
           "name": "Chris Murphy",
           "file": "senate/M001169.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B001277": {
           "name": "Richard Blumenthal",
@@ -129,8 +129,8 @@
           "name": "Ashley Moody",
           "file": "senate/M001224.json",
           "fields_with_data": 3,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "O000174": {
           "name": "Jon Ossoff",
@@ -143,8 +143,8 @@
           "name": "Raphael Warnock",
           "file": "senate/W000790.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "H001042": {
           "name": "Mazie Hirono",
@@ -199,8 +199,8 @@
           "name": "Todd Young",
           "file": "senate/Y000064.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "E000295": {
           "name": "Joni Ernst",
@@ -290,8 +290,8 @@
           "name": "Elizabeth Warren",
           "file": "senate/W000817.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M000133": {
           "name": "Ed Markey",
@@ -304,8 +304,8 @@
           "name": "Elissa Slotkin",
           "file": "senate/S001208.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "P000595": {
           "name": "Gary Peters",
@@ -353,15 +353,15 @@
           "name": "Eric Schmitt",
           "file": "senate/S001227.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "S001230": {
           "name": "Tim Sheehy",
           "file": "senate/S001230.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "D000618": {
           "name": "Steve Daines",
@@ -388,8 +388,8 @@
           "name": "Jacky Rosen",
           "file": "senate/R000608.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "C001113": {
           "name": "Catherine Cortez Masto",
@@ -416,8 +416,8 @@
           "name": "Andy Kim",
           "file": "senate/K000394.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "B001288": {
           "name": "Cory Booker",
@@ -486,8 +486,8 @@
           "name": "Bernie Moreno",
           "file": "senate/M001225.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 4,
+          "status": "verified"
         },
         "H001093": {
           "name": "Jon Husted",
@@ -500,15 +500,15 @@
           "name": "Markwayne Mullin",
           "file": "senate/M001190.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "L000575": {
           "name": "James Lankford",
           "file": "senate/L000575.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "M001176": {
           "name": "Jeff Merkley",
@@ -521,15 +521,15 @@
           "name": "Ron Wyden",
           "file": "senate/W000779.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001226": {
           "name": "Dave McCormick",
           "file": "senate/M001226.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "F000479": {
           "name": "John Fetterman",
@@ -563,8 +563,8 @@
           "name": "Tim Scott",
           "file": "senate/S001184.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "R000605": {
           "name": "Mike Rounds",
@@ -577,8 +577,8 @@
           "name": "John Thune",
           "file": "senate/T000250.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B001243": {
           "name": "Marsha Blackburn",
@@ -619,8 +619,8 @@
           "name": "Mike Lee",
           "file": "senate/L000577.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "S000033": {
           "name": "Bernie Sanders",
@@ -633,8 +633,8 @@
           "name": "Peter Welch",
           "file": "senate/W000800.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "K000384": {
           "name": "Tim Kaine",

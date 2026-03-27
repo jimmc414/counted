@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5754",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.lankford.senate.gov/contact + senate.gov/general/resources/pdf/senators_phone_list.pdf (SH-731",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-1015",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "Third-party directories (vocusgr",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.lankford.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.lankford.senate.gov/contact/email/",
+      "status": "verified",
+      "source": "https://www.lankford.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorLankford",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.lankford.senate.gov (footer link to https://twitter.com/SenatorLankford)",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorLankford",
+      "status": "verified",
+      "source": "https://www.lankford.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@senatorlankford",
+      "status": "verified",
+      "source": "https://www.lankford.senate.gov (footer link to https://instagram.com/senatorlankford/)",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,16 +50,16 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCz8T6sK5fEycyWmVz6Vpe5Q",
+      "status": "verified",
+      "source": "https://www.lankford.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@SenatorLankford",
+      "status": "verified",
+      "source": "https://www.lankford.senate.gov (footer link to https://truthsocial.com/@SenatorLankford)",
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
       "value": "",
@@ -72,33 +72,59 @@
     {
       "city": {
         "value": "Oklahoma City",
-        "status": "unverified",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "1015 N. Broadway Ave., Suite 310, Oklahoma City, OK 73102",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(405) 231-4941",
-        "status": "unverified",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Tulsa",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "401 South Boston Avenue, Suite 2150, Tulsa, OK 74103",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(918) 581-7651",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.520655+00:00",
-    "last_updated": "2026-03-26T21:27:05.520670+00:00",
+    "last_updated": "2026-03-27T07:30:37.766171+00:00",
     "verification_notes": ""
   }
 }

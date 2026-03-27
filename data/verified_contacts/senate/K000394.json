@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3224",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.andykim.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -21,15 +21,15 @@
     },
     "web_form_url": {
       "value": "https://www.andykim.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.andykim.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenAndyKimNJ",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.andykim.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
       "value": "",
@@ -72,33 +72,33 @@
     {
       "city": {
         "value": "Newark",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.andykim.senate.gov",
+        "verified_date": "2026-03-27"
       },
       "address": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(973) 639-8700",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.andykim.senate.gov",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.386332+00:00",
-    "last_updated": "2026-03-26T21:27:05.386344+00:00",
+    "last_updated": "2026-03-27T07:22:26.531987+00:00",
     "verification_notes": ""
   }
 }

@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-4124",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.tuberville.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-0398",
@@ -20,28 +20,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.tuberville.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.tuberville.senate.gov/contact/contact-form/",
+      "status": "verified",
+      "source": "https://www.tuberville.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@SenTuberville",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@sentuberville",
+      "status": "verified",
+      "source": "https://www.tuberville.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorTuberville",
+      "status": "verified",
+      "source": "https://www.tuberville.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "sentuberville",
+      "status": "verified",
+      "source": "https://www.tuberville.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenTuberville",
+      "status": "verified",
+      "source": "https://www.tuberville.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,138 @@
   "state_offices": [
     {
       "city": {
-        "value": "Montgomery",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Mobile",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "BB&T Centre, 41 West I-65 Service Road N., Suite 2300-A, Mobile, AL 36608",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(334) 523-7424",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(251) 308-7233",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Huntsville",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2101 Clinton Avenue West, Suite 300, Huntsville, AL 35805",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(256) 692-7500",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Hoover",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "3000 Riverchase Galleria, Suite 915, Birmingham, AL 35244",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(205) 760-7307",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Montgomery",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Frank M Johnson Jr. Annex, One Church Street, Suite 500-B, Montgomery, AL 36104",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(334) 523-7424",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Dothan",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 West Troy Street, Dothan, AL 36303",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(334) 547-7441",
+        "status": "verified",
+        "source": "https://www.tuberville.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.765797+00:00",
-    "last_updated": "2026-03-26T21:27:04.765802+00:00",
+    "last_updated": "2026-03-27T07:32:04.779426+00:00",
     "verification_notes": ""
   }
 }

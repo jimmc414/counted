@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2315",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.moreno.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -20,16 +20,16 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.moreno.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.moreno.senate.gov/share-your-opinion/",
+      "status": "verified",
+      "source": "https://www.moreno.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@SenBernieMoreno",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@berniemoreno",
+      "status": "verified",
+      "source": "https://www.moreno.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
       "value": "",
@@ -38,10 +38,10 @@
       "verified_date": ""
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@Berniemorenoforohio",
+      "status": "verified",
+      "source": "https://www.moreno.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -71,34 +71,86 @@
   "state_offices": [
     {
       "city": {
-        "value": "Cleveland",
-        "status": "unverified",
+        "value": "Columbus",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Bricker Federal Building, 200 North High Street, Room 618, Columbus, OH 43215",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(216) 522-7095",
-        "status": "unverified",
+        "value": "(614) 469-2083",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Cleveland",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Carl B. Stokes U.S. Courthouse, 801 W Superior Ave., Suite 1400, Cleveland, OH 44113",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(216) 522-7272",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Cincinnati",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "John W. Peck Federal Building, 550 Main Street, Suite 10-273, Cincinnati, OH 45202",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(513) 684-1021",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.485152+00:00",
-    "last_updated": "2026-03-26T21:27:05.485168+00:00",
+    "last_updated": "2026-03-27T07:30:37.647272+00:00",
     "verification_notes": ""
   }
 }

@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-4721",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "mullin.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 228-1015",
+      "status": "verified",
+      "source": "ciclt.net (Senate 228 prefix; note: 202-225-3038 also cited by some aggregators but uses House prefix",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.mullin.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.mullin.senate.gov/forms/contact-form/",
+      "status": "verified",
+      "source": "mullin.senate.gov (indexed as 'Contact Form' page; /contact/ is the contact landing page)",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenMullin",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "x.com/SenMullin",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenMullin/",
+      "status": "verified",
+      "source": "facebook.com/SenMullin",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@senmullin",
+      "status": "verified",
+      "source": "instagram.com/senmullin",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCLQlm-cbGbJj9baZC6oFsag",
+      "status": "verified",
+      "source": "mullin.senate.gov linked YouTube channel",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,59 @@
     {
       "city": {
         "value": "Tulsa",
-        "status": "unverified",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "15 W. 6th St., Suite 2100, Tulsa, OK 74119",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(918) 748-5111",
-        "status": "unverified",
+        "value": "(918) 921-8520",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Oklahoma City",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "621 N. Robinson Ave., Suite 401, Oklahoma City, OK 73102",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(405) 246-0025",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.510058+00:00",
-    "last_updated": "2026-03-26T21:27:05.510074+00:00",
+    "last_updated": "2026-03-27T07:30:37.572159+00:00",
     "verification_notes": ""
   }
 }

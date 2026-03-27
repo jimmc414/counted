@@ -8,40 +8,40 @@
   "chamber": "senate",
   "contacts": {
     "dc_phone": {
-      "value": "(202) 224-6221",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 224-4822",
+      "status": "verified",
+      "source": "https://www.slotkin.senate.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 228-0325",
+      "status": "verified",
+      "source": "https://www.woodhavenmi.org/departments/city_clerk_s_office/how_to_contact_your_legislators.php",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.slotkin.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.slotkin.senate.gov/contact/contact-senator-slotkin/",
+      "status": "verified",
+      "source": "https://www.slotkin.senate.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@SenSlotkin",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@SenatorSlotkin",
+      "status": "verified",
+      "source": "https://x.com/SenatorSlotkin",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenElissaSlotkin",
+      "status": "verified",
+      "source": "https://www.facebook.com/SenElissaSlotkin",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@senslotkin",
+      "status": "verified",
+      "source": "https://www.instagram.com/senslotkin/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -71,34 +71,138 @@
   "state_offices": [
     {
       "city": {
-        "value": "Lansing",
-        "status": "unverified",
+        "value": "Detroit",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "719 Griswold St., Suite 700, Detroit, MI 48226",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(517) 373-1900",
-        "status": "unverified",
+        "value": "(313) 961-4330",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Flint",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "432 N. Saginaw St., Suite 301, Flint, MI 48502",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(810) 720-4172",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Lansing",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "315 W. Allegan St., Suite 207, Lansing, MI 48933",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(517) 203-1760",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Traverse City",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "3335 S. Airport Rd. West, Suite 6B, Traverse City, MI 49684",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(231) 929-1031",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Grand Rapids",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(616) 975-0052",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.214139+00:00",
-    "last_updated": "2026-03-26T21:27:05.214174+00:00",
+    "last_updated": "2026-03-27T07:30:37.348594+00:00",
     "verification_notes": ""
   }
 }

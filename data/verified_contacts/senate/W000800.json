@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-4242",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.welch.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-0776",
@@ -20,16 +20,16 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.welch.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.welch.senate.gov/contact/",
+      "status": "verified",
+      "source": "https://www.welch.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenPeterWelch",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.welch.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
       "value": "",
@@ -72,33 +72,33 @@
     {
       "city": {
         "value": "Burlington",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.welch.senate.gov",
+        "verified_date": "2026-03-27"
       },
       "address": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(802) 652-2450",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.welch.senate.gov",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.739821+00:00",
-    "last_updated": "2026-03-26T21:27:05.739849+00:00",
+    "last_updated": "2026-03-27T07:32:04.866667+00:00",
     "verification_notes": ""
   }
 }
