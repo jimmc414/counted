@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T09:40:07.091999+00:00",
+  "last_updated": "2026-03-27T09:40:34.672411+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -2355,7 +2355,7 @@
           "name": "Troy Downing",
           "file": "house/D000634.json",
           "fields_with_data": 8,
-          "fields_verified": 10,
+          "fields_verified": 7,
           "status": "verified"
         },
         "D000230": {
