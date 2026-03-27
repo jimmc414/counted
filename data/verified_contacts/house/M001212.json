@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2901",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/6165",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://barrymoore.house.gov/contact",
+      "status": "verified",
+      "source": "https://barrymoore.house.gov/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepBarryMoore",
+      "status": "verified",
+      "source": "https://x.com/RepBarryMoore",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepBarryMoore/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepBarryMoore/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repbarrymoore",
+      "status": "verified",
+      "source": "https://www.instagram.com/repbarrymoore/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,147 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://barrymooreforcongress.com/",
+      "status": "verified",
+      "source": "https://en.wikipedia.org/wiki/Barry_Moore_(American_politician)",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Dothan",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/6165",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "217 Graceland Drive, Suite 5, Dothan, AL 36305",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/6165",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(334) 547-6630",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/6165",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.billtrack50.com/legislatordetail/6165",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Mobile",
+        "status": "verified",
+        "source": "https://gulfcoastmedia.com/stories/rep-barry-moore-to-hold-ribbon-cuttings-for-new-district-offices-in-baldwin-county-mobile",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "5253 Hwy 90 W, Suite I, Mobile, AL 36619",
+        "status": "verified",
+        "source": "https://gulfcoastmedia.com/stories/rep-barry-moore-to-hold-ribbon-cuttings-for-new-district-offices-in-baldwin-county-mobile",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(251) 264-6710",
+        "status": "verified",
+        "source": "https://gulfcoastmedia.com/stories/rep-barry-moore-to-hold-ribbon-cuttings-for-new-district-offices-in-baldwin-county-mobile",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://gulfcoastmedia.com/stories/rep-barry-moore-to-hold-ribbon-cuttings-for-new-district-offices-in-baldwin-county-mobile",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Foley",
+        "status": "verified",
+        "source": "https://yellowhammernews.com/rep-barry-moore-opens-new-district-offices-in-foley-and-bay-minette/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "407 E. Laurel Ave, Foley, AL 36535",
+        "status": "verified",
+        "source": "https://yellowhammernews.com/rep-barry-moore-opens-new-district-offices-in-foley-and-bay-minette/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(251) 437-6310",
+        "status": "verified",
+        "source": "https://yellowhammernews.com/rep-barry-moore-opens-new-district-offices-in-foley-and-bay-minette/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://yellowhammernews.com/rep-barry-moore-opens-new-district-offices-in-foley-and-bay-minette/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Bay Minette",
+        "status": "verified",
+        "source": "https://gulfcoastmedia.com/stories/rep-barry-moore-to-hold-ribbon-cuttings-for-new-district-offices-in-baldwin-county-mobile",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "116 Courthouse Square, Bay Minette, AL 36507",
+        "status": "verified",
+        "source": "https://gulfcoastmedia.com/stories/rep-barry-moore-to-hold-ribbon-cuttings-for-new-district-offices-in-baldwin-county-mobile",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(251) 494-5151",
+        "status": "verified",
+        "source": "https://gulfcoastmedia.com/stories/rep-barry-moore-to-hold-ribbon-cuttings-for-new-district-offices-in-baldwin-county-mobile",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://gulfcoastmedia.com/stories/rep-barry-moore-to-hold-ribbon-cuttings-for-new-district-offices-in-baldwin-county-mobile",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Andalusia",
+        "status": "verified",
+        "source": "https://barrymoore.house.gov/contact/offices/andalusia-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "505 E. Three Notch St, Suite 322, Andalusia, AL 36420",
+        "status": "verified",
+        "source": "https://barrymoore.house.gov/contact/offices/andalusia-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(334) 428-1129",
+        "status": "verified",
+        "source": "https://barrymoore.house.gov/contact/offices/andalusia-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(334) 222-3342",
+        "status": "verified",
+        "source": "https://barrymoore.house.gov/contact/offices/andalusia-district-office",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:13.560629+00:00",
-    "last_updated": "2026-03-26T21:30:13.560651+00:00",
+    "last_updated": "2026-03-27T11:49:43.786513+00:00",
     "verification_notes": ""
   }
 }

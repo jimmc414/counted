@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T11:48:19.295501+00:00",
+  "last_updated": "2026-03-27T11:49:43.910749+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 261,
+      "verified_count": 264,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -724,8 +724,8 @@
           "name": "Barry Moore",
           "file": "house/M001212.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "F000481": {
           "name": "Shomari Figures",
@@ -1914,8 +1914,8 @@
           "name": "Thomas Massie",
           "file": "house/M001184.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "R000395": {
           "name": "Harold Rogers",
@@ -3048,8 +3048,8 @@
           "name": "Daniel Meuser",
           "file": "house/M001204.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "P000605": {
           "name": "Scott Perry",
