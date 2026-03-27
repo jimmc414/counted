@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T09:00:17.689152+00:00",
+  "last_updated": "2026-03-27T09:08:21.288258+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 55,
+      "verified_count": 67,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -773,8 +773,8 @@
           "name": "Eric A. \"Rick\" Crawford",
           "file": "house/C001087.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "H001072": {
           "name": "J. French Hill",
@@ -1025,8 +1025,8 @@
           "name": "Salud O. Carbajal",
           "file": "house/C001112.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "R000599": {
           "name": "Raul Ruiz",
@@ -1529,8 +1529,8 @@
           "name": "Earl L. \"Buddy\" Carter",
           "file": "house/C001103.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "B000490": {
           "name": "Sanford D. Bishop Jr.",
@@ -1585,8 +1585,8 @@
           "name": "Andrew S. Clyde",
           "file": "house/C001116.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001129": {
           "name": "Mike Collins",
@@ -1718,8 +1718,8 @@
           "name": "Sean Casten",
           "file": "house/C001117.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "D000096": {
           "name": "Danny K. Davis",
@@ -1844,8 +1844,8 @@
           "name": "Andr\u00e9 Carson",
           "file": "house/C001072.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "M001233": {
           "name": "Mark B. Messmer",
@@ -1893,8 +1893,8 @@
           "name": "James Comer",
           "file": "house/C001108.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "G000558": {
           "name": "Brett Guthrie",
@@ -2005,8 +2005,8 @@
           "name": "Katherine M. Clark",
           "file": "house/C001101.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "M001196": {
           "name": "Seth Moulton",
@@ -2684,8 +2684,8 @@
           "name": "Yvette D. Clarke",
           "file": "house/C001067.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "G000599": {
           "name": "Daniel S. Goldman",
@@ -2936,8 +2936,8 @@
           "name": "Tom Cole",
           "file": "house/C001053.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "B000740": {
           "name": "Stephanie I. Bice",
@@ -3384,8 +3384,8 @@
           "name": "Joaquin Castro",
           "file": "house/C001091.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "R000614": {
           "name": "Chip Roy",
@@ -3433,8 +3433,8 @@
           "name": "Michael Cloud",
           "file": "house/C001115.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "C001063": {
           "name": "Henry Cuellar",

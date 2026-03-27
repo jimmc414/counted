@@ -8,45 +8,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3236",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.txdirectory.com/online/person/?id=44705&office=16875",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-1915",
+      "status": "verified",
+      "source": "https://www.txdirectory.com/online/person/?id=44705&office=16875",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://castro.house.gov/contact",
+      "status": "verified",
+      "source": "https://castro.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/JoaquinCastrotx",
+      "status": "verified",
+      "source": "https://x.com/JoaquinCastrotx",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/JoaquinCastroTX",
+      "status": "verified",
+      "source": "https://www.facebook.com/JoaquinCastroTX/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/joaquincastrotx/",
+      "status": "verified",
+      "source": "https://www.instagram.com/joaquincastrotx/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/joaquincastrotx.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/did:plc:4iclppomf3wagequyumxle56",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://castroforcongress.com",
+      "status": "verified",
+      "source": "https://directory.texastribune.org/joaquin-castro/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "San Antonio",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "727 E. Cesar E. Chavez Blvd., Suite B-128, San Antonio, TX 78206",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(210) 348-8216",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(210) 979-0737",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.751367+00:00",
-    "last_updated": "2026-03-26T21:30:17.751389+00:00",
+    "last_updated": "2026-03-27T09:08:20.855074+00:00",
     "verification_notes": ""
   }
 }
