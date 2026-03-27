@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-6365",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://mcclellan.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 226-1170",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/28793",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://mcclellan.house.gov/contact",
+      "status": "verified",
+      "source": "https://mcclellan.house.gov/contact-0",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepMcClellan",
+      "status": "verified",
+      "source": "https://x.com/repmcclellan",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepMcClellan",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepMcClellan/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repmcclellan",
+      "status": "verified",
+      "source": "https://www.instagram.com/repmcclellan/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Richmond",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "11 S. 12th Street, Suite 401, Richmond, VA 23219",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(804) 486-1840",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:18.037618+00:00",
-    "last_updated": "2026-03-26T21:30:18.037641+00:00",
+    "last_updated": "2026-03-27T11:57:24.686854+00:00",
     "verification_notes": ""
   }
 }

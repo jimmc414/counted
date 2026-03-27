@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-5401",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/27944",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://mcgarvey.house.gov/contact/email-me",
+      "status": "verified",
+      "source": "https://mcgarvey.house.gov/contact/email-me",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepMcGarvey",
+      "status": "verified",
+      "source": "https://x.com/repmcgarvey",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepMcGarvey",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepMcGarvey/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repmcgarvey",
+      "status": "verified",
+      "source": "https://www.instagram.com/repmcgarvey/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.morganmcgarvey.com/",
+      "status": "verified",
+      "source": "https://www.morganmcgarvey.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Louisville",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Romano Mazzoli Federal Building, 600 Martin Luther King Jr. Place, Suite 216, Louisville, KY 40202",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(502) 582-5129",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(502) 582-5897",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.244524+00:00",
-    "last_updated": "2026-03-26T21:30:15.244555+00:00",
+    "last_updated": "2026-03-27T11:57:25.237385+00:00",
     "verification_notes": ""
   }
 }

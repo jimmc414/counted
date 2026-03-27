@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3876",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/27942",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://maxmiller.house.gov/contact",
+      "status": "verified",
+      "source": "https://maxmiller.house.gov/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepMaxMiller",
+      "status": "verified",
+      "source": "https://x.com/RepMaxMiller",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "CongressmanMaxMiller",
+      "status": "verified",
+      "source": "https://www.facebook.com/CongressmanMaxMiller/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repmaxmiller",
+      "status": "verified",
+      "source": "https://www.instagram.com/repmaxmiller/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,69 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.votemaxmiller.com/",
+      "status": "verified",
+      "source": "https://en.wikipedia.org/wiki/Max_Miller_(politician)",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Parma",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "7335 Ridge Road, Parma, OH 44129",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(440) 692-6120",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Medina",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "72 Public Square, Medina, OH 44256",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(330) 661-6654",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.860002+00:00",
-    "last_updated": "2026-03-26T21:30:16.860016+00:00",
+    "last_updated": "2026-03-27T11:57:25.093016+00:00",
     "verification_notes": ""
   }
 }

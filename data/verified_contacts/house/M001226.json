@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-7919",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/27939",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://menendez.house.gov/contact",
+      "status": "verified",
+      "source": "https://menendez.house.gov/address_authentication?form=/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepMenendez",
+      "status": "verified",
+      "source": "https://x.com/RepMenendez",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repmenendez",
+      "status": "verified",
+      "source": "https://www.facebook.com/repmenendez/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "robmenendez4nj",
+      "status": "verified",
+      "source": "https://www.instagram.com/robmenendez4nj/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,31 +61,31 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.robmenendez.com/",
+      "status": "verified",
+      "source": "https://www.robmenendez.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Jersey City",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/27939",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "257 Cornelison Ave., Suite 4408, Jersey City, NJ 07302",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/27939",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(201) 309-0301",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/27939",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
@@ -97,7 +97,7 @@
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.390362+00:00",
-    "last_updated": "2026-03-26T21:30:16.390395+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T12:00:00.000000+00:00",
+    "verification_notes": "Official site menendez.house.gov returned 403. DC phone confirmed across multiple sources. DC office at 2453 Rayburn HOB (moved from 1007 Longworth for 119th Congress per Facebook post). District office and social media verified via BillTrack50 and direct platform URLs."
   }
 }

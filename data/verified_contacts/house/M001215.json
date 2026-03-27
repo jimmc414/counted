@@ -8,21 +8,21 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-6576",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://millermeeks.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 226-0757",
+      "status": "verified",
+      "source": "https://search.ne211.org/search/540edd1b-5781-501f-8fbf-e683e5b0aa9c",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://millermeeks.house.gov/address_authentication?form=/contact",
+      "status": "verified",
+      "source": "https://millermeeks.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "",
@@ -70,34 +70,60 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Davenport",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "201 West 2nd Street, Suite 705, Davenport, IA 52801",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(563) 232-0930",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(563) 323-5231",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Indianola",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "126 North Howard Street, Indianola, IA 50125",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(515) 808-6040",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.796664+00:00",
-    "last_updated": "2026-03-26T21:30:14.796677+00:00",
+    "last_updated": "2026-03-27T11:57:25.583206+00:00",
     "verification_notes": ""
   }
 }

@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T11:49:43.910749+00:00",
+  "last_updated": "2026-03-27T11:57:25.619899+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 264,
+      "verified_count": 277,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -1375,8 +1375,8 @@
           "name": "Cory Mills",
           "file": "house/M001216.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "H001099": {
           "name": "Mike Haridopolos",
@@ -1487,8 +1487,8 @@
           "name": "Jared Moskowitz",
           "file": "house/M001217.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "W000808": {
           "name": "Frederica S. Wilson",
@@ -1571,8 +1571,8 @@
           "name": "Richard McCormick",
           "file": "house/M001218.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "S001189": {
           "name": "Austin Scott",
@@ -1620,8 +1620,8 @@
           "name": "James C. Moylan",
           "file": "house/M001219.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "C001055": {
           "name": "Ed Case",
@@ -1641,8 +1641,8 @@
           "name": "Mariannette Miller-Meeks",
           "file": "house/M001215.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "H001091": {
           "name": "Ashley Hinson",
@@ -1802,8 +1802,8 @@
           "name": "Frank J. Mrvan",
           "file": "house/M001214.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "Y000067": {
           "name": "Rudy Yakym III",
@@ -1907,8 +1907,8 @@
           "name": "Morgan McGarvey",
           "file": "house/M001220.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001184": {
           "name": "Thomas Massie",
@@ -2550,9 +2550,9 @@
         "M001226": {
           "name": "Robert Menendez",
           "file": "house/M001226.json",
-          "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_with_data": 8,
+          "fields_verified": 8,
+          "status": "verified"
         },
         "P000621": {
           "name": "Nellie Pou",
@@ -2796,8 +2796,8 @@
           "name": "Joseph D. Morelle",
           "file": "house/M001206.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "K000402": {
           "name": "Timothy M. Kennedy",
@@ -2852,8 +2852,8 @@
           "name": "Max L. Miller",
           "file": "house/M001222.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "D000626": {
           "name": "Warren Davidson",
@@ -3125,8 +3125,8 @@
           "name": "Seth Magaziner",
           "file": "house/M001223.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "M000194": {
           "name": "Nancy Mace",
@@ -3517,8 +3517,8 @@
           "name": "Blake D. Moore",
           "file": "house/M001213.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "M001228": {
           "name": "Celeste Maloy",
@@ -3566,8 +3566,8 @@
           "name": "Jennifer L. McClellan",
           "file": "house/M001227.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001239": {
           "name": "John J. McGuire III",

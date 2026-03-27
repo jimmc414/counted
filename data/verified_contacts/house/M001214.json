@@ -8,51 +8,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2461",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/25643",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-2493",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/25643",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://mrvan.house.gov/contact",
+      "status": "verified",
+      "source": "https://mrvan.house.gov/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepMrvan",
+      "status": "verified",
+      "source": "https://x.com/RepMrvan",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepMrvan/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepMrvan/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repmrvan",
+      "status": "verified",
+      "source": "https://www.instagram.com/repmrvan/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repmrvan.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/repmrvan.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepMrvan",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Frank_Mrvan_(Indiana_congressional_member)",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://mrvanforcongress.com/",
+      "status": "verified",
+      "source": "https://mrvanforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Merrillville",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "8001 Broadway, Suite 102, Merrillville, IN 46410",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(219) 795-1844",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(771) 200-5945",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.035269+00:00",
-    "last_updated": "2026-03-26T21:30:15.035295+00:00",
+    "last_updated": "2026-03-27T11:57:24.745430+00:00",
     "verification_notes": ""
   }
 }

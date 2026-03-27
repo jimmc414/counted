@@ -8,21 +8,21 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4272",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://app7.vocusgr.com/webpublish/Controller.aspx?SiteName=AIADA&Definition=ViewLegislator&LegislatorID=171593",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-4696",
+      "status": "verified",
+      "source": "https://app7.vocusgr.com/webpublish/Controller.aspx?SiteName=AIADA&Definition=ViewLegislator&LegislatorID=171593",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://mccormick.house.gov/contact",
+      "status": "verified",
+      "source": "https://mccormick.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "",
@@ -70,34 +70,60 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Cumming",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "115 W. Courthouse Square, Cumming, GA 30040",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(770) 232-3005",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Alpharetta",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "6230 Shiloh Road, Suite 230, Alpharetta, GA 30005",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(770) 232-3005",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.692193+00:00",
-    "last_updated": "2026-03-26T21:30:14.692212+00:00",
+    "last_updated": "2026-03-27T11:57:25.519376+00:00",
     "verification_notes": ""
   }
 }

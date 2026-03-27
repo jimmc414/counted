@@ -8,21 +8,21 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2735",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://opengov.sos.ri.gov/GOVDirectoryPublic/ViewGOVDirectoryDetails?RelationID=6191&EntityID=3619",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-5976",
+      "status": "verified",
+      "source": "https://opengov.sos.ri.gov/GOVDirectoryPublic/ViewGOVDirectoryDetails?RelationID=6191&EntityID=3619",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://magaziner.house.gov/address_authentication?form=/contact",
+      "status": "verified",
+      "source": "https://opengov.sos.ri.gov/GOVDirectoryPublic/ViewGOVDirectoryDetails?RelationID=6191&EntityID=3619",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Warwick",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/27941",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "935 Jefferson Blvd., Suite 3003, Warwick, RI 02886",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/27941",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(401) 244-1201",
+        "status": "verified",
+        "source": "https://www.billtrack50.com/legislatordetail/27941",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.billtrack50.com/legislatordetail/27941",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.280334+00:00",
-    "last_updated": "2026-03-26T21:30:17.280353+00:00",
+    "last_updated": "2026-03-27T11:57:25.304192+00:00",
     "verification_notes": ""
   }
 }

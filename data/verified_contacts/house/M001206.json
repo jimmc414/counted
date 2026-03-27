@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3615",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/1244",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-7822",
+      "status": "verified",
+      "source": "https://morelle.house.gov/contact/offices",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://morelleforms.house.gov/contact/?form=/contact/email-me",
+      "status": "verified",
+      "source": "https://morelleforms.house.gov/contact/?form=/contact/email-me",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepJoeMorelle",
+      "status": "verified",
+      "source": "https://x.com/RepJoeMorelle",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepJoeMorelle",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepJoeMorelle/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repjoemorelle",
+      "status": "verified",
+      "source": "https://www.instagram.com/repjoemorelle/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.votemorelle.com/",
+      "status": "verified",
+      "source": "https://www.votemorelle.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Rochester",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "255 East Ave, Suite 150, Rochester, NY 14604",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(585) 232-4850",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.791945+00:00",
-    "last_updated": "2026-03-26T21:30:16.791958+00:00",
+    "last_updated": "2026-03-27T11:57:24.869941+00:00",
     "verification_notes": ""
   }
 }

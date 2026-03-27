@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3001",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/27922",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://moskowitz.house.gov/address_authentication?form=/contact",
+      "status": "verified",
+      "source": "https://sengov.com/florida/jared-moskowitz/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepMoskowitz",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Jared_Moskowitz",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepMoskowitz",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Jared_Moskowitz",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repmoskowitz/",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Jared_Moskowitz",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@RepMoskowitz",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Jared_Moskowitz",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Coral Springs",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "9500 W. Sample Road, Suite 201, Coral Springs, FL 33065",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(754) 240-6330",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.564312+00:00",
-    "last_updated": "2026-03-26T21:30:14.564337+00:00",
+    "last_updated": "2026-03-27T11:57:25.028158+00:00",
     "verification_notes": ""
   }
 }
