@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2211",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://hern.house.gov/contact/offices.htm",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-9187",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/22993",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://hern.house.gov/contact/",
+      "status": "verified",
+      "source": "https://hern.house.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repkevinhern",
+      "status": "verified",
+      "source": "https://x.com/repkevinhern",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/repkevinhern",
+      "status": "verified",
+      "source": "https://www.facebook.com/repkevinhern/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repkevinhern",
+      "status": "verified",
+      "source": "https://www.instagram.com/repkevinhern/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@RepKevinHern",
+      "status": "verified",
+      "source": "https://www.youtube.com/@RepKevinHern",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://hernforsenate.com/",
+      "status": "verified",
+      "source": "https://hernforsenate.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Tulsa",
+        "status": "verified",
+        "source": "https://hern.house.gov/contact/offices.htm",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "2448 E. 81st St., Suite 5150, Tulsa, OK 74137",
+        "status": "verified",
+        "source": "https://hern.house.gov/contact/offices.htm",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(918) 935-3222",
+        "status": "verified",
+        "source": "https://hern.house.gov/contact/offices.htm",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://hern.house.gov/contact/offices.htm",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.948284+00:00",
-    "last_updated": "2026-03-26T21:30:16.948296+00:00",
+    "last_updated": "2026-03-27T10:27:21.121609+00:00",
     "verification_notes": ""
   }
 }

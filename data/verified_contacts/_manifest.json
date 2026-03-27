@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T10:18:41.589266+00:00",
+  "last_updated": "2026-03-27T10:27:22.008135+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 162,
+      "verified_count": 176,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -780,8 +780,8 @@
           "name": "J. French Hill",
           "file": "house/H001072.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "W000809": {
           "name": "Steve Womack",
@@ -850,8 +850,8 @@
           "name": "Adelita S. Grijalva",
           "file": "house/G000606.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "H001098": {
           "name": "Abraham J. Hamadeh",
@@ -871,8 +871,8 @@
           "name": "Jared Huffman",
           "file": "house/H001068.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "K000401": {
           "name": "Kevin Kiley",
@@ -1305,15 +1305,15 @@
           "name": "James A. Himes",
           "file": "house/H001047.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "H001081": {
           "name": "Jahana Hayes",
           "file": "house/H001081.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "N000147": {
           "name": "Eleanor Holmes Norton",
@@ -1949,8 +1949,8 @@
           "name": "Clay Higgins",
           "file": "house/H001077.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "J000299": {
           "name": "Mike Johnson",
@@ -2040,8 +2040,8 @@
           "name": "Andy Harris",
           "file": "house/H001052.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "O000176": {
           "name": "Johnny Olszewski Jr.",
@@ -2068,8 +2068,8 @@
           "name": "Steny H. Hoyer",
           "file": "house/H000874.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001232": {
           "name": "April McClain Delaney",
@@ -2103,8 +2103,8 @@
           "name": "Jared F. Golden",
           "file": "house/G000592.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "B001301": {
           "name": "Jack Bergman",
@@ -2131,8 +2131,8 @@
           "name": "Bill Huizenga",
           "file": "house/H001058.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "W000798": {
           "name": "Tim Walberg",
@@ -2418,8 +2418,8 @@
           "name": "Richard Hudson",
           "file": "house/H001067.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "H001101": {
           "name": "Pat Harrigan",
@@ -2621,8 +2621,8 @@
           "name": "Steven Horsford",
           "file": "house/H001066.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "L000598": {
           "name": "Nick LaLota",
@@ -2915,8 +2915,8 @@
           "name": "Kevin Hern",
           "file": "house/H001082.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "B001317": {
           "name": "Josh Brecheen",
@@ -3027,8 +3027,8 @@
           "name": "Chrissy Houlahan",
           "file": "house/H001085.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "M001230": {
           "name": "Ryan Mackenzie",
