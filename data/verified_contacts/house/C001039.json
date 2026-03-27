@@ -8,96 +8,122 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-5744",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://cammack.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://cammack.house.gov/contact/offices",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://cammack.house.gov/address_authentication?form=/contact",
+      "status": "verified",
+      "source": "https://cammack.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepKatCammack",
+      "status": "verified",
+      "source": "https://cammack.house.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepKatCammack",
+      "status": "verified",
+      "source": "https://cammack.house.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repkatcammack",
+      "status": "verified",
+      "source": "https://cammack.house.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://cammack.house.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCZOEe8oq1LrZCgHf1A_mwSg",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/198960/Kathryn_Christine_Cammack.html",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://cammack.house.gov",
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://katforcongress.com/",
+      "status": "verified",
+      "source": "https://katforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Gainesville",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "5550 NW 111th Blvd, Suite A, Gainesville, FL 32653",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(352) 505-0838",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(771) 200-5542",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Ocala",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2630 SE 3rd Street, Ocala, FL 34471",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(352) 421-9052",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.382867+00:00",
-    "last_updated": "2026-03-26T21:30:14.382889+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T08:40:37.779486+00:00",
+    "verification_notes": "DC office at 2421 Rayburn HOB (119th Congress). House.gov returned 403 on direct fetch; data cross-referenced via web search results from cammack.house.gov office pages, BillTrack50, LegiStorm, and contactgovernors.com. DC fax not listed on any source. Ocala office located at Marion Co. Board of County Commissioners Complex. Gainesville fax (771) 200-5542 confirmed via BillTrack50."
   }
 }

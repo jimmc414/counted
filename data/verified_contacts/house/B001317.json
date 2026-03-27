@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2701",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://brecheen.house.gov/contact/offices",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://brecheen.house.gov/contact/email-me.htm",
+      "status": "verified",
+      "source": "https://brecheen.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepBrecheen",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Josh_Brecheen",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "profile.php?id=100089040632497",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Josh_Brecheen",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repbrecheen",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Josh_Brecheen",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,55 +49,55 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepBrecheen",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Josh_Brecheen",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepBrecheen",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/2968/Joshua_Chad_Brecheen.html",
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://joshbrecheen.com",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Josh_Brecheen",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Claremore",
+        "status": "verified",
+        "source": "https://brecheen.house.gov/contact/offices",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "223 W Patti Page Blvd., Claremore, OK 74017",
+        "status": "verified",
+        "source": "https://brecheen.house.gov/contact/offices",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(918) 283-6262",
+        "status": "verified",
+        "source": "https://brecheen.house.gov/contact/offices",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(918) 923-6451",
+        "status": "verified",
+        "source": "https://brecheen.house.gov/contact/offices",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.957424+00:00",
-    "last_updated": "2026-03-26T21:30:16.957441+00:00",
+    "last_updated": "2026-03-27T08:40:38.486286+00:00",
     "verification_notes": ""
   }
 }

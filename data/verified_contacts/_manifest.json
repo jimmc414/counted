@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T08:32:32.762432+00:00",
+  "last_updated": "2026-03-27T08:40:38.612875+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,15 +710,15 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 34,
+      "verified_count": 48,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
           "name": "Nicholas J. Begich III",
           "file": "house/B001323.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001212": {
           "name": "Barry Moore",
@@ -836,8 +836,8 @@
           "name": "Andy Biggs",
           "file": "house/B001302.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001133": {
           "name": "Juan Ciscomani",
@@ -1144,8 +1144,8 @@
           "name": "Ken Calvert",
           "file": "house/C000059.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "G000598": {
           "name": "Robert Garcia",
@@ -1165,8 +1165,8 @@
           "name": "Nanette Diaz Barrag\u00e1n",
           "file": "house/B001300.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "T000491": {
           "name": "Derek Tran",
@@ -1347,8 +1347,8 @@
           "name": "Kat Cammack",
           "file": "house/C001039.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B001314": {
           "name": "Aaron Bean",
@@ -2257,8 +2257,8 @@
           "name": "Wesley Bell",
           "file": "house/B001324.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 1,
+          "status": "verified"
         },
         "W000812": {
           "name": "Ann Wagner",
@@ -2922,8 +2922,8 @@
           "name": "Josh Brecheen",
           "file": "house/B001317.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "L000491": {
           "name": "Frank D. Lucas",
@@ -2978,8 +2978,8 @@
           "name": "Janelle S. Bynum",
           "file": "house/B001326.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 1,
+          "status": "verified"
         },
         "S001226": {
           "name": "Andrea Salinas",
@@ -3041,8 +3041,8 @@
           "name": "Robert P. Bresnahan Jr.",
           "file": "house/B001327.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001204": {
           "name": "Daniel Meuser",
@@ -3146,8 +3146,8 @@
           "name": "Sheri Biggs",
           "file": "house/B001325.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "T000480": {
           "name": "William R. Timmons IV",
@@ -3167,8 +3167,8 @@
           "name": "James E. Clyburn",
           "file": "house/C000537.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "F000478": {
           "name": "Russell Fry",
@@ -3195,8 +3195,8 @@
           "name": "Tim Burchett",
           "file": "house/B001309.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "F000459": {
           "name": "Charles J. \"Chuck\" Fleischmann",
@@ -3461,8 +3461,8 @@
           "name": "John R. Carter",
           "file": "house/C001051.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "J000310": {
           "name": "Julie Johnson",
@@ -3664,8 +3664,8 @@
           "name": "Michael Baumgartner",
           "file": "house/B001322.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "R000621": {
           "name": "Emily Randall",
