@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T08:40:38.612875+00:00",
+  "last_updated": "2026-03-27T08:48:10.703857+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 48,
+      "verified_count": 54,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -1053,8 +1053,8 @@
           "name": "Judy Chu",
           "file": "house/C001080.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "R000620": {
           "name": "Luz M. Rivas",
@@ -1291,8 +1291,8 @@
           "name": "Joe Courtney",
           "file": "house/C001069.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "D000216": {
           "name": "Rosa L. DeLauro",
@@ -1627,8 +1627,8 @@
           "name": "Ed Case",
           "file": "house/C001055.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "T000487": {
           "name": "Jill N. Tokuda",
@@ -2152,8 +2152,8 @@
           "name": "Tom Barrett",
           "file": "house/B001321.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001237": {
           "name": "Kristen McDonald Rivet",
@@ -2285,8 +2285,8 @@
           "name": "Emanuel Cleaver",
           "file": "house/C001061.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "G000546": {
           "name": "Sam Graves",
@@ -3440,8 +3440,8 @@
           "name": "Henry Cuellar",
           "file": "house/C001063.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "G000587": {
           "name": "Sylvia R. Garcia",
