@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3901",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://fields.house.gov/contact; https://sengov.com/louisiana/cleo-fields/; https://www.billtrack50.com/legislatordetail/24581",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,34 +19,34 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://fields.house.gov/address_authentication?form=/contact/email-me",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/24581",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepFields",
+      "status": "verified",
+      "source": "https://x.com/RepFields",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/repfields/",
+      "status": "verified",
+      "source": "https://www.facebook.com/repfields/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repcleofields_",
+      "status": "verified",
+      "source": "https://www.instagram.com/repcleofields_/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repfields.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/repfields.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.cleofields.com/",
+      "status": "verified",
+      "source": "https://en.wikipedia.org/wiki/Cleo_Fields",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Baton Rouge",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "700 North 10th Street, Fourth Floor, Baton Rouge, LA 70802",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(225) 952-1965",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(771) 200-5471",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.397249+00:00",
-    "last_updated": "2026-03-26T21:30:15.397304+00:00",
+    "last_updated": "2026-03-27T09:47:39.623243+00:00",
     "verification_notes": ""
   }
 }

@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4016",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://msa.maryland.gov/msa/mdmanual/39fed/06ushse/html/msa18047.html",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,34 +19,34 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://elfreth.house.gov/contact/email-me",
+      "status": "verified",
+      "source": "https://elfreth.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepSarahElfreth",
+      "status": "verified",
+      "source": "https://x.com/RepSarahElfreth",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepSarahElfreth/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepSarahElfreth/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repsarahelfreth/",
+      "status": "verified",
+      "source": "https://www.instagram.com/repsarahelfreth/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/elfreth.house.gov",
+      "status": "verified",
+      "source": "https://bsky.app/profile/elfreth.house.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Columbia",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "10440 Little Patuxent Parkway, Suite 550, Columbia, MD 21044",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(410) 832-8890",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.627144+00:00",
-    "last_updated": "2026-03-26T21:30:15.627169+00:00",
+    "last_updated": "2026-03-27T09:47:39.357465+00:00",
     "verification_notes": ""
   }
 }

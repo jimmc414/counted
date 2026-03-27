@@ -8,51 +8,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-6216",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://sengov.com/kansas/estes-ron/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-3489",
+      "status": "verified",
+      "source": "https://estes.house.gov/contact/officeinformation.htm",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://estes.house.gov/contact",
+      "status": "verified",
+      "source": "https://estes.house.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepRonEstes",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/266792/Ronald_Gene_Estes.html",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepRonEstes",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/266792/Ronald_Gene_Estes.html",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/RepRonEstes",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/266792/Ronald_Gene_Estes.html",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/ronestes.bsky.social",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/266792/Ronald_Gene_Estes.html",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/c/repronestes",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/266792/Ronald_Gene_Estes.html",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://estesforcongress.com",
+      "status": "verified",
+      "source": "https://estesforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Wichita",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "7701 E. Kellogg Drive, Suite 510, Wichita, KS 67207",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(316) 262-8992",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(316) 262-5309",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.201635+00:00",
-    "last_updated": "2026-03-26T21:30:15.201671+00:00",
+    "last_updated": "2026-03-27T09:47:39.486733+00:00",
     "verification_notes": ""
   }
 }

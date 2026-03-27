@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T09:40:34.672411+00:00",
+  "last_updated": "2026-03-27T09:47:39.794711+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 110,
+      "verified_count": 121,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -1480,8 +1480,8 @@
           "name": "Lois Frankel",
           "file": "house/F000462.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "M001217": {
           "name": "Jared Moskowitz",
@@ -1662,15 +1662,15 @@
           "name": "Randy Feenstra",
           "file": "house/F000446.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "F000469": {
           "name": "Russ Fulcher",
           "file": "house/F000469.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "S001148": {
           "name": "Michael K. Simpson",
@@ -1886,8 +1886,8 @@
           "name": "Ron Estes",
           "file": "house/E000298.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "C001108": {
           "name": "James Comer",
@@ -1970,8 +1970,8 @@
           "name": "Cleo Fields",
           "file": "house/F000110.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "N000015": {
           "name": "Richard E. Neal",
@@ -2054,8 +2054,8 @@
           "name": "Sarah Elfreth",
           "file": "house/E000301.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "I000058": {
           "name": "Glenn Ivey",
@@ -2243,8 +2243,8 @@
           "name": "Michelle Fischbach",
           "file": "house/F000470.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "S001212": {
           "name": "Pete Stauber",
@@ -3202,8 +3202,8 @@
           "name": "Charles J. \"Chuck\" Fleischmann",
           "file": "house/F000459.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "D000616": {
           "name": "Scott DesJarlais",
@@ -3272,8 +3272,8 @@
           "name": "Pat Fallon",
           "file": "house/F000246.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "G000589": {
           "name": "Lance Gooden",
@@ -3293,8 +3293,8 @@
           "name": "Lizzie Fletcher",
           "file": "house/F000468.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "L000603": {
           "name": "Morgan Luttrell",
@@ -3503,8 +3503,8 @@
           "name": "Lloyd Doggett",
           "file": "house/D000399.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "H001095": {
           "name": "Wesley Hunt",
