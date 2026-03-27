@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5653",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.baldwin.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-9787",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.baldwin.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.baldwin.senate.gov/contact/contact-tammy",
+      "status": "verified",
+      "source": "https://www.baldwin.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorBaldwin",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.baldwin.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senatortammybaldwin",
+      "status": "verified",
+      "source": "https://www.baldwin.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senatorbaldwin",
+      "status": "verified",
+      "source": "https://www.baldwin.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "baldwin.senate.gov",
+      "status": "verified",
+      "source": "https://www.baldwin.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorTammyBaldwin",
+      "status": "verified",
+      "source": "https://www.baldwin.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,138 @@
   "state_offices": [
     {
       "city": {
-        "value": "Milwaukee",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Madison",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "30 West Mifflin Street, Suite 700, Madison, WI 53703",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(414) 297-4451",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(608) 264-5338",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Milwaukee",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "633 West Wisconsin Ave, Suite 1300, Milwaukee, WI 53203",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(414) 297-4451",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "La Crosse",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "210 7th Street South, Suite 203, La Crosse, WI 54601",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(608) 796-0045",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Ladysmith",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "P.O. Box 401, Ladysmith, WI 54848",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Green Bay",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "PO Box 10592, Green Bay, WI 54307",
+        "status": "verified",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.baldwin.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.852039+00:00",
-    "last_updated": "2026-03-26T21:27:05.852076+00:00",
+    "last_updated": "2026-03-27T06:58:17.620530+00:00",
     "verification_notes": ""
   }
 }

@@ -8,10 +8,10 @@
   "chamber": "senate",
   "contacts": {
     "dc_phone": {
-      "value": "(202) 224-5042",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 224-2441",
+      "status": "verified",
+      "source": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -20,28 +20,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.bluntrochester.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.bluntrochester.senate.gov/contact/write-to-lbr/",
+      "status": "verified",
+      "source": "https://www.bluntrochester.senate.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@SenBluntRoch",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@SenLBR",
+      "status": "verified",
+      "source": "https://www.bluntrochester.senate.gov/news/social-media/",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenLBR",
+      "status": "verified",
+      "source": "https://www.bluntrochester.senate.gov/news/social-media/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@senlbr",
+      "status": "verified",
+      "source": "https://www.bluntrochester.senate.gov/news/social-media/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -72,33 +72,85 @@
     {
       "city": {
         "value": "Wilmington",
-        "status": "unverified",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "1105 North Market Street, Wilmington, DE 19801",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(302) 573-6291",
-        "status": "unverified",
+        "value": "(302) 830-2330",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Dover",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "555 E. Loockerman St., Suite 300, Dover, DE 19901",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(302) 674-3308",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Georgetown",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "12 The Circle, Georgetown, DE 19947",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(302) 856-7690",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.929683+00:00",
-    "last_updated": "2026-03-26T21:27:04.929702+00:00",
+    "last_updated": "2026-03-27T06:58:18.076735+00:00",
     "verification_notes": ""
   }
 }

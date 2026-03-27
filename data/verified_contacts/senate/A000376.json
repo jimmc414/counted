@@ -8,10 +8,10 @@
   "chamber": "senate",
   "contacts": {
     "dc_phone": {
-      "value": "(202) 224-4654",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 224-4524",
+      "status": "verified",
+      "source": "https://www.alsobrooks.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -20,40 +20,40 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.alsobrooks.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.alsobrooks.senate.gov/contact/get-in-touch/",
+      "status": "verified",
+      "source": "https://www.alsobrooks.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@SenAlsobrooks",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/Sen_Alsobrooks",
+      "status": "verified",
+      "source": "https://www.alsobrooks.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorAlsobrooks/",
+      "status": "verified",
+      "source": "https://www.alsobrooks.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/sen_alsobrooks/",
+      "status": "verified",
+      "source": "https://www.alsobrooks.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/alsobrooks.senate.gov",
+      "status": "verified",
+      "source": "https://www.alsobrooks.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@Sen_Alsobrooks",
+      "status": "verified",
+      "source": "https://www.alsobrooks.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,137 @@
     {
       "city": {
         "value": "Baltimore",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "100 South Charles Street, Suite 1710, Baltimore, MD 21201",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(410) 962-4436",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Bowie",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "10201 Martin Luther King Jr Hwy, Suite 210, Bowie, MD 20720",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(301) 860-0414",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Rockville",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "451 Hungerford Dr, Suite 230, Rockville, MD 20850",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(240) 599-7390",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Easton",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "114 S Washington St, Suite 202, Easton, MD 21601",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(410) 546-4250",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Frederick",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "50 Citizen Way, Suite 201, Frederick, MD 21701",
+        "status": "verified",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.alsobrooks.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.166369+00:00",
-    "last_updated": "2026-03-26T21:27:05.166384+00:00",
+    "last_updated": "2026-03-27T06:58:17.656262+00:00",
     "verification_notes": ""
   }
 }

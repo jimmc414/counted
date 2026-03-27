@@ -8,10 +8,10 @@
   "chamber": "senate",
   "contacts": {
     "dc_phone": {
-      "value": "(202) 224-5444",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 224-5251",
+      "status": "verified",
+      "source": "https://www.curtis.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -21,27 +21,27 @@
     },
     "web_form_url": {
       "value": "https://www.curtis.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.curtis.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenJohnCurtis",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.curtis.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenJohnCurtis",
+      "status": "verified",
+      "source": "https://www.curtis.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@senjohncurtis",
+      "status": "verified",
+      "source": "https://www.curtis.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@SenatorJohnCurtis",
+      "status": "verified",
+      "source": "https://www.curtis.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,59 @@
     {
       "city": {
         "value": "Salt Lake City",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.curtis.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "125 S. State Street, Suite 8402, Salt Lake City, UT 84138",
+        "status": "verified",
+        "source": "https://www.curtis.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(801) 524-5933",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(801) 524-4380",
+        "status": "verified",
+        "source": "https://www.curtis.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.curtis.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Provo",
+        "status": "verified",
+        "source": "https://www.curtis.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "3601 N University Ave, Suite 250, Provo, UT 84604",
+        "status": "verified",
+        "source": "https://www.curtis.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(801) 841-2665",
+        "status": "verified",
+        "source": "https://www.curtis.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.curtis.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.704809+00:00",
-    "last_updated": "2026-03-26T21:27:05.704821+00:00",
+    "last_updated": "2026-03-27T06:58:17.707489+00:00",
     "verification_notes": ""
   }
 }

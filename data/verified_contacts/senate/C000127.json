@@ -9,33 +9,33 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3441",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.cantwell.senate.gov/contact/locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-0514",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.cantwell.senate.gov/contact/locations",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.cantwell.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.cantwell.senate.gov/contact/email",
+      "status": "verified",
+      "source": "https://www.cantwell.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorCantwell",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.cantwell.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senatorcantwell",
+      "status": "verified",
+      "source": "https://www.cantwell.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
       "value": "",
@@ -44,16 +44,16 @@
       "verified_date": ""
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "cantwell.senate.gov",
+      "status": "verified",
+      "source": "https://www.cantwell.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorCantwell",
+      "status": "verified",
+      "source": "https://www.cantwell.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,163 @@
     {
       "city": {
         "value": "Seattle",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "915 Second Avenue, Suite 3206, Seattle, WA 98174",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(206) 220-6400",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(206) 220-6404",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Spokane",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "920 W. Riverside Avenue, Suite 697, Spokane, WA 99201",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(509) 353-2507",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(509) 353-2547",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Tacoma",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "950 Pacific Avenue, Suite 615, Tacoma, WA 98402",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(253) 572-2281",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(253) 572-5879",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Everett",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2930 Wetmore Avenue, Suite 9B, Everett, WA 98201",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(425) 303-0114",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(425) 303-8351",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Vancouver",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1313 Officers Row, Vancouver, WA 98661",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(360) 696-7838",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(360) 696-7844",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Richland",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "825 Jadwin Avenue, Suite 206, Richland, WA 99352",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(509) 946-8106",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(509) 946-6937",
+        "status": "verified",
+        "source": "https://www.cantwell.senate.gov/contact/locations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.801032+00:00",
-    "last_updated": "2026-03-26T21:27:05.801051+00:00",
+    "last_updated": "2026-03-27T07:03:14.976721+00:00",
     "verification_notes": ""
   }
 }

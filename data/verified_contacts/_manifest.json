@@ -1,10 +1,10 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T06:20:09.691568+00:00",
+  "last_updated": "2026-03-27T07:03:15.011387+00:00",
   "chambers": {
     "senate": {
       "total": 100,
-      "verified_count": 50,
+      "verified_count": 63,
       "members": {
         "T000278": {
           "name": "Tommy Tuberville",
@@ -17,8 +17,8 @@
           "name": "Katie Britt",
           "file": "senate/B001320.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "S001198": {
           "name": "Dan Sullivan",
@@ -59,8 +59,8 @@
           "name": "John Boozman",
           "file": "senate/B001236.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001150": {
           "name": "Adam Schiff",
@@ -87,8 +87,8 @@
           "name": "Michael Bennet",
           "file": "senate/B001267.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001169": {
           "name": "Chris Murphy",
@@ -108,8 +108,8 @@
           "name": "Lisa Blunt Rochester",
           "file": "senate/B001303.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "C001088": {
           "name": "Chris Coons",
@@ -171,8 +171,8 @@
           "name": "Mike Crapo",
           "file": "senate/C000880.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "D000563": {
           "name": "Dick Durbin",
@@ -192,8 +192,8 @@
           "name": "Jim Banks",
           "file": "senate/B001299.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "Y000064": {
           "name": "Todd Young",
@@ -276,8 +276,8 @@
           "name": "Angela Alsobrooks",
           "file": "senate/A000376.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "V000128": {
           "name": "Chris Van Hollen",
@@ -472,8 +472,8 @@
           "name": "Kevin Cramer",
           "file": "senate/C001096.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "H001061": {
           "name": "John Hoeven",
@@ -584,8 +584,8 @@
           "name": "Marsha Blackburn",
           "file": "senate/B001243.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "H001086": {
           "name": "Bill Hagerty",
@@ -612,8 +612,8 @@
           "name": "John Curtis",
           "file": "senate/C001114.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "L000577": {
           "name": "Mike Lee",
@@ -654,8 +654,8 @@
           "name": "Maria Cantwell",
           "file": "senate/C000127.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001111": {
           "name": "Patty Murray",
@@ -682,8 +682,8 @@
           "name": "Tammy Baldwin",
           "file": "senate/B001230.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "J000293": {
           "name": "Ron Johnson",
@@ -696,8 +696,8 @@
           "name": "John Barrasso",
           "file": "senate/B001261.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "L000571": {
           "name": "Cynthia Lummis",
