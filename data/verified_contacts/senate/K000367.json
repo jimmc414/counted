@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3244",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.klobuchar.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-2186",
@@ -20,16 +20,16 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.klobuchar.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.klobuchar.senate.gov/public/index.cfm/email-amy",
+      "status": "verified",
+      "source": "https://www.klobuchar.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenAmyKlobuchar",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.klobuchar.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
       "value": "",
@@ -72,33 +72,33 @@
     {
       "city": {
         "value": "Minneapolis",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.klobuchar.senate.gov",
+        "verified_date": "2026-03-27"
       },
       "address": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(612) 727-5220",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.klobuchar.senate.gov",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.238476+00:00",
-    "last_updated": "2026-03-26T21:27:05.238500+00:00",
+    "last_updated": "2026-03-27T07:17:04.670721+00:00",
     "verification_notes": ""
   }
 }

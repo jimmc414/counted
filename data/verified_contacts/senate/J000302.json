@@ -8,10 +8,10 @@
   "chamber": "senate",
   "contacts": {
     "dc_phone": {
-      "value": "(202) 224-6472",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 224-3954",
+      "status": "verified",
+      "source": "https://www.justice.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -20,28 +20,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.justice.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.justice.senate.gov/share-your-opinion/",
+      "status": "verified",
+      "source": "https://www.justice.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@SenJimJustice",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@JimJustice_WV",
+      "status": "verified",
+      "source": "https://www.justice.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "profile.php?id=100044187231175",
+      "status": "verified",
+      "source": "https://www.justice.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senjimjustice",
+      "status": "verified",
+      "source": "https://www.justice.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -72,33 +72,33 @@
     {
       "city": {
         "value": "Charleston",
-        "status": "unverified",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "900 Pennsylvania, Suite 629, Charleston, WV 25302",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(304) 347-5372",
-        "status": "unverified",
+        "value": "(304) 342-5855",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.826254+00:00",
-    "last_updated": "2026-03-26T21:27:05.826282+00:00",
+    "last_updated": "2026-03-27T07:12:19.522048+00:00",
     "verification_notes": ""
   }
 }

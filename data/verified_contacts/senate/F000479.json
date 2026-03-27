@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-4254",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.fetterman.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -20,34 +20,34 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.fetterman.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.fetterman.senate.gov/contact/",
+      "status": "verified",
+      "source": "https://www.fetterman.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenFettermanPA",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.fetterman.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenFettermanPA",
+      "status": "verified",
+      "source": "https://www.fetterman.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senfettermanpa",
+      "status": "verified",
+      "source": "https://www.fetterman.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "fetterman.senate.gov",
+      "status": "verified",
+      "source": "https://www.fetterman.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -72,33 +72,137 @@
     {
       "city": {
         "value": "Philadelphia",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "200 Chestnut Street, Suite 600, Philadelphia, PA 19106",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(215) 241-1090",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Erie",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "17 South Park Row, Suite B-120, Erie, PA 16501",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(814) 453-3010",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Wilkes-Barre",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "7 North Wilkes-Barre Boulevard, Suite 406, Wilkes-Barre, PA 18702",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(570) 820-4088",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Harrisburg",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "320 Market Street, Suite 475E, Harrisburg, PA 17101",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(717) 782-3951",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Pittsburgh",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1000 Liberty Avenue, Suite 1811, Pittsburgh, PA 15222",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(412) 803-3501",
+        "status": "verified",
+        "source": "https://www.fetterman.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.561694+00:00",
-    "last_updated": "2026-03-26T21:27:05.561715+00:00",
+    "last_updated": "2026-03-27T07:17:04.525887+00:00",
     "verification_notes": ""
   }
 }

@@ -16,7 +16,7 @@
     "dc_fax": {
       "value": "(202) 224-7327",
       "status": "verified",
-      "source": "https://www.washoecounty.gov/seniorsrv/senior_services_advisory_board/2019/files/09-04-19%20Congress%20Contact.pdf",
+      "source": "https://www.cortezmasto.senate.gov/contact",
       "verified_date": "2026-03-27"
     },
     "web_form_url": {
@@ -28,19 +28,19 @@
     "twitter": {
       "value": "@SenCortezMasto",
       "status": "verified",
-      "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/pdf/CDIR-2020-07-22-NV-S-2.pdf",
+      "source": "https://www.cortezmasto.senate.gov/contact",
       "verified_date": "2026-03-27"
     },
     "facebook": {
       "value": "SenatorCortezMasto",
       "status": "verified",
-      "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/pdf/CDIR-2020-07-22-NV-S-2.pdf",
+      "source": "https://www.cortezmasto.senate.gov/contact",
       "verified_date": "2026-03-27"
     },
     "instagram": {
       "value": "sencortezmasto",
       "status": "verified",
-      "source": "https://www.instagram.com/sencortezmasto/",
+      "source": "https://www.cortezmasto.senate.gov/contact",
       "verified_date": "2026-03-27"
     },
     "bluesky": {
@@ -52,7 +52,7 @@
     "youtube": {
       "value": "SenatorCortezMasto",
       "status": "verified",
-      "source": "https://www.youtube.com/@SenatorCortezMasto",
+      "source": "https://www.cortezmasto.senate.gov/contact",
       "verified_date": "2026-03-27"
     },
     "truth_social": {
@@ -79,7 +79,7 @@
       "address": {
         "value": "333 Las Vegas Boulevard South, Suite 8016, Las Vegas, NV 89101",
         "status": "verified",
-        "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/pdf/CDIR-2020-07-22-NV-S-2.pdf",
+        "source": "https://www.cortezmasto.senate.gov/contact",
         "verified_date": "2026-03-27"
       },
       "phone": {
@@ -91,7 +91,7 @@
       "fax": {
         "value": "(702) 388-5030",
         "status": "verified",
-        "source": "https://www.washoecounty.gov/seniorsrv/senior_services_advisory_board/2019/files/09-04-19%20Congress%20Contact.pdf",
+        "source": "https://www.cortezmasto.senate.gov/contact",
         "verified_date": "2026-03-27"
       }
     },
@@ -105,7 +105,7 @@
       "address": {
         "value": "400 South Virginia Street, Suite 902, Reno, NV 89501",
         "status": "verified",
-        "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/pdf/CDIR-2020-07-22-NV-S-2.pdf",
+        "source": "https://www.cortezmasto.senate.gov/contact",
         "verified_date": "2026-03-27"
       },
       "phone": {
@@ -117,40 +117,14 @@
       "fax": {
         "value": "(775) 686-5757",
         "status": "verified",
-        "source": "https://www.washoecounty.gov/seniorsrv/senior_services_advisory_board/2019/files/09-04-19%20Congress%20Contact.pdf",
-        "verified_date": "2026-03-27"
-      }
-    },
-    {
-      "city": {
-        "value": "Rural Nevada (Mobile Office)",
-        "status": "verified",
         "source": "https://www.cortezmasto.senate.gov/contact",
         "verified_date": "2026-03-27"
-      },
-      "address": {
-        "value": "",
-        "status": "not_applicable",
-        "source": "https://www.cortezmasto.senate.gov/contact",
-        "verified_date": "2026-03-27"
-      },
-      "phone": {
-        "value": "(775) 225-1457",
-        "status": "verified",
-        "source": "https://www.cortezmasto.senate.gov/contact",
-        "verified_date": "2026-03-27"
-      },
-      "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.359532+00:00",
-    "last_updated": "2026-03-27T00:00:00.000000+00:00",
+    "last_updated": "2026-03-27T07:05:09.983229+00:00",
     "verification_notes": "DC fax updated from (202) 228-6753 to (202) 224-7327 per Washoe County govt document. Office building may have moved from 516 Hart (Congressional Directory) to 309 Hart or 204 Russell per various sources. Web form is /contact/connect/ (Email Catherine form). Added Reno office and Rural Mobile Office. Social media verified across multiple sources. Threads account @sencortezmasto exists but no schema field."
   }
 }

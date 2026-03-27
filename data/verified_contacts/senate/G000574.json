@@ -8,10 +8,10 @@
   "chamber": "senate",
   "contacts": {
     "dc_phone": {
-      "value": "(202) 224-2934",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 224-4521",
+      "status": "verified",
+      "source": "https://www.gallego.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -20,40 +20,40 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.gallego.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.gallego.senate.gov/connect/get-in-touch/",
+      "status": "verified",
+      "source": "https://www.gallego.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@SenRubenGallego",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@senrubengallego",
+      "status": "verified",
+      "source": "https://www.gallego.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenRubenGallego",
+      "status": "verified",
+      "source": "https://www.gallego.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senrubengallego",
+      "status": "verified",
+      "source": "https://www.gallego.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "gallego.senate.gov",
+      "status": "verified",
+      "source": "https://www.gallego.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@ruben_gallego",
+      "status": "verified",
+      "source": "https://www.gallego.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,33 @@
     {
       "city": {
         "value": "Phoenix",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.gallego.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "3333 E. Camelback Rd, Suite 200, Phoenix, AZ 85018",
+        "status": "verified",
+        "source": "https://www.gallego.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(602) 240-2200",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(480) 697-3600",
+        "status": "verified",
+        "source": "https://www.gallego.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.824781+00:00",
-    "last_updated": "2026-03-26T21:27:04.824819+00:00",
+    "last_updated": "2026-03-27T07:17:04.561578+00:00",
     "verification_notes": ""
   }
 }

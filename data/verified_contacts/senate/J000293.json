@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5323",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.ronjohnson.senate.gov/office_locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 228-6965",
+      "status": "verified",
+      "source": "https://www.ronjohnson.senate.gov/office_locations",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.ronjohnson.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.ronjohnson.senate.gov/email-the-senator",
+      "status": "verified",
+      "source": "https://www.ronjohnson.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenRonJohnson",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.ronjohnson.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senronjohnson",
+      "status": "verified",
+      "source": "https://www.ronjohnson.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senronjohnson",
+      "status": "verified",
+      "source": "https://www.ronjohnson.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorRonJohnson",
+      "status": "verified",
+      "source": "https://www.ronjohnson.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,85 @@
     {
       "city": {
         "value": "Milwaukee",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "517 East Wisconsin Avenue, Suite 408, Milwaukee, WI 53202",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(414) 276-7282",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(414) 276-7284",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Madison",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "5315 Wall Street, Suite 110, Madison, WI 53718",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(608) 240-9629",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(608) 240-9646",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Oshkosh",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "219 Washington Avenue, Suite 100, Oshkosh, WI 54901",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(920) 230-7250",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(920) 230-7262",
+        "status": "verified",
+        "source": "https://www.ronjohnson.senate.gov/office_locations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.865997+00:00",
-    "last_updated": "2026-03-26T21:27:05.866015+00:00",
+    "last_updated": "2026-03-27T07:12:19.596399+00:00",
     "verification_notes": ""
   }
 }

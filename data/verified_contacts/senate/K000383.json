@@ -9,96 +9,200 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5344",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.king.senate.gov/contact/office-locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-1946",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "NOT found on official site",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
       "value": "https://www.king.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.king.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenAngusKing",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.king.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorAngusSKingJr",
+      "status": "verified",
+      "source": "https://www.king.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://www.king.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://www.king.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/user/senatorangusking",
+      "status": "verified",
+      "source": "https://www.king.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://www.king.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://www.king.senate.gov",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
         "value": "Augusta",
-        "status": "unverified",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "40 Western Ave, E.S. Muskie Federal Building, Room 412, Augusta, ME 04330",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(207) 622-8292",
-        "status": "unverified",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Bangor",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "202 Harlow St., Suite 20350, Bangor, ME 04401",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(207) 945-8000",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Biddeford",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "227 Main Street, Biddeford, ME 04005",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(207) 352-5216",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Portland",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1 Pleasant Street Suite 4W, Portland, ME 04101",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(207) 245-1565",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Presque Isle",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "167 Academy St., Suite A, Presque Isle, ME 04769",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(207) 764-5124",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.142124+00:00",
-    "last_updated": "2026-03-26T21:27:05.142186+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T07:12:19.636255+00:00",
+    "verification_notes": "DC phone, web form, Twitter, Facebook, YouTube verified from official site. 5 state offices (Augusta, Bangor, Biddeford, Portland, Presque Isle) verified with full addresses. DC fax (202) 224-1946 NOT found on official site - remains unverified. No Instagram, Bluesky, or Truth Social found on official pages."
   }
 }

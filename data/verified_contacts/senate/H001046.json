@@ -9,15 +9,15 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5521",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.heinrich.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "(202) 228-2040",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 228-2841",
+      "status": "verified",
+      "source": "https://www.heinrich.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
       "value": "https://www.heinrich.senate.gov/contact",
@@ -26,34 +26,34 @@
       "verified_date": ""
     },
     "twitter": {
-      "value": "@MartinHeinrich",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@SenatorHeinrich",
+      "status": "verified",
+      "source": "https://www.heinrich.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorHeinrich",
+      "status": "verified",
+      "source": "https://www.heinrich.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senatormartinheinrich",
+      "status": "verified",
+      "source": "https://www.heinrich.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "heinrich.senate.gov",
+      "status": "verified",
+      "source": "https://www.heinrich.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenMartinHeinrich",
+      "status": "verified",
+      "source": "https://www.heinrich.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,137 @@
     {
       "city": {
         "value": "Albuquerque",
-        "status": "unverified",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "400 Gold Avenue SW, Suite 1080, Albuquerque, NM 87102",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(505) 346-6601",
-        "status": "unverified",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(505) 346-6780",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Las Cruces",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "201 North Church Street, Suite 305, Las Cruces, NM 88001",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(575) 523-6561",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(575) 523-6584",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Santa Fe",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "123 E Marcy Street, Suite 103, Santa Fe, NM 87501",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(505) 988-6647",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(505) 992-8435",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Farmington",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "7450 East Main Street, Suite A, Farmington, NM 87402",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(505) 325-5030",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(505) 325-6035",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Roswell",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "200 East 4th Street, Suite 300, Roswell, NM 88201",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(575) 622-7113",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(575) 622-3538",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.405640+00:00",
-    "last_updated": "2026-03-26T21:27:05.405682+00:00",
+    "last_updated": "2026-03-27T07:12:19.805223+00:00",
     "verification_notes": ""
   }
 }

@@ -1,10 +1,10 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T07:03:15.011387+00:00",
+  "last_updated": "2026-03-27T07:17:04.706414+00:00",
   "chambers": {
     "senate": {
       "total": 100,
-      "verified_count": 63,
+      "verified_count": 79,
       "members": {
         "T000278": {
           "name": "Tommy Tuberville",
@@ -38,8 +38,8 @@
           "name": "Ruben Gallego",
           "file": "senate/G000574.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "K000377": {
           "name": "Mark Kelly",
@@ -150,8 +150,8 @@
           "name": "Mazie Hirono",
           "file": "senate/H001042.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "S001194": {
           "name": "Brian Schatz",
@@ -255,15 +255,15 @@
           "name": "John Kennedy",
           "file": "senate/K000393.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "K000383": {
           "name": "Angus King",
           "file": "senate/K000383.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "C001035": {
           "name": "Susan Collins",
@@ -318,8 +318,8 @@
           "name": "Amy Klobuchar",
           "file": "senate/K000367.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "S001203": {
           "name": "Tina Smith",
@@ -346,8 +346,8 @@
           "name": "Josh Hawley",
           "file": "senate/H001089.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "S001227": {
           "name": "Eric Schmitt",
@@ -374,8 +374,8 @@
           "name": "Deb Fischer",
           "file": "senate/F000463.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "R000618": {
           "name": "Pete Ricketts",
@@ -395,8 +395,8 @@
           "name": "Catherine Cortez Masto",
           "file": "senate/C001113.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001181": {
           "name": "Jeanne Shaheen",
@@ -409,8 +409,8 @@
           "name": "Maggie Hassan",
           "file": "senate/H001076.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "K000394": {
           "name": "Andy Kim",
@@ -430,8 +430,8 @@
           "name": "Martin Heinrich",
           "file": "senate/H001046.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "L000570": {
           "name": "Ben Ray Lujan",
@@ -465,8 +465,8 @@
           "name": "Ted Budd",
           "file": "senate/B001311.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "C001096": {
           "name": "Kevin Cramer",
@@ -479,8 +479,8 @@
           "name": "John Hoeven",
           "file": "senate/H001061.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "M001225": {
           "name": "Bernie Moreno",
@@ -493,8 +493,8 @@
           "name": "Jon Husted",
           "file": "senate/H001093.json",
           "fields_with_data": 3,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001190": {
           "name": "Markwayne Mullin",
@@ -535,8 +535,8 @@
           "name": "John Fetterman",
           "file": "senate/F000479.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "W000802": {
           "name": "Sheldon Whitehouse",
@@ -668,8 +668,8 @@
           "name": "Jim Justice",
           "file": "senate/J000302.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "C001047": {
           "name": "Shelley Moore Capito",
@@ -689,8 +689,8 @@
           "name": "Ron Johnson",
           "file": "senate/J000293.json",
           "fields_with_data": 4,
-          "fields_verified": 0,
-          "status": "seeded"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B001261": {
           "name": "John Barrasso",

@@ -9,45 +9,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3324",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.hassan.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-0581",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.hassan.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.hassan.senate.gov/contact/email",
+      "status": "verified",
+      "source": "https://www.hassan.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorHassan",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.hassan.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenatorHassan",
+      "status": "verified",
+      "source": "https://www.hassan.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senatorhassan",
+      "status": "verified",
+      "source": "https://www.hassan.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/hassan.senate.gov",
+      "status": "verified",
+      "source": "https://www.hassan.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -72,33 +72,111 @@
     {
       "city": {
         "value": "Manchester",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1589 Elm Street, Third Floor, Manchester, NH 03101",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(603) 622-2204",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Portsmouth",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "14 Manchester Square, Suite 281, Portsmouth, NH 03801",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(603) 433-4445",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Berlin",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Berlin City Hall Lower Level, 168 Main Street, Berlin, NH 03570",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(603) 752-6190",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Concord",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "James C. Cleveland Federal Building, 53 Pleasant Street, Concord, NH 03301",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(603) 622-2204",
+        "status": "verified",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.hassan.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.378847+00:00",
-    "last_updated": "2026-03-26T21:27:05.378861+00:00",
+    "last_updated": "2026-03-27T07:12:19.714988+00:00",
     "verification_notes": ""
   }
 }

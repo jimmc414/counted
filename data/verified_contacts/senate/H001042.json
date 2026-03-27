@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-6361",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.hirono.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-2126",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.hirono.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.hirono.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.hirono.senate.gov/contact/email-me-about-an-issue",
+      "status": "verified",
+      "source": "https://www.hirono.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@maaborhirono",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@maziehirono",
+      "status": "verified",
+      "source": "https://www.hirono.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senatorhirono",
+      "status": "verified",
+      "source": "https://www.hirono.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "maziehirono",
+      "status": "verified",
+      "source": "https://www.hirono.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "hirono.senate.gov",
+      "status": "verified",
+      "source": "https://www.hirono.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@senatorhirono",
+      "status": "verified",
+      "source": "https://www.hirono.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,33 @@
     {
       "city": {
         "value": "Honolulu",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hirono.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "300 Ala Moana Blvd. Room 3-106, Honolulu, HI 96850",
+        "status": "verified",
+        "source": "https://www.hirono.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(808) 522-8970",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hirono.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(808) 545-4683",
+        "status": "verified",
+        "source": "https://www.hirono.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.991112+00:00",
-    "last_updated": "2026-03-26T21:27:04.991128+00:00",
+    "last_updated": "2026-03-27T07:09:28.294165+00:00",
     "verification_notes": ""
   }
 }

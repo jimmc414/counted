@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-6551",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-1325",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.fischer.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.fischer.senate.gov/public/index.cfm/?p=email-deb",
+      "status": "verified",
+      "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorFischer",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.fischer.senate.gov/public/",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/senatordebfischer",
+      "status": "verified",
+      "source": "https://www.fischer.senate.gov/public/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senatorfischer/",
+      "status": "verified",
+      "source": "https://www.fischer.senate.gov/public/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "http://www.youtube.com/senatordebfischer",
+      "status": "verified",
+      "source": "https://www.fischer.senate.gov/public/",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,111 @@
     {
       "city": {
         "value": "Lincoln",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1248 O Street, Suite #1111, Lincoln, NE 68508",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(402) 441-4600",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(402) 476-8753",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Omaha",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "11819 Miracle Hills Drive, Suite 205, Omaha, NE 68154",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(402) 391-3411",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(402) 391-4725",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Kearney",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "20 West 23rd Street, Kearney, NE 68847",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(308) 234-2361",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(308) 234-3684",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Scottsbluff",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "120 East 16th Street, Suite 203, Scottsbluff, NE 69361",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(308) 630-2329",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(308) 630-2321",
+        "status": "verified",
+        "source": "https://www.fischer.senate.gov/public/index.cfm/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.326429+00:00",
-    "last_updated": "2026-03-26T21:27:05.326444+00:00",
+    "last_updated": "2026-03-27T07:12:19.674180+00:00",
     "verification_notes": ""
   }
 }

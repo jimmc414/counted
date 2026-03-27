@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2551",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.hoeven.senate.gov/contact/office-locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-7999",
@@ -20,16 +20,16 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.hoeven.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.hoeven.senate.gov/contact/contact-the-senator",
+      "status": "verified",
+      "source": "https://www.hoeven.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenJohnHoeven",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.hoeven.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
       "value": "",
@@ -72,33 +72,137 @@
     {
       "city": {
         "value": "Bismarck",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "U.S. Federal Building, 220 East Rosser Ave., Rm 312, Bismarck, ND 58501",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(701) 250-4618",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Fargo",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "123 Broadway North, Ste 201, Fargo, ND 58102",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(701) 239-5389",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Grand Forks",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Federal Building, 102 North Fourth St., Rm 108, Grand Forks, ND 58203",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(701) 746-8972",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Minot",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 1st St. SW, Ste 107, Minot, ND 58701",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(701) 838-1361",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Watford City",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "204 N. Main St., #516, Watford City, ND 58854",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(701) 609-2727",
+        "status": "verified",
+        "source": "https://www.hoeven.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.476626+00:00",
-    "last_updated": "2026-03-26T21:27:05.476642+00:00",
+    "last_updated": "2026-03-27T07:09:28.347930+00:00",
     "verification_notes": ""
   }
 }
