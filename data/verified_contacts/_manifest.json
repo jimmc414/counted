@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T09:08:21.288258+00:00",
+  "last_updated": "2026-03-27T09:09:31.898758+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 67,
+      "verified_count": 68,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -1179,8 +1179,8 @@
           "name": "J. Luis Correa",
           "file": "house/C001110.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "M001241": {
           "name": "Dave Min",
@@ -2684,7 +2684,7 @@
           "name": "Yvette D. Clarke",
           "file": "house/C001067.json",
           "fields_with_data": 1,
-          "fields_verified": 2,
+          "fields_verified": 3,
           "status": "verified"
         },
         "G000599": {
