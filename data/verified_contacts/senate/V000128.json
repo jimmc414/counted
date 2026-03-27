@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-4654",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.vanhollen.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-0629",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.vanhollen.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.vanhollen.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.vanhollen.senate.gov/contact/email",
+      "status": "verified",
+      "source": "https://www.vanhollen.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@ChrisVanHollen",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.vanhollen.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/chrisvanhollen",
+      "status": "verified",
+      "source": "https://www.vanhollen.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/chrisvanhollen",
+      "status": "verified",
+      "source": "https://www.vanhollen.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/vanhollen.senate.gov",
+      "status": "verified",
+      "source": "https://www.vanhollen.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@senatorvanhollen",
+      "status": "verified",
+      "source": "https://www.vanhollen.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,163 @@
     {
       "city": {
         "value": "Baltimore",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1040 Park Avenue, Suite 120, Baltimore, MD 21201",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(410) 962-4510",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(667) 212-4610",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Rockville",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "111 Rockville Pike, Suite 960, Rockville, MD 20850",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(301) 545-1500",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(301) 545-1512",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Largo",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1101 Mercantile Lane, Suite 210, Largo, MD 20774",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(301) 322-6560",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Annapolis",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "60 West Street, Suite 107, Annapolis, MD 21401",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(410) 263-1325",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Hagerstown",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "32 W. Washington Street, Suite 203, Hagerstown, MD 21740",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(301) 797-2826",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Cambridge",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "204 Cedar Street, Suite 200C, Cambridge, MD 21613",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(410) 221-2074",
+        "status": "verified",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.vanhollen.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.178920+00:00",
-    "last_updated": "2026-03-26T21:27:05.178942+00:00",
+    "last_updated": "2026-03-27T05:55:18.445258+00:00",
     "verification_notes": ""
   }
 }

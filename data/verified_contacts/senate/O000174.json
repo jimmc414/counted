@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3521",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.ossoff.senate.gov/contact/offices/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 224-2575",
+      "status": "verified",
+      "source": "https://www.ossoff.senate.gov/contact/offices/",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.ossoff.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.ossoff.senate.gov/contact-us/share-your-views",
+      "status": "verified",
+      "source": "https://www.ossoff.senate.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenOssoff",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.ossoff.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
       "value": "SenOssoff",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.ossoff.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senossoff",
+      "status": "verified",
+      "source": "https://www.ossoff.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@ossoff.senate.gov",
+      "status": "verified",
+      "source": "https://bsky.app/profile/ossoff.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senossoff",
+      "status": "verified",
+      "source": "https://www.ossoff.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,111 @@
     {
       "city": {
         "value": "Atlanta",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "271 17th Street NW, Suite 1510, Atlanta, GA 30363",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(470) 786-7800",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(202) 228-6899",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Augusta",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "One Tenth Street, Suite 660, Augusta, GA 30901",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(706) 261-5031",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 228-0833",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Savannah",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "532 Stephenson Avenue, Suite 103B, Savannah, GA 31405",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(912) 200-9402",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 228-6565",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Columbus",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "18 9th Street, Suite 513, Columbus, GA 31901",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(706) 780-7053",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 228-2346",
+        "status": "verified",
+        "source": "https://www.ossoff.senate.gov/contact/offices/",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.971856+00:00",
-    "last_updated": "2026-03-26T21:27:04.971881+00:00",
+    "last_updated": "2026-03-27T05:55:18.552974+00:00",
     "verification_notes": ""
   }
 }

@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2621",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.murray.senate.gov/office-locations/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-0238",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.murray.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.murray.senate.gov/write-to-patty/",
+      "status": "verified",
+      "source": "https://www.murray.senate.gov/write-to-patty/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@PattyMurray",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.murray.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senatorpattymurray",
+      "status": "verified",
+      "source": "https://www.murray.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@senpattymurray",
+      "status": "verified",
+      "source": "https://www.murray.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "murray.senate.gov",
+      "status": "verified",
+      "source": "https://www.murray.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "UCb8jq3TvQ3AzKsexhWfFLoA",
+      "status": "verified",
+      "source": "https://www.murray.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,189 @@
     {
       "city": {
         "value": "Seattle",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "2988 Jackson Federal Building, 915 2nd Avenue, Seattle, WA 98174",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(206) 553-5545",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(206) 553-0891",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Tacoma",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1301 A Street, Suite 213, Tacoma, WA 98402",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(253) 572-3636",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(253) 572-9488",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Spokane",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "920 W. Riverside Ave, Suite 485, Spokane, WA 99201",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(509) 624-9515",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(509) 624-9561",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Everett",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2930 Wetmore Avenue, Ste. 9D, Everett, WA 98201",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(425) 259-6515",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(425) 259-7152",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Vancouver",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "The Marshall House, 1323 Officer's Row, Vancouver, WA 98661",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(360) 696-7797",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Richland",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "825 Jadwin Avenue, Suite 160K, Richland, WA 99352",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(509) 453-7462",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Olympia",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "711 Capitol Way South, Suite 502, Olympia, WA 98501",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(360) 205-2878",
+        "status": "verified",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.murray.senate.gov/office-locations/",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.812376+00:00",
-    "last_updated": "2026-03-26T21:27:05.812394+00:00",
+    "last_updated": "2026-03-27T06:01:41.774103+00:00",
     "verification_notes": ""
   }
 }

@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2752",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.risch.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-2573",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.risch.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.risch.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.risch.senate.gov/contact/share-your-opinion/",
+      "status": "verified",
+      "source": "https://www.risch.senate.gov/contact/share-your-opinion",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenatorRisch",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.risch.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorJimRisch",
+      "status": "verified",
+      "source": "https://www.risch.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senatorrisch",
+      "status": "verified",
+      "source": "https://www.risch.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorJamesRisch",
+      "status": "verified",
+      "source": "https://www.risch.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,163 @@
     {
       "city": {
         "value": "Boise",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "350 N. 9th Street, Suite 302, Boise, ID 83702",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(208) 342-7985",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(208) 343-2458",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Coeur d'Alene",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Harbor Plaza, 610 Hubbard, Suite 213, Coeur d'Alene, ID 83814",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(208) 667-6130",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(208) 765-1743",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Idaho Falls",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "901 Pier View Drive, Suite 202A, Idaho Falls, ID 83402",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(208) 523-5541",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(208) 523-9373",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Lewiston",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "313 D Street, Suite 106, Lewiston, ID 83501",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(208) 743-0792",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(208) 746-7275",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Pocatello",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "275 South 5th Avenue, Suite 144, Pocatello, ID 83201",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(208) 236-6817",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(208) 236-6820",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Twin Falls",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1411 Falls Avenue East, Suite 201, Twin Falls, ID 83301",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(208) 734-6780",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(208) 734-3905",
+        "status": "verified",
+        "source": "https://www.risch.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.009946+00:00",
-    "last_updated": "2026-03-26T21:27:05.009973+00:00",
+    "last_updated": "2026-03-27T06:01:41.954246+00:00",
     "verification_notes": ""
   }
 }

@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-6521",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-6966",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "third-party sources (not listed on official senate site contact-info page)",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.moran.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+      "status": "verified",
+      "source": "https://www.moran.senate.gov/public/index.cfm/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@JerryMoran",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.moran.senate.gov/public/index.cfm/connect",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "JerryMoran",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "jerrymoran",
+      "status": "verified",
+      "source": "https://www.moran.senate.gov/public/index.cfm/connect",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@sen.jerrymoran",
+      "status": "verified",
+      "source": "https://www.instagram.com/sen.jerrymoran/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorJerryMoran",
+      "status": "verified",
+      "source": "https://www.moran.senate.gov/public/index.cfm/connect",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -62,43 +62,173 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://moranforkansas.com",
+      "status": "verified",
+      "source": "https://moranforkansas.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "Wichita",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Hays",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1200 Main St., Suite 402, P.O. Box 249, Hays, KS 67601",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(316) 631-1410",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(785) 628-6401",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(785) 628-3791",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Manhattan",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1880 Kimball Ave, Suite 270, Manhattan, KS 66502",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(785) 539-8973",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(785) 587-0789",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Wichita",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 North Broadway, Suite 210, Wichita, KS 67202",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(316) 269-9257",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(316) 269-9259",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Pittsburg",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "306 N. Broadway, Suite 125, P.O. Box 1372, Pittsburg, KS 66762",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(620) 232-2286",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(620) 232-2284",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Olathe",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "23600 College Blvd, Suite 201, P.O. Box 1154, Olathe, KS 66051",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(913) 393-0711",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(913) 768-1366",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Garden City",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "312 N. 8th Street, Suite B, Garden City, KS 67846",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(620) 260-3025",
+        "status": "verified",
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.096099+00:00",
-    "last_updated": "2026-03-26T21:27:05.096113+00:00",
+    "last_updated": "2026-03-27T06:01:41.886390+00:00",
     "verification_notes": ""
   }
 }

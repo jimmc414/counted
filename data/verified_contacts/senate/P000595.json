@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-6221",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.peters.senate.gov/contact/office-locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-7387",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.peters.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.peters.senate.gov/contact/email-gary",
+      "status": "verified",
+      "source": "https://www.peters.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenGaryPeters",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.peters.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenGaryPeters",
+      "status": "verified",
+      "source": "https://www.peters.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/sengarypeters",
+      "status": "verified",
+      "source": "https://www.peters.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@peters.senate.gov",
+      "status": "verified",
+      "source": "https://bsky.app/profile/peters.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UC7LYNbnKSK2VZqQ98YROWHQ",
+      "status": "verified",
+      "source": "https://www.peters.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -62,43 +62,199 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://petersformichigan.com/",
+      "status": "verified",
+      "source": "https://petersformichigan.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
         "value": "Detroit",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Patrick V. McNamara Federal Building, 477 Michigan Avenue, Suite 1837, Detroit, MI 48226",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(313) 226-6020",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Flint",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "416 N Saginaw Street, Suite 222, Flint, MI 48502",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(989) 754-0112",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Grand Rapids",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Gerald R. Ford Federal Building, 110 Michigan Street NW, Suite 720, Grand Rapids, MI 49503",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(616) 233-9150",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Lansing",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "124 West Allegan Street, Suite 1400, Lansing, MI 48933",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(517) 377-1508",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Marquette",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "857 W. Washington St., Suite 308, Marquette, MI 49855",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(906) 226-4554",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Pontiac",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "51111 Woodward Avenue, Suite 725, Pontiac, MI 48342",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(248) 608-8040",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Traverse City",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "109 E. Front Street, Suite 215B, Traverse City, MI 49684",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(231) 947-7773",
+        "status": "verified",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.peters.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.227252+00:00",
-    "last_updated": "2026-03-26T21:27:05.227268+00:00",
+    "last_updated": "2026-03-27T06:01:42.087118+00:00",
     "verification_notes": ""
   }
 }

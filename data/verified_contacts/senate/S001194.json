@@ -9,9 +9,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-3934",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.schatz.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-1153",
@@ -20,28 +20,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "https://www.schatz.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.schatz.senate.gov/contact/share-your-thoughts",
+      "status": "verified",
+      "source": "https://www.schatz.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@braborschatz",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@SenBrianSchatz",
+      "status": "verified",
+      "source": "https://www.schatz.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenBrianSchatz",
+      "status": "verified",
+      "source": "https://www.schatz.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senbrianschatz",
+      "status": "verified",
+      "source": "https://www.schatz.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senbrianschatz",
+      "status": "verified",
+      "source": "https://www.schatz.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,33 @@
     {
       "city": {
         "value": "Honolulu",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.schatz.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "300 Ala Moana Blvd., Rm 7-212, Honolulu, HI 96850",
+        "status": "verified",
+        "source": "https://www.schatz.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(808) 523-2061",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.schatz.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.999610+00:00",
-    "last_updated": "2026-03-26T21:27:04.999625+00:00",
+    "last_updated": "2026-03-27T06:03:24.973739+00:00",
     "verification_notes": ""
   }
 }

@@ -9,39 +9,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-5824",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.cassidy.senate.gov/contact/office-locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-9735",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.cassidy.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.cassidy.senate.gov/contact/get-in-touch/",
+      "status": "verified",
+      "source": "https://www.cassidy.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenBillCassidy",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.cassidy.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
       "value": "SenBillCassidy",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.cassidy.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "senbillcassidy",
+      "status": "verified",
+      "source": "https://www.cassidy.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,10 +50,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@SenatorBillCassidy",
+      "status": "verified",
+      "source": "https://www.cassidy.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -62,43 +62,199 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.billcassidy.com/",
+      "status": "verified",
+      "source": "web_search",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "Baton Rouge",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Alexandria",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1611 Arnold Drive Suite 112, Alexandria, LA 71303",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(318) 448-7176",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(318) 448-5175",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Baton Rouge",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "450 Laurel St., Suite 1400, Baton Rouge, LA 70801",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(225) 929-7711",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(225) 383-3768",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Lafayette",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "101 La Rue France Suite 505, Lafayette, LA 70508",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(337) 261-1400",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(337) 261-1490",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Lake Charles",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "611 Broad St. Suite 117, Lake Charles, LA 70601",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(337) 602-7253",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Metairie",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "3421 N. Causeway Blvd. Suite 204, Metairie, LA 70002",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(504) 838-0130",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(504) 838-0133",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Monroe",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1651 Louisville Ave. Suite 123, Monroe, LA 71201",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(318) 324-2111",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(318) 324-2197",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Shreveport",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "401 Market St Suite 1018, Shreveport, LA 71101",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(318) 798-3215",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(318) 798-8473",
+        "status": "verified",
+        "source": "https://www.cassidy.senate.gov/contact/office-locations",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.124248+00:00",
-    "last_updated": "2026-03-26T21:27:05.124265+00:00",
+    "last_updated": "2026-03-27T06:01:41.681964+00:00",
     "verification_notes": ""
   }
 }

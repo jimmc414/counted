@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2023",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-6295",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.warner.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.warner.senate.gov/public/index.cfm?p=ContactPage",
+      "status": "verified",
+      "source": "https://www.warner.senate.gov/public/index.cfm?p=ContactPage",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@MarkWarner",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.warner.senate.gov/public/index.cfm?p=ContactPage",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "MarkWarner",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "MarkRWarner",
+      "status": "verified",
+      "source": "https://www.warner.senate.gov/public/index.cfm?p=ContactPage",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@senatorwarner",
+      "status": "verified",
+      "source": "https://www.warner.senate.gov/public/index.cfm?p=ContactPage",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@markwarner.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/markwarner.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenatorMarkWarner",
+      "status": "verified",
+      "source": "https://www.warner.senate.gov/public/index.cfm?p=ContactPage",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -62,43 +62,147 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.markwarnerva.com/",
+      "status": "verified",
+      "source": "https://www.markwarnerva.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "Richmond",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Abingdon",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "180 West Main Street, Abingdon, VA 24210",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "(804) 775-2314",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "(276) 628-8158",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Norfolk",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "101 W. Main Street, Suite 7771, Norfolk, VA 23510",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(757) 441-3079",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Richmond",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "919 East Main Street, Suite 630, Richmond, VA 23219",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(804) 775-2314",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Roanoke",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "120 Luck Avenue SW, Suite 108, Roanoke, VA 24011",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(540) 857-2676",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Vienna",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "8150 Leesburg Pike, Suite 700, Vienna, VA 22182",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(703) 442-0670",
+        "status": "verified",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.warner.senate.gov/public/index.cfm?p=OfficeInformation",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.785393+00:00",
-    "last_updated": "2026-03-26T21:27:05.785433+00:00",
+    "last_updated": "2026-03-27T06:01:42.023102+00:00",
     "verification_notes": ""
   }
 }

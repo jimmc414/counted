@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2854",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.duckworth.senate.gov/connect",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 228-4611",
-      "status": "unverified",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.duckworth.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.duckworth.senate.gov/connect/email-tammy",
+      "status": "verified",
+      "source": "https://www.duckworth.senate.gov/connect",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenDuckworth",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.duckworth.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenDuckworth",
+      "status": "verified",
+      "source": "https://www.duckworth.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenDuckworth",
+      "status": "verified",
+      "source": "https://www.duckworth.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "duckworth.senate.gov",
+      "status": "verified",
+      "source": "https://www.duckworth.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "SenDuckworth",
+      "status": "verified",
+      "source": "https://www.duckworth.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -72,33 +72,137 @@
     {
       "city": {
         "value": "Chicago",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "230 South Dearborn Street, Suite 3900, Chicago, IL 60604",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(312) 886-3506",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Springfield",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "8 South Old State Capitol Plaza, Springfield, IL 62701",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(217) 528-6124",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Carbondale",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "441 East Willow Street, Carbondale, IL 62901",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(618) 677-7000",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Rock Island",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1823 2nd Ave., Suite 2, Rock Island, IL 61201",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(309) 606-7060",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Belleville",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "23 Public Square, Suite 460, Belleville, IL 62220",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(618) 722-7070",
+        "status": "verified",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://www.duckworth.senate.gov/connect",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.038256+00:00",
-    "last_updated": "2026-03-26T21:27:05.038265+00:00",
+    "last_updated": "2026-03-27T05:55:18.611708+00:00",
     "verification_notes": ""
   }
 }

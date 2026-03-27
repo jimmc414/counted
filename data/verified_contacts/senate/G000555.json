@@ -9,51 +9,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-4451",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.gillibrand.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "(202) 228-0282",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 228-4977",
+      "status": "verified",
+      "source": "https://www.gillibrand.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.gillibrand.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.gillibrand.senate.gov/contact/email-me/",
+      "status": "verified",
+      "source": "https://www.gillibrand.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "@SenGillibrand",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "@gillibrandny",
+      "status": "verified",
+      "source": "https://www.gillibrand.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenKirstenGillibrand",
+      "status": "verified",
+      "source": "https://www.gillibrand.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://instagram.com/senkirstengillibrand/",
+      "status": "verified",
+      "source": "https://www.gillibrand.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@kirstengillibrand.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/kirstengillibrand.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@KirstenEGillibrand",
+      "status": "verified",
+      "source": "https://www.gillibrand.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -71,34 +71,216 @@
   "state_offices": [
     {
       "city": {
-        "value": "New York",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "value": "Albany",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "11A Clinton Ave, Rm 821, Albany, NY 12207",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(518) 431-0120",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-0038",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Buffalo",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "726 Exchange St, Ste 511, Buffalo, NY 14210",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(716) 854-9725",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-0039",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Melville",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "155 Pinelawn Road, Suite 250 North, Melville, NY 11747",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(631) 249-2825",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-0044",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Yonkers",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "P.O. Box 749, Yonkers, NY 10710",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(845) 875-4585",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-0052",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Lowville",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "P.O. Box 273, Lowville, NY 13367",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(315) 376-6118",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-0055",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "New York",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "780 Third Ave, Ste 2601, New York, NY 10017",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(212) 688-6262",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(866) 824-6340",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Rochester",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 State St, Rm 4195, Rochester, NY 14614",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(585) 263-6250",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-0063",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Syracuse",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "100 South Clinton St, Rm 1470, PO Box 7378, Syracuse, NY 13261",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(315) 448-0470",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(202) 224-0064",
+        "status": "verified",
+        "source": "https://www.gillibrand.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:05.426593+00:00",
-    "last_updated": "2026-03-26T21:27:05.426607+00:00",
+    "last_updated": "2026-03-27T05:55:18.387100+00:00",
     "verification_notes": ""
   }
 }

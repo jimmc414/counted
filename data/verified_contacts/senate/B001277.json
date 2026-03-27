@@ -9,45 +9,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 224-2823",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.blumenthal.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "(202) 224-9673",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.blumenthal.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "https://www.blumenthal.senate.gov/contact",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal",
+      "status": "verified",
+      "source": "https://www.blumenthal.senate.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
       "value": "@SenBlumenthal",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.blumenthal.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/SenBlumenthal",
+      "status": "verified",
+      "source": "https://www.blumenthal.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/senblumenthal",
+      "status": "verified",
+      "source": "https://www.blumenthal.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/blumenthal.senate.gov",
+      "status": "verified",
+      "source": "https://www.blumenthal.senate.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -72,33 +72,59 @@
     {
       "city": {
         "value": "Hartford",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.blumenthal.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "90 State House Square, 10th Floor, Hartford, CT 06103",
+        "status": "verified",
+        "source": "https://www.blumenthal.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
         "value": "(860) 258-6940",
-        "status": "unverified",
-        "source": "",
-        "verified_date": ""
+        "status": "verified",
+        "source": "https://www.blumenthal.senate.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(860) 258-6958",
+        "status": "verified",
+        "source": "https://www.blumenthal.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Bridgeport",
+        "status": "verified",
+        "source": "https://www.blumenthal.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "915 Lafayette Boulevard, Suite 304, Bridgeport, CT 06604",
+        "status": "verified",
+        "source": "https://www.blumenthal.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(203) 330-0598",
+        "status": "verified",
+        "source": "https://www.blumenthal.senate.gov/contact",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(203) 330-0608",
+        "status": "verified",
+        "source": "https://www.blumenthal.senate.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:27:04.919976+00:00",
-    "last_updated": "2026-03-26T21:27:04.919996+00:00",
+    "last_updated": "2026-03-27T06:01:41.722875+00:00",
     "verification_notes": ""
   }
 }
