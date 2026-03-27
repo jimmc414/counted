@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4065",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://ansari.house.gov/contact/office-locations",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,40 +19,40 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://ansari.house.gov/contact/email-me",
+      "status": "verified",
+      "source": "https://ansari.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepYassAnsari",
+      "status": "verified",
+      "source": "https://x.com/RepYassAnsari",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/repyassansari",
+      "status": "verified",
+      "source": "https://www.facebook.com/repyassansari/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repyassansari",
+      "status": "verified",
+      "source": "https://www.instagram.com/repyassansari/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/repyassansari.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/repyassansari.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@RepYassAnsari",
+      "status": "verified",
+      "source": "https://www.youtube.com/@RepYassAnsari",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://yassaminforcongress.com",
+      "status": "verified",
+      "source": "https://en.wikipedia.org/wiki/Yassamin_Ansari",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Phoenix",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "3770 N 7th St, Suite 100b, Phoenix, AZ 85014",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(602) 956-2285",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:13.703118+00:00",
-    "last_updated": "2026-03-26T21:30:13.703132+00:00",
+    "last_updated": "2026-03-27T08:32:32.420390+00:00",
     "verification_notes": ""
   }
 }

@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T08:21:17.345052+00:00",
+  "last_updated": "2026-03-27T08:32:32.762432+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 24,
+      "verified_count": 34,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -822,8 +822,8 @@
           "name": "Yassamin Ansari",
           "file": "house/A000381.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "S001211": {
           "name": "Greg Stanton",
@@ -1354,8 +1354,8 @@
           "name": "Aaron Bean",
           "file": "house/B001314.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "R000609": {
           "name": "John H. Rutherford",
@@ -1410,8 +1410,8 @@
           "name": "Gus M. Bilirakis",
           "file": "house/B001257.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "L000596": {
           "name": "Anna Paulina Luna",
@@ -1767,8 +1767,8 @@
           "name": "Nikki Budzinski",
           "file": "house/B001315.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "U000040": {
           "name": "Lauren Underwood",
@@ -1823,8 +1823,8 @@
           "name": "James R. Baird",
           "file": "house/B001307.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "S000929": {
           "name": "Victoria Spartz",
@@ -2110,8 +2110,8 @@
           "name": "Jack Bergman",
           "file": "house/B001301.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001194": {
           "name": "John R. Moolenaar",
@@ -2299,8 +2299,8 @@
           "name": "Eric Burlison",
           "file": "house/B001316.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001195": {
           "name": "Jason Smith",
@@ -2880,15 +2880,15 @@
           "name": "Shontel M. Brown",
           "file": "house/B001313.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "B001306": {
           "name": "Troy Balderson",
           "file": "house/B001306.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "S001223": {
           "name": "Emilia Strong Sykes",
@@ -3629,8 +3629,8 @@
           "name": "Becca Balint",
           "file": "house/B001318.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "D000617": {
           "name": "Suzan K. DelBene",

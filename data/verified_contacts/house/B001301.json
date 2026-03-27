@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4735",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://bergman.house.gov/contact/officeinformation.htm",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-4710",
+      "status": "verified",
+      "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bergman.house.gov/forms/writeyourrep/",
+      "status": "verified",
+      "source": "https://bergman.house.gov/forms/writeyourrep/?Confirmation=true",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://twitter.com/RepJackBergman",
+      "status": "verified",
+      "source": "https://twitter.com/RepJackBergman",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepJackBergman",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepJackBergman/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repjackbergman/",
+      "status": "verified",
+      "source": "https://www.instagram.com/repjackbergman/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,95 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.bergmanforcongress.com/",
+      "status": "verified",
+      "source": "https://www.bergmanforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Traverse City",
+        "status": "verified",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "1396 Douglas Drive, Suite 22B, Traverse City, MI 49696",
+        "status": "verified",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(231) 944-7633",
+        "status": "verified",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Gwinn",
+        "status": "verified",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "125 G Avenue, Suite B-119, Gwinn, MI 49841",
+        "status": "verified",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(906) 273-2227",
+        "status": "verified",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Manistique",
+        "status": "verified",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "7676W County Road 442, Suite B, Manistique, MI 49854",
+        "status": "verified",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(906) 286-4191",
+        "status": "verified",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MI-H-1.htm",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.733293+00:00",
-    "last_updated": "2026-03-26T21:30:15.733321+00:00",
+    "last_updated": "2026-03-27T08:32:32.483040+00:00",
     "verification_notes": ""
   }
 }

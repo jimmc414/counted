@@ -8,45 +8,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4115",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://balint.house.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(771) 200-5791",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/27964",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://balint.house.gov/contact/",
+      "status": "verified",
+      "source": "https://balint.house.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepBeccaB",
+      "status": "verified",
+      "source": "https://x.com/RepBeccaB",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepBeccaB",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepBeccaB/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repbeccab",
+      "status": "verified",
+      "source": "https://www.instagram.com/repbeccab/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@balint.house.gov",
+      "status": "verified",
+      "source": "https://bsky.app/profile/balint.house.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Burlington",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "159 Bank St., Suite 204, Burlington, VT 05401",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(802) 652-2450",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(771) 200-5791",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:18.137990+00:00",
-    "last_updated": "2026-03-26T21:30:18.138009+00:00",
+    "last_updated": "2026-03-27T08:32:32.658662+00:00",
     "verification_notes": ""
   }
 }

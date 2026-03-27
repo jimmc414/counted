@@ -8,45 +8,45 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-7032",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://api.congress.gov/v3/member/B001313",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-1339",
+      "status": "verified",
+      "source": "https://www.areaagingsolutions.org/advocacy/elected-officials/congress/",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://shontelbrown.house.gov/address_authentication?form=/contact",
+      "status": "verified",
+      "source": "https://shontelbrown.house.gov/address_authentication?form=/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepShontelBrown",
+      "status": "verified",
+      "source": "https://x.com/RepShontelBrown",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepShontelBrown",
+      "status": "verified",
+      "source": "https://www.hrc.org/resources/yeo/us-house-oh11",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repshontel/",
+      "status": "verified",
+      "source": "https://www.instagram.com/repshontel/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/repshontelbrown.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/repshontelbrown.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -61,43 +61,69 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://shontelbrown.com",
+      "status": "verified",
+      "source": "https://shontelbrown.com",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Beachwood",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "25200 Chagrin Boulevard, Suite 200, Beachwood, OH 44122",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(216) 522-4900",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Akron",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1225 Lawton Street, Suite 3200, Akron, OH 44320",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(330) 835-4758",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.894365+00:00",
-    "last_updated": "2026-03-26T21:30:16.894381+00:00",
+    "last_updated": "2026-03-27T08:32:32.234741+00:00",
     "verification_notes": ""
   }
 }
