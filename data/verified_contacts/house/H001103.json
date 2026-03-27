@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2615",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://hernandez.house.gov/contact/offices/washington-dc-office (403; confirmed via web search and BillTrack50)",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,34 +19,34 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://hernandez.house.gov/address_authentication?form=/contact/email-me",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/29842",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepPabloJose",
+      "status": "verified",
+      "source": "https://x.com/RepPabloJose",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/p/Rep-Pablo-Jos%C3%A9-Hern%C3%A1ndez-Rivera-61569891687422/",
+      "status": "verified",
+      "source": "https://www.facebook.com/p/Rep-Pablo-Jos%C3%A9-Hern%C3%A1ndez-Rivera-61569891687422/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@reppablojose",
+      "status": "verified",
+      "source": "https://www.instagram.com/reppablojose/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@reppablojose.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/reppablojose.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://pablojosehr.com",
+      "status": "verified",
+      "source": "https://en.wikipedia.org/wiki/Pablo_Hern%C3%A1ndez_Rivera",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Caguas",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Centro de Bellas Artes, Calle Padial, esquina Calle Ruiz Belvis, Caguas, PR 00725",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(787) 230-7959",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.255202+00:00",
-    "last_updated": "2026-03-26T21:30:17.255223+00:00",
+    "last_updated": "2026-03-27T10:37:57.669808+00:00",
     "verification_notes": ""
   }
 }

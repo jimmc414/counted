@@ -8,15 +8,15 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-8699",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://msa.maryland.gov/msa/mdmanual/39fed/06ushse/html/msa14108.html",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-2848",
+      "status": "verified",
+      "source": "https://msa.maryland.gov/msa/mdmanual/39fed/06ushse/html/msa14108.html",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Landover",
+        "status": "verified",
+        "source": "https://ivey.house.gov/contact/offices/landover-district-office",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "4301 Garden City Drive, Suite 405, Landover, MD 20785",
+        "status": "verified",
+        "source": "https://ivey.house.gov/contact/offices/landover-district-office",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(240) 906-6262",
+        "status": "verified",
+        "source": "https://ivey.house.gov/contact/offices/landover-district-office",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://ivey.house.gov/contact/offices/landover-district-office",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:15.638519+00:00",
-    "last_updated": "2026-03-26T21:30:15.638555+00:00",
+    "last_updated": "2026-03-27T10:37:57.900098+00:00",
     "verification_notes": ""
   }
 }

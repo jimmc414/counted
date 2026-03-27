@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T10:27:22.008135+00:00",
+  "last_updated": "2026-03-27T10:37:57.956894+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 176,
+      "verified_count": 188,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -857,8 +857,8 @@
           "name": "Abraham J. Hamadeh",
           "file": "house/H001098.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "G000565": {
           "name": "Paul A. Gosar",
@@ -1193,8 +1193,8 @@
           "name": "Darrell Issa",
           "file": "house/I000056.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "L000593": {
           "name": "Mike Levin",
@@ -1242,8 +1242,8 @@
           "name": "Jeff Hurd",
           "file": "house/H001100.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B000825": {
           "name": "Lauren Boebert",
@@ -1382,8 +1382,8 @@
           "name": "Mike Haridopolos",
           "file": "house/H001099.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001200": {
           "name": "Darren Soto",
@@ -1648,8 +1648,8 @@
           "name": "Ashley Hinson",
           "file": "house/H001091.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "N000193": {
           "name": "Zachary Nunn",
@@ -2061,8 +2061,8 @@
           "name": "Glenn Ivey",
           "file": "house/I000058.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "H000874": {
           "name": "Steny H. Hoyer",
@@ -2411,8 +2411,8 @@
           "name": "Mark Harris",
           "file": "house/H001102.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "H001067": {
           "name": "Richard Hudson",
@@ -2425,8 +2425,8 @@
           "name": "Pat Harrigan",
           "file": "house/H001101.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "E000246": {
           "name": "Chuck Edwards",
@@ -2971,8 +2971,8 @@
           "name": "Val T. Hoyle",
           "file": "house/H001094.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "B001326": {
           "name": "Janelle S. Bynum",
@@ -3111,8 +3111,8 @@
           "name": "Pablo Jos\u00e9 Hern\u00e1ndez",
           "file": "house/H001103.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "A000380": {
           "name": "Gabe Amo",
@@ -3510,8 +3510,8 @@
           "name": "Wesley Hunt",
           "file": "house/H001095.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "M001213": {
           "name": "Blake D. Moore",
@@ -3776,8 +3776,8 @@
           "name": "Harriet M. Hageman",
           "file": "house/H001096.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         }
       }
     }
