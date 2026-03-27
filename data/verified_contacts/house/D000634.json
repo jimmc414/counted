@@ -8,96 +8,122 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3211",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://downing.house.gov/contact/offices/washington-dc-office; https://www.mtcounties.org/resources-data/montana-congressional-delegation/; https://montanafarmersunion.com/wp-content/uploads/2025/10/Montanas-Congressional-Delegation-Contact-Info.pdf; https://mt.gov/govt/congressional_delegation",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://downing.house.gov/contact; https://www.mtcounties.org/resources-data/montana-congressional-delegation/",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://downing.house.gov/contact",
+      "status": "verified",
+      "source": "https://downing.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepTroyDowning",
+      "status": "verified",
+      "source": "https://x.com/RepTroyDowning; https://ballotpedia.org/Troy_Downing",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "reptroydowning",
+      "status": "verified",
+      "source": "https://www.facebook.com/reptroydowning/; https://ballotpedia.org/Troy_Downing",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "reptroydowning",
+      "status": "verified",
+      "source": "https://www.instagram.com/reptroydowning/; https://ballotpedia.org/Troy_Downing",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepDowning",
+      "status": "verified",
+      "source": "https://www.youtube.com/@RepDowning; https://ballotpedia.org/Troy_Downing",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.troydowning.com",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Troy_Downing",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Billings",
+        "status": "verified",
+        "source": "https://downing.house.gov/contact/offices/billings-district-office",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "401 North 31st Street, Suite 770, Billings, MT 59101",
+        "status": "verified",
+        "source": "https://downing.house.gov/contact/offices/billings-district-office; https://x.com/RepTroyDowning/status/1906380340622422259",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(406) 413-6720",
+        "status": "verified",
+        "source": "https://downing.house.gov/contact/offices/billings-district-office; https://www.mtcounties.org/resources-data/montana-congressional-delegation/",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
-        "status": "placeholder",
+        "status": "not_found",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Helena",
+        "status": "verified",
+        "source": "https://downing.house.gov/contact/offices/helena-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "7 West 6th Avenue, Suite 3B, Helena, MT 59601",
+        "status": "verified",
+        "source": "https://downing.house.gov/contact/offices/helena-district-office; https://www.mtcounties.org/resources-data/montana-congressional-delegation/",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(406) 502-1435",
+        "status": "verified",
+        "source": "https://downing.house.gov/contact/offices/helena-district-office; https://www.mtcounties.org/resources-data/montana-congressional-delegation/",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "not_found",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.114127+00:00",
-    "last_updated": "2026-03-26T21:30:16.114143+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T10:00:00.000000+00:00",
+    "verification_notes": "Official site downing.house.gov returns 403; verified via web search cross-referencing mtcounties.org, mt.gov congressional delegation page, Montana Farmers Union PDF, Ballotpedia, and Rep. Downing's own X/Twitter post confirming Billings office address. DC office at 1529 Longworth HOB, phone (202) 225-3211 confirmed across 4 independent sources. User-provided DC phone (202) 225-1555 is INCORRECT -- no source associates that number with Downing. Two district offices confirmed: Billings and Helena. No Great Falls office found. No fax numbers published for any office. Party is Republican, not Democrat."
   }
 }

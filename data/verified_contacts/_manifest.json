@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T09:37:55.964462+00:00",
+  "last_updated": "2026-03-27T09:40:07.091999+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 108,
+      "verified_count": 110,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -2354,9 +2354,9 @@
         "D000634": {
           "name": "Troy Downing",
           "file": "house/D000634.json",
-          "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_with_data": 8,
+          "fields_verified": 10,
+          "status": "verified"
         },
         "D000230": {
           "name": "Donald G. Davis",
@@ -2964,8 +2964,8 @@
           "name": "Maxine Dexter",
           "file": "house/D000635.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "H001094": {
           "name": "Val T. Hoyle",

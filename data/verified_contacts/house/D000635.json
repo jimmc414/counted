@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4811",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/24807",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,40 +19,40 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://dexter.house.gov/contact/email-me",
+      "status": "verified",
+      "source": "https://dexter.house.gov/contact/email-me",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepDexterOR",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/375017/Maxine_Elizabeth_Dexter.html",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepDexterOR",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/375017/Maxine_Elizabeth_Dexter.html",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repdexteror/",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/375017/Maxine_Elizabeth_Dexter.html",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/repdexteror.bsky.social",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/375017/Maxine_Elizabeth_Dexter.html",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/@RepDexterOR",
+      "status": "verified",
+      "source": "https://www.legistorm.com/person/bio/375017/Maxine_Elizabeth_Dexter.html",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://maxinefororegon.com/",
+      "status": "verified",
+      "source": "https://maxinefororegon.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Portland",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "911 NE 11th Ave, Portland, OR 97232",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(503) 231-2300",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.018387+00:00",
-    "last_updated": "2026-03-26T21:30:17.018410+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T09:40:07.046338+00:00",
+    "verification_notes": "dexter.house.gov returned 403; verified via BillTrack50, LegiStorm, and web search. DC fax not publicly listed. No Hood River district office found."
   }
 }
