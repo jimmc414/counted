@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T09:09:31.898758+00:00",
+  "last_updated": "2026-03-27T09:18:33.453989+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 68,
+      "verified_count": 83,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -815,8 +815,8 @@
           "name": "Elijah Crane",
           "file": "house/C001132.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "A000381": {
           "name": "Yassamin Ansari",
@@ -843,8 +843,8 @@
           "name": "Juan Ciscomani",
           "file": "house/C001133.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 5,
+          "status": "verified"
         },
         "G000606": {
           "name": "Adelita S. Grijalva",
@@ -1004,8 +1004,8 @@
           "name": "Jim Costa",
           "file": "house/C001059.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "V000129": {
           "name": "David G. Valadao",
@@ -1074,8 +1074,8 @@
           "name": "Gilbert Ray Cisneros Jr.",
           "file": "house/C001123.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "S000344": {
           "name": "Brad Sherman",
@@ -1263,8 +1263,8 @@
           "name": "Jason Crow",
           "file": "house/C001121.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "P000620": {
           "name": "Brittany Pettersen",
@@ -1424,8 +1424,8 @@
           "name": "Kathy Castor",
           "file": "house/C001066.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "L000597": {
           "name": "Laurel M. Lee",
@@ -1466,8 +1466,8 @@
           "name": "Sheila Cherfilus-McCormick",
           "file": "house/C001127.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001199": {
           "name": "Brian J. Mast",
@@ -1592,8 +1592,8 @@
           "name": "Mike Collins",
           "file": "house/C001129.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "L000583": {
           "name": "Barry Loudermilk",
@@ -1942,8 +1942,8 @@
           "name": "Troy A. Carter",
           "file": "house/C001125.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "H001077": {
           "name": "Clay Higgins",
@@ -2208,8 +2208,8 @@
           "name": "Angie Craig",
           "file": "house/C001119.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "M001234": {
           "name": "Kelly Morrison",
@@ -2908,8 +2908,8 @@
           "name": "Mike Carey",
           "file": "house/C001126.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "H001082": {
           "name": "Kevin Hern",
@@ -3258,8 +3258,8 @@
           "name": "Dan Crenshaw",
           "file": "house/C001120.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "S001224": {
           "name": "Keith Self",
@@ -3454,8 +3454,8 @@
           "name": "Jasmine Crockett",
           "file": "house/C001130.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "C001051": {
           "name": "John R. Carter",
@@ -3489,8 +3489,8 @@
           "name": "Greg Casar",
           "file": "house/C001131.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "B001291": {
           "name": "Brian Babin",
@@ -3580,8 +3580,8 @@
           "name": "Ben Cline",
           "file": "house/C001118.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "V000138": {
           "name": "Eugene Simon Vindman",
