@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T11:21:26.822891+00:00",
+  "last_updated": "2026-03-27T11:30:51.485087+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 220,
+      "verified_count": 235,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -1109,8 +1109,8 @@
           "name": "Ted Lieu",
           "file": "house/L000582.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "K000400": {
           "name": "Sydney Kamlager-Dove",
@@ -1200,8 +1200,8 @@
           "name": "Mike Levin",
           "file": "house/L000593.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "P000608": {
           "name": "Scott H. Peters",
@@ -1417,8 +1417,8 @@
           "name": "Anna Paulina Luna",
           "file": "house/L000596.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "C001066": {
           "name": "Kathy Castor",
@@ -1431,8 +1431,8 @@
           "name": "Laurel M. Lee",
           "file": "house/L000597.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B001260": {
           "name": "Vern Buchanan",
@@ -1599,8 +1599,8 @@
           "name": "Barry Loudermilk",
           "file": "house/L000583.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "A000372": {
           "name": "Rick W. Allen",
@@ -1788,8 +1788,8 @@
           "name": "Darin LaHood",
           "file": "house/L000585.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "S001225": {
           "name": "Eric Sorensen",
@@ -1963,8 +1963,8 @@
           "name": "Julia Letlow",
           "file": "house/L000595.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "F000110": {
           "name": "Cleo Fields",
@@ -2026,8 +2026,8 @@
           "name": "Stephen F. Lynch",
           "file": "house/L000562.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "K000375": {
           "name": "William R. Keating",
@@ -2320,8 +2320,8 @@
           "name": "Trent Kelly",
           "file": "house/K000388.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "T000193": {
           "name": "Bennie G. Thompson",
@@ -2614,8 +2614,8 @@
           "name": "Susie Lee",
           "file": "house/L000590.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "H001066": {
           "name": "Steven Horsford",
@@ -2628,8 +2628,8 @@
           "name": "Nick LaLota",
           "file": "house/L000598.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "G000597": {
           "name": "Andrew R. Garbarino",
@@ -2740,8 +2740,8 @@
           "name": "Michael Lawler",
           "file": "house/L000599.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 1,
+          "status": "verified"
         },
         "R000579": {
           "name": "Patrick Ryan",
@@ -2838,8 +2838,8 @@
           "name": "Robert E. Latta",
           "file": "house/L000566.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "R000619": {
           "name": "Michael A. Rulli",
@@ -3552,8 +3552,8 @@
           "name": "Jennifer A. Kiggans",
           "file": "house/K000399.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "S000185": {
           "name": "Robert C. \"Bobby\" Scott",
@@ -3643,8 +3643,8 @@
           "name": "Rick Larsen",
           "file": "house/L000560.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "G000600": {
           "name": "Marie Gluesenkamp Perez",
