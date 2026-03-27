@@ -8,51 +8,51 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4324",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://beatty.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-1984",
+      "status": "verified",
+      "source": "https://beatty.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://beatty.house.gov/contact",
+      "status": "verified",
+      "source": "https://beatty.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://twitter.com/RepBeatty",
+      "status": "verified",
+      "source": "https://beatty.house.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "http://www.facebook.com/pages/Joyce-Beatty/656884781042633",
+      "status": "verified",
+      "source": "https://beatty.house.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "http://instagram.com/repbeatty",
+      "status": "verified",
+      "source": "https://beatty.house.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/repbeatty.bsky.social",
+      "status": "verified",
+      "source": "https://beatty.house.gov",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://youtube.com/RepBeatty",
+      "status": "verified",
+      "source": "https://beatty.house.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -70,34 +70,34 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Columbus",
+        "status": "verified",
+        "source": "https://beatty.house.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "471 East Broad Street, Suite 1100, Columbus, OH 43215",
+        "status": "verified",
+        "source": "https://beatty.house.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(614) 220-0003",
+        "status": "verified",
+        "source": "https://beatty.house.gov/contact",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(614) 220-5640",
+        "status": "verified",
+        "source": "https://beatty.house.gov/contact",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.825475+00:00",
-    "last_updated": "2026-03-26T21:30:16.825488+00:00",
+    "last_updated": "2026-03-27T08:18:17.874118+00:00",
     "verification_notes": ""
   }
 }

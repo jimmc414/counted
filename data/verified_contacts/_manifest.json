@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T08:02:26.949917+00:00",
+  "last_updated": "2026-03-27T08:21:17.345052+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 11,
+      "verified_count": 24,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -899,8 +899,8 @@
           "name": "Ami Bera",
           "file": "house/B001287.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "M001163": {
           "name": "Doris O. Matsui",
@@ -1039,8 +1039,8 @@
           "name": "Julia Brownley",
           "file": "house/B001285.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "W000830": {
           "name": "George Whitesides",
@@ -1248,9 +1248,9 @@
         "B000825": {
           "name": "Lauren Boebert",
           "file": "house/B000825.json",
-          "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_with_data": 10,
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001137": {
           "name": "Jeff Crank",
@@ -1438,8 +1438,8 @@
           "name": "Vern Buchanan",
           "file": "house/B001260.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001214": {
           "name": "W. Gregory Steube",
@@ -1606,8 +1606,8 @@
           "name": "Rick W. Allen",
           "file": "house/A000372.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001157": {
           "name": "David Scott",
@@ -1760,8 +1760,8 @@
           "name": "Mike Bost",
           "file": "house/B001295.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "B001315": {
           "name": "Nikki Budzinski",
@@ -1928,8 +1928,8 @@
           "name": "Andy Barr",
           "file": "house/B001282.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001176": {
           "name": "Steve Scalise",
@@ -2474,8 +2474,8 @@
           "name": "Don Bacon",
           "file": "house/B001298.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "S001172": {
           "name": "Adrian Smith",
@@ -2824,8 +2824,8 @@
           "name": "Joyce Beatty",
           "file": "house/B001281.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "J000289": {
           "name": "Jim Jordan",
@@ -2950,8 +2950,8 @@
           "name": "Suzanne Bonamici",
           "file": "house/B001278.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B000668": {
           "name": "Cliff Bentz",
@@ -2999,8 +2999,8 @@
           "name": "Brendan F. Boyle",
           "file": "house/B001296.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "E000296": {
           "name": "Dwight Evans",
@@ -3496,8 +3496,8 @@
           "name": "Brian Babin",
           "file": "house/B001291.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "D000399": {
           "name": "Lloyd Doggett",
@@ -3594,8 +3594,8 @@
           "name": "Donald S. Beyer Jr.",
           "file": "house/B001292.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 9,
+          "status": "verified"
         },
         "G000568": {
           "name": "H. Morgan Griffith",

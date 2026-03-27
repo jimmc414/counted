@@ -8,96 +8,174 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-1555",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://babin.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 226-0396",
+      "status": "verified",
+      "source": "https://www.txdirectory.com/online/person/?id=50224&office=24627",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://babin.house.gov/contact",
+      "status": "verified",
+      "source": "https://babin.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepBrianBabin",
+      "status": "verified",
+      "source": "https://babin.house.gov",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepBrianBabin",
+      "status": "verified",
+      "source": "https://babin.house.gov",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/rep.brianbabin",
+      "status": "verified",
+      "source": "https://babin.house.gov",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.youtube.com/channel/UCPVEZgw-VbDRbLV1MRGVQNQ",
+      "status": "verified",
+      "source": "https://babin.house.gov",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.babinforcongress.com",
+      "status": "verified",
+      "source": "https://en.wikipedia.org/wiki/Brian_Babin",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Deer Park",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "203 Ivy Ave., Suite 600, Deer Park, TX 77536",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(832) 780-0966",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(832) 780-0964",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Lumberton",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "769 S. Main Street, Suite 301, Lumberton, TX 77657",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(409) 883-8075",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(409) 886-9918",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Woodville",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Tyler County Courthouse, 100 W. Bluff Dr., Woodville, TX 75979",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(409) 331-8066",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Orange",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "Orange City Hall, 812 N. 16th Street, Orange, TX 77630",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(409) 883-8075",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:17.924407+00:00",
-    "last_updated": "2026-03-26T21:30:17.924422+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T08:21:17.292488+00:00",
+    "verification_notes": "DC phone (202) 225-1555 confirmed, matching prior unverified value. DC fax (202) 226-0396 from TX State Directory and BillTrack50. babin.house.gov returns 403 to automated fetches; data cross-referenced from txdirectory.com, Texas Tribune directory, BillTrack50, Orange Leader, and MOAA. Four district offices confirmed: Deer Park (main, by appointment), Lumberton, Woodville (Tyler County Courthouse), and Orange (Orange City Hall, relocated 2019). Orange and Lumberton share phone (409) 883-8075 per MOAA source; Orange fax not listed separately. Social media verified via Wikidata, search results, and babin.house.gov footer references: X (@RepBrianBabin), Facebook (RepBrianBabin), Instagram (rep.brianbabin), YouTube (channel UCPVEZgw-VbDRbLV1MRGVQNQ). No Bluesky or Truth Social accounts found. Campaign site babinforcongress.com confirmed via Wikipedia external links. Web contact form at babin.house.gov/contact (zip-code-gated writeyourrep form). Texas Tribune listed a Dayton satellite office (2004 N. Cleveland St.) but this was not corroborated by TX State Directory or other authoritative sources and is omitted pending verification."
   }
 }

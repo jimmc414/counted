@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4761",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://api.congress.gov/v3/member/B000825",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
+      "value": "https://boebert.house.gov/address_authentication?form=/contact",
+      "status": "verified",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepBoebert",
+      "status": "verified",
+      "source": "unitedstates/congress-legislators legislators-social-media.yaml",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepBoebert",
+      "status": "verified",
+      "source": "unitedstates/congress-legislators legislators-social-media.yaml",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repboebert",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Lauren_Boebert (official accounts section)",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -49,10 +49,10 @@
       "verified_date": ""
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepBoebert",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Lauren_Boebert (official accounts section)",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,69 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://laurenforcolorado.com",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Lauren_Boebert",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Castle Rock",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "900 Castleton Rd., Suite 112, Castle Rock, CO 80109",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(720) 639-9165",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Eaton",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "271 South Elm Ave., Suite 1A, Eaton, CO 80615",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(970) 702-2136",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.273399+00:00",
-    "last_updated": "2026-03-26T21:30:14.273420+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T08:18:17.950800+00:00",
+    "verification_notes": "boebert.house.gov returned 403 on all paths (/, /contact, /contact/offices, /sitemap.xml, /robots.txt). DC phone verified via Congress.gov API. District offices verified via unitedstates/congress-legislators (authoritative open-gov dataset). Social media verified via congress-legislators YAML and Ballotpedia. DC fax not found in any source. Web form URL uses standard house.gov pattern but could not be confirmed due to 403."
   }
 }
