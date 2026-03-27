@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2464",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://sengov.com/new-york/george-latimer/",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,34 +19,34 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://latimer.house.gov/contact",
+      "status": "verified",
+      "source": "https://latimer.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepGLatimer",
+      "status": "verified",
+      "source": "https://x.com/RepGLatimer",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepGLatimer",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepGLatimer/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repglatimer",
+      "status": "verified",
+      "source": "https://www.instagram.com/repglatimer/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repglatimer.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/repglatimer.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
@@ -70,34 +70,60 @@
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "White Plains",
+        "status": "verified",
+        "source": "https://latimer.house.gov/contact/offices/white-plains-district-office",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "222 Mamaroneck Ave, Suite 312, White Plains, NY 10605",
+        "status": "verified",
+        "source": "https://latimer.house.gov/contact/offices/white-plains-district-office",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(914) 323-5550",
+        "status": "verified",
+        "source": "https://latimer.house.gov/contact/offices/white-plains-district-office",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://latimer.house.gov/contact/offices/white-plains-district-office",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Bronx",
+        "status": "verified",
+        "source": "https://latimer.house.gov/contact/offices/bronx-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "177 Dreiser Loop, Room 3, Bronx, NY 10475",
+        "status": "verified",
+        "source": "https://latimer.house.gov/contact/offices/bronx-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(718) 530-7888",
+        "status": "verified",
+        "source": "https://latimer.house.gov/contact/offices/bronx-district-office",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "https://latimer.house.gov/contact/offices/bronx-district-office",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.684662+00:00",
-    "last_updated": "2026-03-26T21:30:16.684687+00:00",
+    "last_updated": "2026-03-27T11:40:19.600174+00:00",
     "verification_notes": ""
   }
 }

@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T11:30:51.485087+00:00",
+  "last_updated": "2026-03-27T11:40:20.092634+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 235,
+      "verified_count": 250,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -969,8 +969,8 @@
           "name": "Sam T. Liccardo",
           "file": "house/L000607.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "K000389": {
           "name": "Ro Khanna",
@@ -1865,8 +1865,8 @@
           "name": "Tracey Mann",
           "file": "house/M000871.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "S001228": {
           "name": "Derek Schmidt",
@@ -1983,9 +1983,9 @@
         "M000312": {
           "name": "James P. McGovern",
           "file": "house/M000312.json",
-          "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_with_data": 10,
+          "fields_verified": 7,
+          "status": "verified"
         },
         "T000482": {
           "name": "Lori Trahan",
@@ -2082,8 +2082,8 @@
           "name": "Kweisi Mfume",
           "file": "house/M000687.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "R000606": {
           "name": "Jamie Raskin",
@@ -2166,8 +2166,8 @@
           "name": "Lisa C. McClain",
           "file": "house/M001136.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "J000307": {
           "name": "John James",
@@ -2222,8 +2222,8 @@
           "name": "Betty McCollum",
           "file": "house/M001143.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "O000173": {
           "name": "Ilhan Omar",
@@ -2656,8 +2656,8 @@
           "name": "Gregory W. Meeks",
           "file": "house/M001137.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001188": {
           "name": "Grace Meng",
@@ -2698,8 +2698,8 @@
           "name": "Nicole Malliotakis",
           "file": "house/M000317.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 4,
+          "status": "verified"
         },
         "N000002": {
           "name": "Jerrold Nadler",
@@ -2733,8 +2733,8 @@
           "name": "George Latimer",
           "file": "house/L000606.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "L000599": {
           "name": "Michael Lawler",
@@ -2782,8 +2782,8 @@
           "name": "Nicholas A. Langworthy",
           "file": "house/L000600.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "T000478": {
           "name": "Claudia Tenney",
@@ -2810,8 +2810,8 @@
           "name": "Greg Landsman",
           "file": "house/L000601.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "T000490": {
           "name": "David J. Taylor",
@@ -3069,8 +3069,8 @@
           "name": "Summer L. Lee",
           "file": "house/L000602.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "J000302": {
           "name": "John Joyce",
@@ -3132,8 +3132,8 @@
           "name": "Nancy Mace",
           "file": "house/M000194.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 1,
+          "status": "verified"
         },
         "W000795": {
           "name": "Joe Wilson",
@@ -3300,8 +3300,8 @@
           "name": "Morgan Luttrell",
           "file": "house/L000603.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 2,
+          "status": "verified"
         },
         "G000553": {
           "name": "Al Green",
@@ -3314,8 +3314,8 @@
           "name": "Michael T. McCaul",
           "file": "house/M001157.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "P000048": {
           "name": "August Pfluger",
