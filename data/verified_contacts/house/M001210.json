@@ -8,96 +8,200 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3415",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.carteretcountync.gov/1166/State-Federal-Representatives",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "https://www.carteretcountync.gov/1166/State-Federal-Representatives",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://gregmurphyforms.house.gov/contact/email-me.htm",
+      "status": "verified",
+      "source": "https://gregmurphyforms.house.gov/contact/email-me.htm",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepGregMurphy",
+      "status": "verified",
+      "source": "https://x.com/RepGregMurphy",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepGregMurphy/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepGregMurphy/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repgregmurphy/",
+      "status": "verified",
+      "source": "https://www.instagram.com/repgregmurphy/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "WebSearch 2026-03-27",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "WebSearch 2026-03-27",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "status": "not_found",
+      "source": "WebSearch 2026-03-27",
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://murphy4congress.com/",
+      "status": "verified",
+      "source": "https://murphy4congress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Greenville",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "1105 Corporate Drive, Suite C, Greenville, NC 27858",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(252) 931-1003",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "New Bern",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "2402 Dr. MLK Jr. Blvd., New Bern, NC 28562",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(252) 636-6612",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Jacksonville",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "815 New Bridge St., Jacksonville, NC 28540",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(910) 937-6929",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Manteo",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "954 Marshall C. Collins Dr., Room 194, Manteo, NC 27954",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(252) 230-3549",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Beaufort",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "302 Courthouse Square, Beaufort, NC 28516",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(252) 499-0540",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.144985+00:00",
-    "last_updated": "2026-03-26T21:30:16.145000+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T11:48:19.184981+00:00",
+    "verification_notes": "Official site (murphy.house.gov) returns 403; verified via WebSearch cross-referencing carteretcountync.gov, billtrack50.com, and multiple search results. DC office at 407 Cannon HOB, Washington DC 20515. No Bluesky, YouTube, or Truth Social accounts found."
   }
 }

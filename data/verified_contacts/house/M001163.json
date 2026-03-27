@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-7163",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://matsui.house.gov/contact/offices/washington-dc-office",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-0566",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/15982",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://matsuiforms.house.gov/contact/",
+      "status": "verified",
+      "source": "https://matsuiforms.house.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/DorisMatsui",
+      "status": "verified",
+      "source": "https://x.com/DorisMatsui",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/doris.matsui",
+      "status": "verified",
+      "source": "https://www.facebook.com/doris.matsui/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repdorismatsui/",
+      "status": "verified",
+      "source": "https://www.instagram.com/repdorismatsui/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.matsuiforcongress.com/",
+      "status": "verified",
+      "source": "https://www.matsuiforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Sacramento",
+        "status": "verified",
+        "source": "https://matsui.house.gov/contact/offices/sacramento-district-office",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "501 I Street, Suite 12-600, Sacramento, CA 95814",
+        "status": "verified",
+        "source": "https://matsui.house.gov/contact/offices/sacramento-district-office",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(916) 498-5600",
+        "status": "verified",
+        "source": "https://matsui.house.gov/contact/offices/sacramento-district-office",
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "source": "https://matsui.house.gov/contact/offices/sacramento-district-office",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:13.815499+00:00",
-    "last_updated": "2026-03-26T21:30:13.815512+00:00",
+    "last_updated": "2026-03-27T11:48:18.878219+00:00",
     "verification_notes": ""
   }
 }
