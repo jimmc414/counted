@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T10:01:26.752446+00:00",
+  "last_updated": "2026-03-27T10:10:38.131625+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 134,
+      "verified_count": 148,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -731,8 +731,8 @@
           "name": "Shomari Figures",
           "file": "house/F000481.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "R000575": {
           "name": "Mike Rogers",
@@ -864,8 +864,8 @@
           "name": "Paul A. Gosar",
           "file": "house/G000565.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 4,
+          "status": "verified"
         },
         "H001068": {
           "name": "Jared Huffman",
@@ -913,8 +913,8 @@
           "name": "John Garamendi",
           "file": "house/G000559.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "H001090": {
           "name": "Josh Harder",
@@ -1067,8 +1067,8 @@
           "name": "Laura Friedman",
           "file": "house/F000483.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "C001123": {
           "name": "Gilbert Ray Cisneros Jr.",
@@ -1094,9 +1094,9 @@
         "G000585": {
           "name": "Jimmy Gomez",
           "file": "house/G000585.json",
-          "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_with_data": 7,
+          "fields_verified": 8,
+          "status": "verified"
         },
         "T000474": {
           "name": "Norma J. Torres",
@@ -1452,8 +1452,8 @@
           "name": "Scott Franklin",
           "file": "house/F000472.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "D000032": {
           "name": "Byron Donalds",
@@ -1704,8 +1704,8 @@
           "name": "Jes\u00fas G. \"Chuy\" Garc\u00eda",
           "file": "house/G000586.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "Q000023": {
           "name": "Mike Quigley",
@@ -1900,8 +1900,8 @@
           "name": "Brett Guthrie",
           "file": "house/G000558.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "M001220": {
           "name": "Morgan McGarvey",
@@ -2460,15 +2460,15 @@
           "name": "Julie Fedorchak",
           "file": "house/F000482.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 3,
+          "status": "verified"
         },
         "F000474": {
           "name": "Mike Flood",
           "file": "house/F000474.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "B001298": {
           "name": "Don Bacon",
@@ -3447,8 +3447,8 @@
           "name": "Sylvia R. Garcia",
           "file": "house/G000587.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001130": {
           "name": "Jasmine Crockett",
@@ -3482,8 +3482,8 @@
           "name": "Vicente Gonzalez",
           "file": "house/G000581.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001131": {
           "name": "Greg Casar",
@@ -3601,8 +3601,8 @@
           "name": "H. Morgan Griffith",
           "file": "house/G000568.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "S001230": {
           "name": "Suhas Subramanyam",
@@ -3741,8 +3741,8 @@
           "name": "Glenn Grothman",
           "file": "house/G000576.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "T000165": {
           "name": "Thomas P. Tiffany",

@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4806",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/28523",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-5686",
+      "status": "verified",
+      "source": "https://members.thecolumbuspage.com/list/member/congressman-mike-flood-2674",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://flood.house.gov/contact",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/28523",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@USRepMikeFlood",
+      "status": "verified",
+      "source": "https://x.com/USRepMikeFlood",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepMikeFlood",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepMikeFlood/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "usrepmikeflood",
+      "status": "verified",
+      "source": "https://www.instagram.com/usrepmikeflood/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://mikefloodfornebraska.com",
+      "status": "verified",
+      "source": "https://mikefloodfornebraska.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Lincoln",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "301 S. 13th St., Suite 100, Lincoln, NE 68508",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(402) 438-1598",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.265900+00:00",
-    "last_updated": "2026-03-26T21:30:16.265914+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T10:10:37.561516+00:00",
+    "verification_notes": "flood.house.gov returns 403; DC phone verified across billtrack50, sengov, legilist, thecolumbuspage. DC address is 343 Cannon HOB per House Clerk 119th Congress and billtrack50 (older sources show 1514 LHOB). DC fax from thecolumbuspage only - marked needs_review. Lincoln office confirmed by billtrack50. Norfolk has mobile office hours only, not a permanent office."
   }
 }

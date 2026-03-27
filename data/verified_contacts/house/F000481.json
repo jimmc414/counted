@@ -8,96 +8,122 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-4931",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/29648",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://figures.house.gov/contact",
+      "status": "verified",
+      "source": "https://figures.house.gov",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/repscfigures",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Shomari_Figures",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/repscfigures",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Shomari_Figures",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://instagram.com/repscfigures",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Shomari_Figures",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://bsky.app/profile/repscfigures.bsky.social",
+      "status": "verified",
+      "source": "https://bsky.app/profile/repscfigures.bsky.social",
+      "verified_date": "2026-03-27"
     },
     "youtube": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://youtube.com/@Rep.ShomariC.Figures",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Shomari_Figures",
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.figuresforcongress.com/",
+      "status": "verified",
+      "source": "https://ballotpedia.org/Shomari_Figures",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Mobile",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "107 St. Francis St., Unit 1930, Mobile, AL 36602",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(251) 283-6280",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Montgomery",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "150 Dexter Avenue, Montgomery, AL 36104",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(334) 777-5700",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:13.572156+00:00",
-    "last_updated": "2026-03-26T21:30:13.572177+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T10:10:37.760644+00:00",
+    "verification_notes": "Official site figures.house.gov returned 403 on all pages. DC phone (202) 225-4931 confirmed via BillTrack50 and multiple search results, matching prior unverified value. DC office is 225 Cannon HOB per clerk.house.gov 119th Congress listing and BillTrack50. Two district offices found: Mobile (107 St. Francis St., Unit 1930) with phone (251) 283-6280 per BillTrack50, and Montgomery (150 Dexter Avenue) with phone (334) 777-5700 per search results referencing figures.house.gov/contact/offices/montgomery. SenGov.com listed a different Mobile address (P.O. Box 40910, 907 Spring Hill Ave.) which may be outdated; BillTrack50 address used as more current. Social media verified via Ballotpedia: X (@repscfigures), Facebook, Instagram, YouTube. Bluesky account @repscfigures.bsky.social confirmed active. No Truth Social account found. No DC fax or district fax numbers found in available sources. Campaign site figuresforcongress.com confirmed active."
   }
 }

@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-2476",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://grothman.house.gov/contact/officeinformation.htm",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-2356",
+      "status": "verified",
+      "source": "https://grothman.house.gov/contact/officeinformation.htm",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://grothman.house.gov/contact",
+      "status": "verified",
+      "source": "https://grothman.house.gov/contact",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepGrothman",
+      "status": "verified",
+      "source": "https://grothman.house.gov/contact/officeinformation.htm",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/REPGROTHMAN",
+      "status": "verified",
+      "source": "https://grothman.house.gov/contact/officeinformation.htm",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@repglenngrothman",
+      "status": "verified",
+      "source": "https://grothman.house.gov/contact/officeinformation.htm",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://glenngrothman.com/",
+      "status": "verified",
+      "source": "https://glenngrothman.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Fond du Lac",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "400 University Drive, Suite D3, Fond du Lac, WI 54935",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(920) 907-0624",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(920) 907-0763",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:18.305516+00:00",
-    "last_updated": "2026-03-26T21:30:18.305537+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T10:10:37.631339+00:00",
+    "verification_notes": "house.gov /contact returned 403; verified via curl of officeinformation.htm HTML meta tags and page body, cross-referenced with BillTrack50 and Sheboygan Chamber listing"
   }
 }

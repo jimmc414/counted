@@ -8,9 +8,9 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-6235",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://clerk.house.gov/members/G000585",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
@@ -19,28 +19,28 @@
       "verified_date": ""
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://gomez.house.gov/contact/",
+      "status": "verified",
+      "source": "https://sengov.com/california/gomez-jimmy/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepJimmyGomez",
+      "status": "verified",
+      "source": "https://x.com/repjimmygomez",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "RepJimmyGomez",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepJimmyGomez/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "repjimmygomez",
+      "status": "verified",
+      "source": "https://www.instagram.com/repjimmygomez/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,43 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://jimmygomezforcongress.com",
+      "status": "verified",
+      "source": "https://jimmygomezforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Los Angeles",
+        "status": "verified",
+        "source": "https://www.vica.com/list/member/office-of-congressmember-jimmy-gomez-10105",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "350 S. Bixel Street, #120, Los Angeles, CA 90017",
+        "status": "verified",
+        "source": "https://www.vica.com/list/member/office-of-congressmember-jimmy-gomez-10105",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(213) 481-1425",
+        "status": "verified",
+        "source": "https://www.vica.com/list/member/office-of-congressmember-jimmy-gomez-10105",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(213) 481-1427",
+        "status": "verified",
+        "source": "https://www.vica.com/list/member/office-of-congressmember-jimmy-gomez-10105",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:14.055579+00:00",
-    "last_updated": "2026-03-26T21:30:14.055598+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T00:00:00.000000+00:00",
+    "verification_notes": "Official site gomez.house.gov/contact returned 403. DC phone (202) 225-6235 confirmed across clerk.house.gov, billtrack50, sengov.com, contactgovernors.com, and whoismyrepresentative.com. DC address is 506 Cannon HOB per clerk.house.gov (119th Congress); some older sources show 1530 Longworth (previous congress). District office at 350 S. Bixel St #120, Los Angeles confirmed via VICA directory and BillTrack50. District phone (213) 481-1425 and fax (213) 481-1427 confirmed via VICA and web search results. Note: dc_fax marked needs_review because the (213) 481-1427 fax listed in some sources appears to be the district office fax, not a DC fax; no separate DC fax number found. Twitter @RepJimmyGomez, Facebook RepJimmyGomez, Instagram @repjimmygomez all confirmed via direct social media profiles. Campaign site jimmygomezforcongress.com confirmed. No YouTube channel or Bluesky found."
   }
 }

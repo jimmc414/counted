@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-3861",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://morgangriffith.house.gov/contact/washingtonoffice.htm",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "(202) 225-0076",
+      "status": "verified",
+      "source": "https://www.billtrack50.com/legislatordetail/15874",
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://morgangriffith.house.gov/contact/contactform.htm",
+      "status": "verified",
+      "source": "https://morgangriffith.house.gov/contact/contactform.htm",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@RepMGriffith",
+      "status": "verified",
+      "source": "https://x.com/RepMGriffith",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepMorganGriffith/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepMorganGriffith/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "@hmorgangriffith",
+      "status": "verified",
+      "source": "https://www.instagram.com/hmorgangriffith/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -61,43 +61,69 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.morgangriffithforcongress.com/",
+      "status": "verified",
+      "source": "https://www.morgangriffithforcongress.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "Christiansburg",
+        "status": "verified",
+        "source": "https://morgangriffith.house.gov/contact/christiansburgoffice.htm",
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "17 West Main Street, Christiansburg, VA 24073",
+        "status": "verified",
+        "source": "https://morgangriffith.house.gov/contact/christiansburgoffice.htm",
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(540) 381-5671",
+        "status": "verified",
+        "source": "https://morgangriffith.house.gov/contact/christiansburgoffice.htm",
+        "verified_date": "2026-03-27"
       },
       "fax": {
-        "value": "",
-        "status": "placeholder",
-        "source": "",
-        "verified_date": ""
+        "value": "(540) 381-5675",
+        "status": "verified",
+        "source": "https://morgangriffith.house.gov/contact/christiansburgoffice.htm",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Abingdon",
+        "status": "verified",
+        "source": "https://morgangriffith.house.gov/contact/abingdonoffice.htm",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "323 West Main Street, Abingdon, VA 24210",
+        "status": "verified",
+        "source": "https://morgangriffith.house.gov/contact/abingdonoffice.htm",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(276) 525-1405",
+        "status": "verified",
+        "source": "https://morgangriffith.house.gov/contact/abingdonoffice.htm",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "(276) 525-1444",
+        "status": "verified",
+        "source": "https://morgangriffith.house.gov/contact/abingdonoffice.htm",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:18.096483+00:00",
-    "last_updated": "2026-03-26T21:30:18.096503+00:00",
+    "last_updated": "2026-03-27T10:10:37.916968+00:00",
     "verification_notes": ""
   }
 }
