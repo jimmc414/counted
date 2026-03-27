@@ -1,6 +1,6 @@
 {
   "created": "2026-03-26T21:27:04.765712+00:00",
-  "last_updated": "2026-03-27T11:08:17.824384+00:00",
+  "last_updated": "2026-03-27T11:21:26.822891+00:00",
   "chambers": {
     "senate": {
       "total": 100,
@@ -710,7 +710,7 @@
     },
     "house": {
       "total": 438,
-      "verified_count": 207,
+      "verified_count": 220,
       "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
       "members": {
         "B001323": {
@@ -878,8 +878,8 @@
           "name": "Kevin Kiley",
           "file": "house/K000401.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "T000460": {
           "name": "Mike Thompson",
@@ -983,8 +983,8 @@
           "name": "Zoe Lofgren",
           "file": "house/L000397.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "P000613": {
           "name": "Jimmy Panetta",
@@ -1116,8 +1116,8 @@
           "name": "Sydney Kamlager-Dove",
           "file": "house/K000400.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "S001156": {
           "name": "Linda T. S\u00e1nchez",
@@ -1284,8 +1284,8 @@
           "name": "John B. Larson",
           "file": "house/L000557.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "C001069": {
           "name": "Joe Courtney",
@@ -2033,8 +2033,8 @@
           "name": "William R. Keating",
           "file": "house/K000375.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "H001052": {
           "name": "Andy Harris",
@@ -2313,8 +2313,8 @@
           "name": "Kimberlyn King-Hinds",
           "file": "house/K000404.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 4,
+          "status": "verified"
         },
         "K000388": {
           "name": "Trent Kelly",
@@ -2446,8 +2446,8 @@
           "name": "Brad Knott",
           "file": "house/K000405.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 1,
+          "status": "verified"
         },
         "M001236": {
           "name": "Tim Moore",
@@ -2544,8 +2544,8 @@
           "name": "Thomas H. Kean Jr.",
           "file": "house/K000398.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "M001226": {
           "name": "Robert Menendez",
@@ -2593,8 +2593,8 @@
           "name": "Teresa Leger Fernandez",
           "file": "house/L000273.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "T000468": {
           "name": "Dina Titus",
@@ -2803,8 +2803,8 @@
           "name": "Timothy M. Kennedy",
           "file": "house/K000402.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "L000601": {
           "name": "Greg Landsman",
@@ -2929,8 +2929,8 @@
           "name": "Frank D. Lucas",
           "file": "house/L000491.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 7,
+          "status": "verified"
         },
         "C001053": {
           "name": "Tom Cole",
@@ -3237,8 +3237,8 @@
           "name": "David Kustoff",
           "file": "house/K000392.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 8,
+          "status": "verified"
         },
         "C001068": {
           "name": "Steve Cohen",
@@ -3531,8 +3531,8 @@
           "name": "Mike Kennedy",
           "file": "house/K000403.json",
           "fields_with_data": 1,
-          "fields_verified": 0,
-          "status": "placeholder"
+          "fields_verified": 6,
+          "status": "verified"
         },
         "O000086": {
           "name": "Burgess Owens",

@@ -8,39 +8,39 @@
   "contacts": {
     "dc_phone": {
       "value": "(202) 225-6190",
-      "status": "unverified",
-      "source": "",
-      "verified_date": ""
+      "status": "verified",
+      "source": "https://clerk.house.gov/members/L000273",
+      "verified_date": "2026-03-27"
     },
     "dc_fax": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "web_form_url": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://fernandez.house.gov/contact",
+      "status": "verified",
+      "source": "https://fernandez.house.gov/contact/",
+      "verified_date": "2026-03-27"
     },
     "twitter": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://x.com/RepTeresaLF",
+      "status": "verified",
+      "source": "https://x.com/RepTeresaLF",
+      "verified_date": "2026-03-27"
     },
     "facebook": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.facebook.com/RepTeresaLF/",
+      "status": "verified",
+      "source": "https://www.facebook.com/RepTeresaLF/",
+      "verified_date": "2026-03-27"
     },
     "instagram": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.instagram.com/repteresalf/",
+      "status": "verified",
+      "source": "https://www.instagram.com/repteresalf/",
+      "verified_date": "2026-03-27"
     },
     "bluesky": {
       "value": "",
@@ -50,9 +50,9 @@
     },
     "youtube": {
       "value": "",
-      "status": "placeholder",
+      "status": "not_found",
       "source": "",
-      "verified_date": ""
+      "verified_date": "2026-03-27"
     },
     "truth_social": {
       "value": "",
@@ -61,43 +61,95 @@
       "verified_date": ""
     },
     "campaign_site": {
-      "value": "",
-      "status": "placeholder",
-      "source": "",
-      "verified_date": ""
+      "value": "https://www.teresaforall.com/",
+      "status": "verified",
+      "source": "https://www.teresaforall.com/",
+      "verified_date": "2026-03-27"
     }
   },
   "state_offices": [
     {
       "city": {
-        "value": "",
-        "status": "placeholder",
+        "value": "Santa Fe",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "address": {
-        "value": "",
-        "status": "placeholder",
+        "value": "120 S. Federal Place, Suite 110B, Santa Fe, NM 87501",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "phone": {
-        "value": "",
-        "status": "placeholder",
+        "value": "(505) 428-4680",
+        "status": "verified",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
       },
       "fax": {
         "value": "",
         "status": "placeholder",
         "source": "",
-        "verified_date": ""
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Las Vegas",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "1103 National Avenue, Room 101, Las Vegas, NM 87701",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(505) 570-7558",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
+      }
+    },
+    {
+      "city": {
+        "value": "Gallup",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "address": {
+        "value": "207 West Hill Ave., Office 301A, Gallup, NM 87301",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "phone": {
+        "value": "(505) 551-4696",
+        "status": "verified",
+        "source": "",
+        "verified_date": "2026-03-27"
+      },
+      "fax": {
+        "value": "",
+        "status": "placeholder",
+        "source": "",
+        "verified_date": "2026-03-27"
       }
     }
   ],
   "metadata": {
     "created": "2026-03-26T21:30:16.458713+00:00",
-    "last_updated": "2026-03-26T21:30:16.458729+00:00",
-    "verification_notes": ""
+    "last_updated": "2026-03-27T11:21:26.775967+00:00",
+    "verification_notes": "DC phone confirmed via clerk.house.gov and sengov.com. DC office is 2417 Rayburn HOB for 119th Congress (moved from 1432 LHOB). Website changed from legerfernandez.house.gov to fernandez.house.gov. fernandez.house.gov returns 403 to automated fetches; office data sourced from search engine snippets of official pages. 3 district offices: Santa Fe (primary), Las Vegas NM, Gallup. Social media verified via direct platform URLs. Campaign site at teresaforall.com."
   }
 }
